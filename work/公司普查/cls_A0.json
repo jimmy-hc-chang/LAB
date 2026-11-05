@@ -1,0 +1,433 @@
+{
+ "1707": {
+  "level": "已實施",
+  "basis": "年報與永續報告書寫明已應用/導入AI工具與AI技術",
+  "quotes": [
+   {
+    "text": "並應用原料與市場數據 AI 工具，提升提案效率、決策品質與跨部門協作效能",
+    "src": "年報",
+    "url": "https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/q90rprvpl2kV/%E8%91%A1%E8%90%84%E7%8E%8B_114%E5%B9%B4%E4%B8%AD%E6%96%87%E5%B9%B4%E5%A0%B1.pdf",
+    "page": "PDF第154頁"
+   },
+   {
+    "text": "並導入AI技術應用 促進跨部門智慧協作，逐步提升整體作業效能",
+    "src": "永續報告書",
+    "url": "https://www.grapeking.com.tw/csr/interactive/report/file/n4mK7KlpNw0e/2025_ESG%20report_CH_0624.pdf",
+    "page": "PDF第76頁"
+   }
+  ],
+  "ri_topics": "資訊安全；客戶隱私；利害關係人溝通",
+  "ri_quote": {
+   "text": "資訊安全與客戶隱私保護已然成為公司管理重點，除公司內部資訊安全，同時保障客戶隱私權利",
+   "src": "永續報告書",
+   "url": "https://www.grapeking.com.tw/csr/interactive/report/file/n4mK7KlpNw0e/2025_ESG%20report_CH_0624.pdf",
+   "page": "PDF第23頁"
+  }
+ },
+ "1734": {
+  "level": "規劃中",
+  "basis": "年報述推動AI工具應用與生產數據AI分析導入，屬發展計畫",
+  "quotes": [
+   {
+    "text": "推動 AI 工具應用及智能系統導入，確認生產條件符合標準，避免人為疏失，提高生產效率",
+    "src": "年報",
+    "url": "http://www.sinphar.com/_upload/images/2606121325370.pdf",
+    "page": "PDF第9頁"
+   },
+   {
+    "text": "藉由 AI 工具分析，決策、調整最佳化生產參數、生產管理",
+    "src": "年報",
+    "url": "http://www.sinphar.com/_upload/images/2606121325370.pdf",
+    "page": "PDF第70頁"
+   }
+  ],
+  "ri_topics": "個人資料；資訊安全；客戶隱私",
+  "ri_quote": {
+   "text": "以確保個人資料的安全性及保密性",
+   "src": "永續報告書",
+   "url": "http://www.sinphar.com/_upload/files/2025%E5%B9%B4%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8(%E4%B8%AD)%E6%9D%8F%E8%BC%9D1734.pdf",
+   "page": "PDF第74頁"
+  }
+ },
+ "4108": {
+  "level": "只是談論",
+  "basis": "僅見稽核人員AI相關進修課程，無公司自身AI應用",
+  "quotes": [
+   {
+    "text": "內稽人員必懂的生成式 AI 與 AI 數據保護",
+    "src": "年報",
+    "url": "http://www.phytohealth.com.tw/uploads/images/_files/06_ir/08_SHM_Info/2026/懷特114年報0519_上傳版.pdf",
+    "page": "PDF第59頁"
+   }
+  ],
+  "ri_topics": "個人資料保護；倫理；IRB；病友衛教",
+  "ri_quote": {
+   "text": "人體臨床試驗都需要獲得參與醫院的「人體臨床試驗倫理委員會」(IRB)和衛生署審查通過",
+   "src": "年報",
+   "url": "http://www.phytohealth.com.tw/uploads/images/_files/06_ir/08_SHM_Info/2026/懷特114年報0519_上傳版.pdf",
+   "page": "PDF第50頁"
+  }
+ },
+ "4148": {
+  "level": "規劃中",
+  "basis": "永續報告書稱持續評估導入AI系統於生產規劃與實驗設計",
+  "quotes": [
+   {
+    "text": "evaluate the implementation of production automation and AI-powered systems",
+    "src": "永續報告書",
+    "url": "http://www.allcosmos.com/images/0_cosmos/component_pdf/415035全宇_2025年永續報告書英文版全章節_v1.2_20260910_final.pdf",
+    "page": "PDF第63頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4164": {
+  "level": "已實施",
+  "basis": "代理並販售AI人工智慧影像分析處理系統，官網稱導入搭載AI之設備",
+  "quotes": [
+   {
+    "text": "AI 人工智慧影像分析處理系統",
+    "src": "年報",
+    "url": "https://www.chcg.com/wp-content/uploads/2026/05/承業-114年年報20260515.pdf",
+    "page": "PDF第75頁"
+   },
+   {
+    "text": "全方位導入最新搭載AI功能之各高階醫療設備",
+    "src": "官網",
+    "url": "https://www.chcg.com/news/focus/taoyuan-youthcan-mou/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "個人資料保護；資訊安全；倫理；利害關係人溝通",
+  "ri_quote": {
+   "text": "對產品與服務負責並重視行銷倫理，遵循相關法規與國際準則之規範",
+   "src": "永續報告書",
+   "url": "https://www.chcg.com/wp-content/uploads/2026/08/承業生醫企業集團2025年度永續報告書-BOD版-Final-0723.pdf",
+   "page": "PDF第21頁"
+  }
+ },
+ "6472": {
+  "level": "只是談論",
+  "basis": "官網僅稱評估AI相關商機，無具體計畫",
+  "quotes": [
+   {
+    "text": "further evaluating AI-related business opportunities and geopolitical risks",
+    "src": "官網",
+    "url": "https://bora-corp.com/bora-pharmaceuticals-completes-board-re-election-strengthened-independence-and-diversity-to-support-ai-and-geopolitical-risk-oversight/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6541": {
+  "level": "無",
+  "basis": "AI僅出現於產業鏈總體描述與董事經歷，與公司自身無關",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6861": {
+  "level": "已實施",
+  "basis": "自行開發獸醫用AI軟體並整合於VET XRESTA產品",
+  "quotes": [
+   {
+    "text": "獸醫用AI已整合至VET XRESTA中，使醫師能夠直接在熟悉的操作環境中使用",
+    "src": "年報",
+    "url": "https://www.innocare-x.com/wp-content/uploads/2026/05/20260513155232_0_b609c2.pdf",
+    "page": "PDF第77頁"
+   },
+   {
+    "text": "並且此AI由本公司自主開發",
+    "src": "年報",
+    "url": "https://www.innocare-x.com/wp-content/uploads/2026/05/20260513155232_0_b609c2.pdf",
+    "page": "PDF第77頁"
+   }
+  ],
+  "ri_topics": "個資保護；客戶隱私；利害關係人溝通",
+  "ri_quote": {
+   "text": "針對反貪腐、個資保護、營業秘密保護、反托拉斯及防範內線交易等重要議題之課程完訓率達97.79%",
+   "src": "永續報告書",
+   "url": "https://www.innocare-x.com/wp-content/uploads/2026/08/20260812093459_0_8bf6ed.pdf",
+   "page": "PDF第18頁"
+  }
+ },
+ "6885": {
+  "level": "已實施",
+  "basis": "官網稱BRM521已結合AI技術篩選優化胜肽",
+  "quotes": [
+   {
+    "text": "BRM521已透過結合AI技術加速篩選出5個優化新胜肽",
+    "src": "官網",
+    "url": "https://www.brimbiotech.com/archives/product/brm521",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "受試者招募",
+  "ri_quote": {
+   "text": "正持續積極進行受試者招募與篩選",
+   "src": "年報",
+   "url": "https://www.brimbiotech.com/wp-content/uploads/ir_annual_2025.pdf",
+   "page": "PDF第6頁"
+  }
+ },
+ "6936": {
+  "level": "規劃中",
+  "basis": "年報營業報告列「開發智慧AI產品」為方針",
+  "quotes": [
+   {
+    "text": "開發智慧AI產品，落實精準用藥，預防醫療",
+    "src": "年報",
+    "url": "https://www.vetnostrum.com/uploads/images/2025公司年報.pdf",
+    "page": "PDF第5頁"
+   }
+  ],
+  "ri_topics": "客戶隱私",
+  "ri_quote": {
+   "text": "未接獲有侵犯客戶隱私之情事發生",
+   "src": "永續報告書",
+   "url": "https://www.vetnostrum.com/uploads/files/%E6%B0%B8%E9%B4%BB2025%E5%B9%B4%E5%BA%A6%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8(1).pdf",
+   "page": "PDF第6頁"
+  }
+ },
+ "6955": {
+  "level": "已實施",
+  "basis": "主力產品X3 PRO及X12 PRO搭載自行開發AI演算法",
+  "quotes": [
+   {
+    "text": "X3 PRO 及 X12 PRO 搭載本公司自行開發的第二代人工智能AI 演算法",
+    "src": "年報",
+    "url": "https://www.bonraybio.com/UserFiles/Files/邦睿生技114年報_CN(上傳官網).pdf",
+    "page": "PDF第6頁"
+   },
+   {
+    "text": "精子人工智能 AI 演算法技術",
+    "src": "年報",
+    "url": "https://www.bonraybio.com/UserFiles/Files/邦睿生技114年報_CN(上傳官網).pdf",
+    "page": "PDF第76頁"
+   }
+  ],
+  "ri_topics": "隱私；個人資料保護",
+  "ri_quote": {
+   "text": "本公司極其注重隱私權",
+   "src": "年報",
+   "url": "https://www.bonraybio.com/UserFiles/Files/邦睿生技114年報_CN(上傳官網).pdf",
+   "page": "PDF第44頁"
+  }
+ },
+ "4162": {
+  "level": "已實施",
+  "basis": "年報稱使用AI與CADD技術於新藥探索試驗",
+  "quotes": [
+   {
+    "text": "使用AI技術投入探索性試驗，以期相對精確地找到藥物標的",
+    "src": "年報",
+    "url": "https://www.pharmaengine.com/./uploads/tw/Investors_4/202605058472.pdf",
+    "page": "PDF第63頁"
+   },
+   {
+    "text": "結合人工智慧(AI)與電腦輔助(CADD)藥物設計技術",
+    "src": "年報",
+    "url": "https://www.pharmaengine.com/./uploads/tw/Investors_4/202605058472.pdf",
+    "page": "PDF第5頁"
+   }
+  ],
+  "ri_topics": "受試者保護；倫理；個人資料保護",
+  "ri_quote": {
+   "text": "受試者若因參與試驗遭受身體損害，將依保險契約規定予以補償，以保障其權益",
+   "src": "年報",
+   "url": "https://www.pharmaengine.com/./uploads/tw/Investors_4/202605058472.pdf",
+   "page": "PDF第47頁"
+  }
+ },
+ "4174": {
+  "level": "已實施",
+  "basis": "年報稱積極將AI用於日常營運與新藥開發並已採用AI技術",
+  "quotes": [
+   {
+    "text": "actively incorporating artificial intelligence, or AI, into its dailyoperations",
+    "src": "年報",
+    "url": "https://s3.ap-northeast-1.amazonaws.com/obipharma.com/live/wp-content/uploads/2026/06/%E8%AD%AF%E6%96%87R1114%E5%8F%B0%E7%81%A3%E6%B5%A9%E9%BC%8E%E5%B9%B4%E5%A0%B1.pdf",
+    "page": "PDF第4頁"
+   },
+   {
+    "text": "proactively adopted artificial intelligence (AI) technology",
+    "src": "年報",
+    "url": "https://s3.ap-northeast-1.amazonaws.com/obipharma.com/live/wp-content/uploads/2026/06/%E8%AD%AF%E6%96%87R1114%E5%8F%B0%E7%81%A3%E6%B5%A9%E9%BC%8E%E5%B9%B4%E5%A0%B1.pdf",
+    "page": "PDF第159頁"
+   }
+  ],
+  "ri_topics": "IRB",
+  "ri_quote": {
+   "text": "after passing the review by Institutional ReviewBoard (IRB)",
+   "src": "年報",
+   "url": "https://s3.ap-northeast-1.amazonaws.com/obipharma.com/live/wp-content/uploads/2026/06/%E8%AD%AF%E6%96%87R1114%E5%8F%B0%E7%81%A3%E6%B5%A9%E9%BC%8E%E5%B9%B4%E5%A0%B1.pdf",
+   "page": "PDF第120頁"
+  }
+ },
+ "4744": {
+  "level": "已實施",
+  "basis": "軟膠機產品採用AI智能技術",
+  "quotes": [
+   {
+    "text": "本機採用全伺服控制運用 AI 智能技術、高速模具穩定運轉確保高產能與高品質",
+    "src": "年報",
+    "url": "https://www.cvctechnologies.com.tw/images/download/annual_reports/2025-annual-reports.pdf",
+    "page": "PDF第67頁"
+   }
+  ],
+  "ri_topics": "個人資料保護",
+  "ri_quote": {
+   "text": "公司制定個人資料保護",
+   "src": "年報",
+   "url": "https://www.cvctechnologies.com.tw/images/download/annual_reports/2025-annual-reports.pdf",
+   "page": "PDF第30頁"
+  }
+ },
+ "4905": {
+  "level": "已實施",
+  "basis": "官網解決方案含AI車牌辨識與結合AI之VoIP方案",
+  "quotes": [
+   {
+    "text": "透過智慧停車柱、AI 車牌辨識",
+    "src": "官網",
+    "url": "http://www.tainet.com.tw",
+    "page": "官網"
+   },
+   {
+    "text": "結合 AI 打造新世代 VoIP 智慧運營模式",
+    "src": "官網",
+    "url": "http://www.tainet.com.tw",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "個資隱私保護",
+  "ri_quote": {
+   "text": "反貪腐、反賄賂及個資隱私保護為核心精神",
+   "src": "年報",
+   "url": "https://www.tainet.com.tw/wp-content/uploads/1150612%E5%8F%B0%E8%81%AF%E5%B9%B4%E5%A0%B1.pdf",
+   "page": "PDF第42頁"
+  }
+ },
+ "6712": {
+  "level": "只是談論",
+  "basis": "僅董事簡歷提及AI與生技醫學願景",
+  "quotes": [
+   {
+    "text": "藉由 AI人工智慧與生技醫學的突破，致力於提升大健康領域的新興需求",
+    "src": "年報",
+    "url": "https://www.ever-supreme.com.tw/upload/f20260420142619ccw4b1.pdf",
+    "page": "PDF第13頁"
+   }
+  ],
+  "ri_topics": "受試者安全監測",
+  "ri_quote": {
+   "text": "經資料安全監測委員會",
+   "src": "年報",
+   "url": "https://www.ever-supreme.com.tw/upload/f20260420142619ccw4b1.pdf",
+   "page": "PDF第87頁"
+  }
+ },
+ "6872": {
+  "level": "只是談論",
+  "basis": "僅董事AI進修課程與產業趨勢描述",
+  "quotes": [
+   {
+    "text": "2026 董監事 AI 大講堂",
+    "src": "年報",
+    "url": "https://navifus.com/wp-content/uploads/2026/08/115年股東會年報.pdf",
+    "page": "PDF第52頁"
+   }
+  ],
+  "ri_topics": "客戶隱私",
+  "ri_quote": {
+   "text": "對客戶之隱私均遵守保密協",
+   "src": "年報",
+   "url": "https://navifus.com/wp-content/uploads/2026/08/115年股東會年報.pdf",
+   "page": "PDF第41頁"
+  }
+ },
+ "6986": {
+  "level": "已實施",
+  "basis": "自行研發StemPro II系統並稱用AI概念標準化實驗室流程",
+  "quotes": [
+   {
+    "text": "透過自行研發設計的「細胞治療產品全製程管理系統(StemPro II)」，利用 AI 概念讓實驗室流程標準化",
+    "src": "年報",
+    "url": "https://www.hexunbio.com/wp-content/uploads/2026/07/2025年度年報.pdf",
+    "page": "PDF第76頁"
+   }
+  ],
+  "ri_topics": "IRB",
+  "ri_quote": {
+   "text": "取得 TFDA 與北榮心臟疾病併同冠IRB",
+   "src": "年報",
+   "url": "https://www.hexunbio.com/wp-content/uploads/2026/07/2025年度年報.pdf",
+   "page": "PDF第71頁"
+  }
+ },
+ "8403": {
+  "level": "只是談論",
+  "basis": "官網僅提法說會釋出AI智慧醫療利多，無具體應用",
+  "quotes": [
+   {
+    "text": "盛弘打造大健康生態圈 法說會釋AI智慧醫療、藥局版圖擴張利多",
+    "src": "官網",
+    "url": "http://www.share-hope.com",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "3184": {
+  "level": "無",
+  "basis": "證據僅為作者姓名Ai，與AI無關",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4117": {
+  "level": "已實施",
+  "basis": "官網列CellBio液態活檢與AI判讀技術產品方案",
+  "quotes": [
+   {
+    "text": "CellBio™ 液態活檢與 AI 判讀技術",
+    "src": "官網",
+    "url": "http://www.gbc.com.tw",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4186": {
+  "level": "規劃中",
+  "basis": "官網稱正開發AI判讀系統",
+  "quotes": [
+   {
+    "text": "尖端醫正開發的 AI 判讀系統",
+    "src": "官網",
+    "url": "http://www.biotest.com.tw/news260416-2",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4197": {
+  "level": "已實施",
+  "basis": "官網以AI生成概念圖（僅網站視覺素材用途）",
+  "quotes": [
+   {
+    "text": "AI 生成材質概念，非實際產品照片",
+    "src": "官網",
+    "url": "http://www.visgeneer.com.tw/zh-hant/oem-odm/cosmetics",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ }
+}

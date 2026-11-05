@@ -1,0 +1,152 @@
+{
+ "4142": {
+  "level": "只是談論",
+  "basis": "僅「研擬配合運用」AI與「善用AI」願景，無具體專案或已用流程",
+  "quotes": [
+   {
+    "text": "研擬配合運用近期快速發展的人工智慧技術（AI），優化生產流程",
+    "src": "年報",
+    "url": "https://www.adimmune.com.tw/uploads/images/investors/financial/1_114%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83(113%E5%B9%B4%E5%B9%B4%E5%A0%B1).pdf",
+    "page": "PDF第8頁"
+   },
+   {
+    "text": "善用 AI 及高科技",
+    "src": "永續報告書",
+    "url": "https://www.adimmune.com.tw/uploads/images/adimmuneESG2025.pdf",
+    "page": "PDF第3頁"
+   }
+  ],
+  "ri_topics": "資料隱私；利害關係人溝通；倫理",
+  "ri_quote": {
+   "text": "公司亦高度重視客戶隱私保護與客訴處理機制",
+   "src": "永續報告書",
+   "url": "https://www.adimmune.com.tw/uploads/images/adimmuneESG2025.pdf",
+   "page": "PDF第73頁"
+  }
+ },
+ "1781": {
+  "level": "規劃中",
+  "basis": "年報稱持續投入AI智慧醫療產品研發、發展結合AI分析的遠距設備，未見已上市AI產品",
+  "quotes": [
+   {
+    "text": "持續投入助聽器、遠距醫療、AI 智慧醫療及藥械整合產品研發",
+    "src": "年報",
+    "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/05/year_114.pdf",
+    "page": "PDF第5頁"
+   },
+   {
+    "text": "發展遠距醫療設備，結合雲端平台與AI分析，提升慢性病管理與居家照護價值",
+    "src": "年報",
+    "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/05/year_114.pdf",
+    "page": "PDF第5頁"
+   }
+  ],
+  "ri_topics": "客戶隱私；個資保密；利害關係人溝通",
+  "ri_quote": {
+   "text": "針對產品與服務之顧客健康與安全、客戶隱私、行銷及標示等議題",
+   "src": "年報",
+   "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/05/year_114.pdf",
+   "page": "PDF第28頁"
+  }
+ },
+ "4105": {
+  "level": "只是談論",
+  "basis": "AI僅為產業趨勢、董事／實習課程與生成式AI資安宣導，無自身AI應用",
+  "quotes": [
+   {
+    "text": "AI 輔助製藥產品的研發，快速並精準篩選新型活性物質，以期縮短研發週期，降低成本",
+    "src": "年報",
+    "url": "http://www.tty.com.tw/rwd1181/store/F3/TTY%E5%B9%B4%E5%A0%B12025.pdf",
+    "page": "PDF第109頁"
+   },
+   {
+    "text": "7 月宣導生成式 AI 防範提醒，降低資料外洩風險",
+    "src": "永續報告書",
+    "url": "http://www.tty.com.tw/rwd1181/store/F3/2025%20TTY%20Sustainability%20Report_CH.pdf",
+    "page": "PDF第14頁"
+   }
+  ],
+  "ri_topics": "倫理；受試者保護／IRB；個資隱私；利害關係人溝通；病友參與",
+  "ri_quote": {
+   "text": "所有臨床試驗計畫書均嚴格執行「先核准後執行」原則",
+   "src": "永續報告書",
+   "url": "http://www.tty.com.tw/rwd1181/store/F3/2025%20TTY%20Sustainability%20Report_CH.pdf",
+   "page": "PDF第60頁"
+  }
+ },
+ "4116": {
+  "level": "已實施",
+  "basis": "自家智慧手術室iQOR整合方案含AI手術報告彙整（邊界：僅一句產品描述）",
+  "quotes": [
+   {
+    "text": "運用 5G 智慧連接、4K 手術影像、手術導航機器人、醫療設備控制、線上即時視訊會議 和 AI 手術報告彙整",
+    "src": "永續報告書",
+    "url": "https://www.benqmedicaltech.com/proimages/4116%E6%98%8E%E5%9F%BA%E9%86%AB_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_Final_CN(%E4%B8%8A%E5%82%B3)r.pdf",
+    "page": "PDF第15頁"
+   }
+  ],
+  "ri_topics": "資訊安全",
+  "ri_quote": {
+   "text": "審計委員會薪酬委員會永續發展委員會風險管理委員會資訊安全委員會",
+   "src": "永續報告書",
+   "url": "https://www.benqmedicaltech.com/proimages/4116%E6%98%8E%E5%9F%BA%E9%86%AB_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_Final_CN(%E4%B8%8A%E5%82%B3)r.pdf",
+   "page": "PDF第13頁"
+  }
+ },
+ "4161": {
+  "level": "無",
+  "basis": "僅物聯網與大數據分析，無明說AI",
+  "quotes": [],
+  "ri_topics": "資料隱私；資訊安全；倫理",
+  "ri_quote": {
+   "text": "且未接獲來自主管機關與客戶個資與隱私相關之申訴案件",
+   "src": "永續報告書",
+   "url": "http://www.bioptik.com.tw/media/f/investor/2025%E5%B9%B4%E5%BA%A6%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "page": "PDF第68頁"
+  }
+ },
+ "6576": {
+  "level": "只是談論",
+  "basis": "AI僅見於獨立董事進修課程主題",
+  "quotes": [
+   {
+    "text": "公司治理-生成式AI產業發展趨勢之獨立董事",
+    "src": "永續報告書",
+    "url": "https://www.foreseepharma.com/uploads/images/6576_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_%E9%80%B8%E9%81%94%E7%94%9F%E6%8A%80_revised.pdf",
+    "page": "PDF第17頁"
+   }
+  ],
+  "ri_topics": "受試者保護；個資隱私；倫理",
+  "ri_quote": {
+   "text": "致力維護所有員工、利害關係人之基本人權，及個人隱私資料之保護",
+   "src": "永續報告書",
+   "url": "https://www.foreseepharma.com/uploads/images/6576_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_%E9%80%B8%E9%81%94%E7%94%9F%E6%8A%80_revised.pdf",
+   "page": "PDF第28頁"
+  }
+ },
+ "8436": {
+  "level": "已實施",
+  "basis": "永續報告書寫明自2023年導入AI製程優化、BI系統AI分析等已用流程",
+  "quotes": [
+   {
+    "text": "TCI has introduced AI-enabled process optimization since 2023.",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第60頁"
+   },
+   {
+    "text": "Factory cost analysis now incorporates AI-driven insights and recommendations.",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第47頁"
+   }
+  ],
+  "ri_topics": "資料隱私；資訊安全；利害關係人溝通",
+  "ri_quote": {
+   "text": "客戶隱私權的維護為大江資訊安全管理的重要目標之一",
+   "src": "年報",
+   "url": "https://www.tci-bio.com/wp-content/uploads/2025/10/2024%E5%B9%B4%E5%BA%A6%E5%B9%B4%E5%A0%B1.pdf",
+   "page": "PDF第51頁"
+  }
+ }
+}

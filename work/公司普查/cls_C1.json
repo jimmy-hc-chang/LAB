@@ -1,0 +1,358 @@
+{
+ "4123": {
+  "level": "規劃中",
+  "basis": "對被投資企業「規劃逐步導入」AI，及子公司寶濟採AI藥物發現；無自家已上線證據",
+  "quotes": [
+   {
+    "text": "並規劃逐步導入數位化與人工智慧資源，採取循序推動路徑",
+    "src": "年報",
+    "url": "https://www.centerlab.com.tw/investor/shareholder_service/annual_report_download/22?name=%28%E4%B8%AD%29114%E5%B9%B4%E5%A0%B1%28%E6%99%9F%E5%BE%B7%29%E4%B8%8A%E5%82%B3.pdf",
+    "page": "PDF第13頁"
+   },
+   {
+    "text": "採用人工智能驅動的藥物發現技術來設計及開發創新療法",
+    "src": "年報",
+    "url": "https://www.centerlab.com.tw/investor/shareholder_service/annual_report_download/22?name=%28%E4%B8%AD%29114%E5%B9%B4%E5%A0%B1%28%E6%99%9F%E5%BE%B7%29%E4%B8%8A%E5%82%B3.pdf",
+    "page": "PDF第110頁"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "晟德所識別之永續議題涵蓋公司治理與風險管理、營運與財務狀況、誠信經營及法規遵循、供應鏈管理、資訊安全與客戶隱私",
+   "src": "永續報告書",
+   "url": "https://www.centerlab.com.tw/sustainable/report_download/12?name=2025%20CENTER%20LABORATORIES-Sustainability%20Report_CH.pdf",
+   "page": "PDF第18頁"
+  }
+ },
+ "4127": {
+  "level": "只是談論",
+  "basis": "僅董事AI進修課程，無自身AI應用",
+  "quotes": [
+   {
+    "text": "上市櫃董事進修課程-人工智慧趨勢解析與企業風險管理策略",
+    "src": "永續報告書",
+    "url": "https://www.tlb.com.tw/?attachment_id=20970&download=1",
+    "page": "PDF第21頁"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "本公司嚴格遵守《個人資料保護法》及營運所在地之相關隱私法規",
+   "src": "永續報告書",
+   "url": "https://www.tlb.com.tw/?attachment_id=20970&download=1",
+   "page": "PDF第59頁"
+  }
+ },
+ "4139": {
+  "level": "無",
+  "basis": "僅「智慧醫療、數位化管理」字樣，未明說AI",
+  "quotes": [],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "持續關注醫療、藥事、勞動、個人資料保護、公司治理及其他相關法規之最新發展",
+   "src": "永續報告書",
+   "url": "https://mk-healthcare.com/storage/SustainabilityDownload/20260828/WW5tKjnojfDlgEGOEVDTcdkDmjGAvS5UfGIxIrNd.pdf",
+   "page": "PDF第34頁"
+  }
+ },
+ "4157": {
+  "level": "已實施",
+  "basis": "年報寫明資安採AI/機器學習防護(僅內部資安工具)；另引進AI生成新藥，屬授權引進",
+  "quotes": [
+   {
+    "text": "加上雲端人工智慧與機器學習，預測惡意程式入侵行為，阻隔勒索軟體的入侵風險",
+    "src": "年報",
+    "url": "https://www.taigenbiotech.com/common/frontend/download?path=/uploads/images/IR/financial/R1504001037太景醫藥年報_上傳檔.pdf",
+    "page": "PDF第106頁"
+   },
+   {
+    "text": "成功引進了英矽智能（Insilico Medicine）以AI生成的創新化合物新藥",
+    "src": "永續報告書",
+    "url": "https://www.taigenbiotech.com/common/frontend/download?path=/uploads/images/csr/2025_TaiGen_ESG_Report_Final.pdf",
+    "page": "PDF第4頁"
+   },
+   {
+    "text": "ISM-4808展現了AI輔助藥物研發的突破性效率",
+    "src": "官網",
+    "url": "http://www.taigenbiotech.com/tw/product/detail/ISM-4808",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "受試者保護；IRB；個資保護；倫理；利害關係人溝通",
+  "ri_quote": {
+   "text": "研發中藥品：受試者可經由研究計畫主持人或醫院IRB通報藥",
+   "src": "永續報告書",
+   "url": "https://www.taigenbiotech.com/common/frontend/download?path=/uploads/images/csr/2025_TaiGen_ESG_Report_Final.pdf",
+   "page": "PDF第34頁"
+  }
+ },
+ "4188": {
+  "level": "已實施",
+  "basis": "自有AI超音波醫材已取得TFDA AI/DL證書並於醫療院所採用",
+  "quotes": [
+   {
+    "text": "取得UT TFDA AI/DL版本證書",
+    "src": "年報",
+    "url": "https://06e3948a-0a2d-408d-89bf-be76fbfb13de.usrfiles.com/ugd/06e394_369bdba994bf4d1fac6c51acd2b862e6.pdf",
+    "page": "PDF第7頁"
+   },
+   {
+    "text": "於國內已獲逾30 家醫療院所採用，並同步申請健保暫時性支付專案",
+    "src": "年報",
+    "url": "https://06e3948a-0a2d-408d-89bf-be76fbfb13de.usrfiles.com/ugd/06e394_369bdba994bf4d1fac6c51acd2b862e6.pdf",
+    "page": "PDF第5頁"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循；倫理",
+  "ri_quote": {
+   "text": "本公司已制定個人資料保護管理要點，並遵守個人資料保護法等相關法規",
+   "src": "年報",
+   "url": "https://06e3948a-0a2d-408d-89bf-be76fbfb13de.usrfiles.com/ugd/06e394_369bdba994bf4d1fac6c51acd2b862e6.pdf",
+   "page": "PDF第43頁"
+  }
+ },
+ "4198": {
+  "level": "無",
+  "basis": "僅「智慧醫療」「大數據」泛稱，未明說AI",
+  "quotes": [],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通；產品安全",
+  "ri_quote": {
+   "text": "GRI 418 客戶隱私",
+   "src": "永續報告書",
+   "url": "https://swissray-s3.s3.ap-southeast-1.amazonaws.com/pdfUpload/1788138849497-qshhxwvyldn.pdf",
+   "page": "PDF第30頁"
+  }
+ },
+ "4745": {
+  "level": "只是談論",
+  "basis": "官網僅在服務項目列舉「臨床診療AI輔助係統」，無具體產品或實施說明",
+  "quotes": [
+   {
+    "text": "臨床診療AI輔助係統",
+    "src": "官網",
+    "url": "http://www.cowealthholding.com",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6527": {
+  "level": "已實施",
+  "basis": "產品內建AI趨勢分析報告、智慧AI功能，並與AI廠商合作搭配眼底機",
+  "quotes": [
+   {
+    "text": "AI趨勢分析報告 內建趨勢分析報告可整合患者過去醫療紀錄",
+    "src": "官網",
+    "url": "http://www.crystalvue.com.tw/zh-tw/product.php?act=view&id=35",
+    "page": "官網"
+   },
+   {
+    "text": "整合光學掃框、定中心、平邊、尖邊、拋光、車溝、安全倒角及智慧AI功能",
+    "src": "官網",
+    "url": "http://www.crystalvue.com.tw",
+    "page": "官網"
+   },
+   {
+    "text": "與多家人工智慧(AI)廠商合作，積極於中國",
+    "src": "年報",
+    "url": "http://www.crystalvue.com.tw/zh-tw/data/files/1755567716422331015.pdf",
+    "page": "PDF第5頁"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循",
+  "ri_quote": {
+   "text": "客戶隱私、行銷及標示等議題，公司是否遵循",
+   "src": "年報",
+   "url": "http://www.crystalvue.com.tw/zh-tw/data/files/1755567716422331015.pdf",
+   "page": "PDF第35頁"
+  }
+ },
+ "6569": {
+  "level": "已實施",
+  "basis": "官網產品線含AI內視鏡平台與醫用AI電腦(NVIDIA Jetson)",
+  "quotes": [
+   {
+    "text": "Onyx Healthcare’s AI Endoscopy Platform enhances GI imaging with",
+    "src": "官網",
+    "url": "http://www.onyx-healthcare.com/",
+    "page": "官網"
+   },
+   {
+    "text": "ACCEL-JS1500 NVIDIA® Jetson T5000™ platform for Medical AI imaging application",
+    "src": "官網",
+    "url": "http://www.onyx-healthcare.com/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6576": {
+  "level": "查無資料",
+  "basis": "文字層為亂碼（官網僅CSS/二進位碼中巧合出現ai）",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6662": {
+  "level": "已實施",
+  "basis": "官網服務頁載明與基因解讀公司合作提供AI基因解讀，但描述簡略",
+  "quotes": [
+   {
+    "text": "與國際知名的基因解讀公司合作AI 基因解讀",
+    "src": "官網",
+    "url": "https://www.biolasco.com.tw/product/%e5%af%a6%e9%a9%97%e5%8b%95%e7%89%a9%e5%9f%ba%e5%9b%a0%e5%ae%9a%e5%ba%8f/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6637": {
+  "level": "已實施",
+  "basis": "年報列所代理/平台串接產品含太豪AI超音波判讀軟體，屬代理他廠AI產品；上下文稍含糊",
+  "quotes": [
+   {
+    "text": "太豪生醫公司「全乳超音波智慧掃描檢視軟件」，運用人工智慧技術輔助醫師分析醫學影像",
+    "src": "年報",
+    "url": "https://www.mic-tw.com/NewFile/20260508.pdf",
+    "page": "PDF第71頁"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "醫影訂立《個人資料管理保護辦法》，規範員工於個資事件發生導致利害關係人權益受損時",
+   "src": "永續報告書",
+   "url": "https://www.mic-tw.com/20260825_2025_MIC_ESG.pdf",
+   "page": "PDF第84頁"
+  }
+ },
+ "6767": {
+  "level": "只是談論",
+  "basis": "僅董事進修課程「生成式AI與ChatGPT的應用」，無自身應用",
+  "quotes": [
+   {
+    "text": "上市櫃董事進修課程-生成式 AI 與 ChatGPT 的應用",
+    "src": "永續報告書",
+    "url": "https://www.wiltrom.com.tw/wp-content/uploads/2026/08/development3_2025ESG.pdf",
+    "page": "PDF第32頁"
+   }
+  ],
+  "ri_topics": "資料隱私；倫理；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "台微醫重視資訊安全並建置完整資安防護與資料保護機制",
+   "src": "永續報告書",
+   "url": "https://www.wiltrom.com.tw/wp-content/uploads/2026/08/development3_2025ESG.pdf",
+   "page": "PDF第52頁"
+  }
+ },
+ "6841": {
+  "level": "已實施",
+  "basis": "主要業務為AI醫療影像軟體，多項產品已取得FDA/TFDA/越南等許可",
+  "quotes": [
+   {
+    "text": "以深度學習自動分析胸部X光影像",
+    "src": "永續報告書",
+    "url": "https://www.everfortuneai.com.tw/api/v1/s3/file?file=1uxlevg1000dl2rlvkdaae1600p4gbhe.ESG-%E9%95%B7%E4%BD%B3%E6%99%BA%E8%83%BD2025%20-%200828.pdf",
+    "page": "PDF第33頁"
+   },
+   {
+    "text": "致力於開發高精準度、臨床實用性強的AI醫療影像分析系統",
+    "src": "永續報告書",
+    "url": "https://www.everfortuneai.com.tw/api/v1/s3/file?file=1uxlevg1000dl2rlvkdaae1600p4gbhe.ESG-%E9%95%B7%E4%BD%B3%E6%99%BA%E8%83%BD2025%20-%200828.pdf",
+    "page": "PDF第5頁"
+   },
+   {
+    "text": "長佳智能「骨質密度人工智慧篩檢系統」取得台灣TFDA醫材許可",
+    "src": "官網",
+    "url": "https://www.everfortuneai.com.tw/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "個資保護；倫理誠信；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "對於申訴人、檢舉人之個資採取嚴格保密及適當之保護措施",
+   "src": "永續報告書",
+   "url": "https://www.everfortuneai.com.tw/api/v1/s3/file?file=1uxlevg1000dl2rlvkdaae1600p4gbhe.ESG-%E9%95%B7%E4%BD%B3%E6%99%BA%E8%83%BD2025%20-%200828.pdf",
+   "page": "PDF第26頁"
+  }
+ },
+ "7713": {
+  "level": "已實施",
+  "basis": "自有「健康行動GO」APP提供AI風險運算；其餘AI診察輔助屬開發中，判定偏邊界",
+  "quotes": [
+   {
+    "text": "健康行動 GO主要提供醫療院所資訊查詢、整合檢驗數據、相關醫學檢測查詢、AI 風險運算",
+    "src": "永續報告書",
+    "url": "https://stofficialdbprd.blob.core.windows.net/weleader/template2/1787881059407_WeLeader%202025%20Sustainability%20Report.pdf",
+    "page": "PDF第45頁"
+   },
+   {
+    "text": "持續開發具創新性的數位産品服務，包括遠距視訊診察、智慧健康追蹤、AI 智能診察輔助",
+    "src": "年報",
+    "url": "https://stofficialdbprd.blob.core.windows.net/weleader/template2/1778571458006_114%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1.pdf",
+    "page": "PDF第6頁"
+   },
+   {
+    "text": "導入 AI 與智慧醫療技術應用，提升營運效率 10%以上",
+    "src": "永續報告書",
+    "url": "https://stofficialdbprd.blob.core.windows.net/weleader/template2/1787881059407_WeLeader%202025%20Sustainability%20Report.pdf",
+    "page": "PDF第9頁"
+   }
+  ],
+  "ri_topics": "資料隱私；個資；法規遵循；臨床試驗倫理；利害關係人溝通",
+  "ri_quote": {
+   "text": "強化法規遵循、資訊安全及個人資料保護管理",
+   "src": "永續報告書",
+   "url": "https://stofficialdbprd.blob.core.windows.net/weleader/template2/1787881059407_WeLeader%202025%20Sustainability%20Report.pdf",
+   "page": "PDF第4頁"
+  }
+ },
+ "8409": {
+  "level": "已實施",
+  "basis": "官網列有PixDx、UDE等自家AI醫療影像診斷輔助產品",
+  "quotes": [
+   {
+    "text": "PixDx App 提供 AI 醫療影像診斷輔助，協助醫師在行動裝置上快速辨識影像特徵",
+    "src": "官網",
+    "url": "https://www.ebmtech.com/tw/product/pixdx-app",
+    "page": "官網"
+   },
+   {
+    "text": "整合在本機的CoreML影像AI及雲端AI模組，將運算結果同步顯示在影像上",
+    "src": "官網",
+    "url": "https://www.ebmtech.com/tw/product/ude-app",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "8436": {
+  "level": "已實施",
+  "basis": "永續報告書載明自2023年導入AI製程優化、BI成本分析AI及AOI部分AI模型",
+  "quotes": [
+   {
+    "text": "TCI has introduced AI-enabled process optimization since 2023.",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第60頁"
+   },
+   {
+    "text": "Factory cost analysis now incorporates AI-driven insights and recommendations.",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第47頁"
+   },
+   {
+    "text": "Eagle Eye AOI systems have been launched, with partial integration of AI models",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第47頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ }
+}

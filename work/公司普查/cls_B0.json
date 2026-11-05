@@ -1,0 +1,399 @@
+{
+ "1733": {
+  "level": "規劃中",
+  "basis": "年報稱「逐步導入」AI智慧製造，屬進行中導入規劃，尚無具體上線證據",
+  "quotes": [
+   {
+    "text": "逐步導入數位 AI 智慧製造減少紙張改以電子化以提升工作效率及降低成本",
+    "src": "年報",
+    "url": "https://www.apexbio.com.tw/Manager/img/Report/55-2026051.pdf",
+    "page": "PDF第5頁"
+   }
+  ],
+  "ri_topics": "倫理；受試者保護；個資隱私；利害關係人溝通",
+  "ri_quote": {
+   "text": "保護受試者的權益和安全",
+   "src": "永續報告書",
+   "url": "https://www.apexbio.com.tw/Manager/img/CSR/60-2026022.pdf",
+   "page": "PDF第90頁"
+  }
+ },
+ "1795": {
+  "level": "只是談論",
+  "basis": "僅在產業趨勢與董事進修中提及AI，無公司自身應用",
+  "quotes": [
+   {
+    "text": "technological advancements (AI-driven drug development, personalized medicine)",
+    "src": "年報",
+    "url": "https://api.lotuspharm.com/shareholders-meeting/download?id=14&index=3&locale=en",
+    "page": "PDF第81頁"
+   },
+   {
+    "text": "Latest Trends in Artificial Intelligence",
+    "src": "年報",
+    "url": "https://api.lotuspharm.com/shareholders-meeting/download?id=14&index=3&locale=en",
+    "page": "PDF第45頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "3716": {
+  "level": "規劃中",
+  "basis": "策略寫「引進AI智能藥櫃」、官網稱加速AI導入，未見已上線證據；員工AI課程僅屬訓練",
+  "quotes": [
+   {
+    "text": "引進 AI 智能藥櫃，提昇用藥安全與品質，擴展智能醫療發展商機",
+    "src": "永續報告書",
+    "url": "https://www.cenra.com/uploads/images/ESG/report/esg_report2025.pdf",
+    "page": "PDF第20頁"
+   },
+   {
+    "text": "中化控股加速AI導入四大事業",
+    "src": "官網",
+    "url": "https://www.cenra.com/tw/news/content/cenra_and_commonwealth_magazine_hold_2026_cenra_ai_innovation_challenge",
+    "page": "官網"
+   },
+   {
+    "text": "企業內部運用 AI 工具並應用於工作中系列課程訓練",
+    "src": "永續報告書",
+    "url": "https://www.cenra.com/uploads/images/ESG/report/esg_report2025.pdf",
+    "page": "PDF第9頁"
+   }
+  ],
+  "ri_topics": "受試者保護；倫理；個資隱私；資訊安全；利害關係人溝通",
+  "ri_quote": {
+   "text": "高度重視臨床受試者的權益",
+   "src": "永續報告書",
+   "url": "https://www.cenra.com/uploads/images/ESG/report/esg_report2025.pdf",
+   "page": "PDF第90頁"
+  }
+ },
+ "4119": {
+  "level": "只是談論",
+  "basis": "AI僅見於董事進修課程主題",
+  "quotes": [
+   {
+    "text": "生成式 AI 的趨勢與風險管理",
+    "src": "年報",
+    "url": "https://www.sci-pharmtech.com.tw/storage/system/pdf/Investors/stockholder_report-2025.pdf",
+    "page": "PDF第98頁"
+   },
+   {
+    "text": "人工智慧應用與治理暨資訊安全與零信任架構",
+    "src": "年報",
+    "url": "https://www.sci-pharmtech.com.tw/storage/system/pdf/Investors/stockholder_report-2025.pdf",
+    "page": "PDF第98頁"
+   }
+  ],
+  "ri_topics": "利害關係人溝通；資訊安全；個資隱私",
+  "ri_quote": {
+   "text": "利害關係人溝通管道及回應方式",
+   "src": "永續報告書",
+   "url": "https://www.sci-pharmtech.com.tw/storage/system/pdf/MeetingMinutes/d_csr_report-2025.pdf",
+   "page": "PDF第4頁"
+  }
+ },
+ "4155": {
+  "level": "無",
+  "basis": "證據包無公司自身AI內容，官網僅獎項報導標題",
+  "quotes": [],
+  "ri_topics": "客戶隱私；法規遵循",
+  "ri_quote": {
+   "text": "客戶隱私、行銷及標示等議題，公司是否遵循相關法規及國際準則",
+   "src": "年報",
+   "url": "https://www.okbiotech.com/files/113年度年報.pdf",
+   "page": "PDF第42頁"
+  }
+ },
+ "4190": {
+  "level": "只是談論",
+  "basis": "長期發展計畫僅概括稱以AI結合大數據，無具體產品或流程",
+  "quotes": [
+   {
+    "text": "將最新的關鍵技術透過 AI 人工智慧結合大數據分析，進行垂直整合，智慧開發製造",
+    "src": "年報",
+    "url": "https://www.jourdeness.com/upload/download3/2025789568.pdf",
+    "page": "PDF第89頁"
+   }
+  ],
+  "ri_topics": "個資隱私；資訊安全",
+  "ri_quote": {
+   "text": "本公司訂有個人資料保護管理辦法，並設有個人資料保護委員會",
+   "src": "年報",
+   "url": "https://www.jourdeness.com/upload/download3/2025789568.pdf",
+   "page": "PDF第57頁"
+  }
+ },
+ "4736": {
+  "level": "規劃中",
+  "basis": "年報策略稱結合智慧醫療偵測設備收集資料做AI分析提供服務，屬發展方向，無已上市AI產品證據",
+  "quotes": [
+   {
+    "text": "大量資料進行 AI 分析，提供使用者的睡眠分析服務、疾病風險預測及健康促進服務",
+    "src": "年報",
+    "url": "https://www.taidoc.com/tw/wp-content/uploads/2026/01/113%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1.pdf",
+    "page": "PDF第7頁"
+   },
+   {
+    "text": "透過 AI 精進工作效率、創新研發與優化供應鏈管理",
+    "src": "永續報告書",
+    "url": "https://www.taidoc.com/tw/wp-content/uploads/2026/10/20260825_%E6%B3%B0%E5%8D%9AESG%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "page": "PDF第4頁"
+   }
+  ],
+  "ri_topics": "個資隱私；資訊安全；法規遵循（GDPR）；利害關係人溝通",
+  "ri_quote": {
+   "text": "保護客戶個資與醫療數據安全",
+   "src": "永續報告書",
+   "url": "https://www.taidoc.com/tw/wp-content/uploads/2026/10/20260825_%E6%B3%B0%E5%8D%9AESG%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "page": "PDF第17頁"
+  }
+ },
+ "4737": {
+  "level": "只是談論",
+  "basis": "AI僅為CGM市場趨勢與方向描述及董事進修，未見公司具體AI產品或計畫",
+  "quotes": [
+   {
+    "text": "Integration of CGM system with AI technology",
+    "src": "年報",
+    "url": "https://www.bionime.com/download/7640/?tmstv=1781662840",
+    "page": "PDF第130頁"
+   },
+   {
+    "text": "Utilizing AI technology to link blood glucose fluctuations with",
+    "src": "年報",
+    "url": "https://www.bionime.com/download/7640/?tmstv=1781662840",
+    "page": "PDF第142頁"
+   }
+  ],
+  "ri_topics": "個資隱私；資訊安全；利害關係人溝通；病友溝通",
+  "ri_quote": {
+   "text": "通過 ISO/IEC 27701:2019 隱私資訊管理系統驗證",
+   "src": "永續報告書",
+   "url": "https://download.rightest.com/official_website/bionime/esg/2024_Bionime_ESG_Report.pdf",
+   "page": "PDF第13頁"
+  }
+ },
+ "6931": {
+  "level": "規劃中",
+  "basis": "稽核藍圖長期導入AI預警技術，並稱將推動智慧照顧與AI應用；屬計畫未見已上線",
+  "quotes": [
+   {
+    "text": "導入數位平台與AI預警技術，將事後稽核轉為事前預防",
+    "src": "永續報告書",
+    "url": "https://www.qingsong.com.tw/uploads/files/shares/2026青松健康永續發展報告書0820超連結版_壓縮_FINAL上傳.pdf",
+    "page": "PDF第20頁"
+   },
+   {
+    "text": "推動智慧照顧與AI應用，進而優化既有機構營運效率與照顧品質",
+    "src": "永續報告書",
+    "url": "https://www.qingsong.com.tw/uploads/files/shares/2026青松健康永續發展報告書0820超連結版_壓縮_FINAL上傳.pdf",
+    "page": "PDF第32頁"
+   }
+  ],
+  "ri_topics": "個資隱私；資訊安全；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "資安與個資保護攸關顧客信任、法遵責任及公司聲譽",
+   "src": "永續報告書",
+   "url": "https://www.qingsong.com.tw/uploads/files/shares/2026青松健康永續發展報告書0820超連結版_壓縮_FINAL上傳.pdf",
+   "page": "PDF第39頁"
+  }
+ },
+ "7803": {
+  "level": "已實施",
+  "basis": "官網提供AI病理影像分析與AI醫療影像軟體解決方案，屬自家AI產品",
+  "quotes": [
+   {
+    "text": "aetherAI provides software-only AI solutions",
+    "src": "官網",
+    "url": "https://www.aetherai.com/",
+    "page": "官網"
+   },
+   {
+    "text": "to develop a series of AI pathology image analysis applications",
+    "src": "官網",
+    "url": "https://www.aetherai.com/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7827": {
+  "level": "已實施",
+  "basis": "官網稱HCB101以AI輔助設計開發、平台具AI輔助設計能力；與InSilicoTrials合作屬導入中",
+  "quotes": [
+   {
+    "text": "結合人工智慧（AI）輔助及結構導向設計所開發的 SIRPα-IgG4 Fc 融合蛋白",
+    "src": "官網",
+    "url": "https://www.hanchorbio.com/news/hanchorbio-expands-hcb101-colorectal-cancer-program-in-taiwan-as-early-2l-crc-data-show-50-orr-and-100-dcr/",
+    "page": "官網"
+   },
+   {
+    "text": "結合 AI 輔助設計的藥物開發能力",
+    "src": "官網",
+    "url": "https://www.hanchorbio.com/investors/faq/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "3176": {
+  "level": "只是談論",
+  "basis": "AI見於產業趨勢、員工AI工具教育訓練與子公司名稱，未說明實際應用",
+  "quotes": [
+   {
+    "text": "AI、大數據與智慧自動化等技術從輔助角色轉變為生技產業核心驅動力",
+    "src": "年報",
+    "url": "https://www.medigen.com.tw/upload/shareholders_year_120260605171752.pdf",
+    "page": "PDF第84頁"
+   },
+   {
+    "text": "亦舉辦「公司內部使用AI工具」等教育訓練",
+    "src": "年報",
+    "url": "https://www.medigen.com.tw/upload/shareholders_year_120260605171752.pdf",
+    "page": "PDF第56頁"
+   }
+  ],
+  "ri_topics": "受試者保護；知情同意；IRB；個資隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "並落實受試者知情同意程序，以保障權益、降低風險",
+   "src": "年報",
+   "url": "https://www.medigen.com.tw/upload/shareholders_year_120260605171752.pdf",
+   "page": "PDF第53頁"
+  }
+ },
+ "3205": {
+  "level": "無",
+  "basis": "永續報告書無AI相關詞，官網內容為亂碼無AI證據",
+  "quotes": [],
+  "ri_topics": "個資隱私；資訊安全；法規遵循；利害關係人溝通；動物福利",
+  "ri_quote": {
+   "text": "公司訂有「個人資料保護管理辦法」，藉此提升法規遵循能力",
+   "src": "永續報告書",
+   "url": "https://www.naturalbiokey.com/download_pdf.php?file=SLSESG114.pdf",
+   "page": "PDF第17頁"
+  }
+ },
+ "4107": {
+  "level": "只是談論",
+  "basis": "年報僅在經營策略列「AI 應用」字樣，其餘為趨勢與董事進修，無具體內容",
+  "quotes": [
+   {
+    "text": "組織變革，善用數位化科技：以流程檢討、BI 數據應用、AI 應用、推動責任中心活動",
+    "src": "年報",
+    "url": "https://www.bioteq.com.tw/storage/media/investors/annual-report/114/113年報_中文.pdf",
+    "page": "PDF第68頁"
+   }
+  ],
+  "ri_topics": "個資隱私；資訊安全；利害關係人溝通",
+  "ri_quote": {
+   "text": "2025 年度內未發生任何客戶個資外洩或資安事件",
+   "src": "永續報告書",
+   "url": "https://www.bioteq.com.tw/storage/media/ESG%20Report/邦特_2025永續報告書-0824Final.pdf",
+   "page": "PDF第71頁"
+  }
+ },
+ "4109": {
+  "level": "無",
+  "basis": "AI僅出現在總體經濟不確定因素描述，與公司自身無關",
+  "quotes": [],
+  "ri_topics": "客戶隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "客戶隱私、行銷及標示等議題，公司是否遵循相關法規及國際準則",
+   "src": "年報",
+   "url": "https://www.jiajiebio.com/_files/ugd/3d99ff_8f667847ca864c248c942f8987366c2d.pdf",
+   "page": "PDF第42頁"
+  }
+ },
+ "4120": {
+  "level": "無",
+  "basis": "官網AI強詞皆為圖檔亂碼，無實質AI內容",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4128": {
+  "level": "已實施",
+  "basis": "永續報告書載已開發機器學習風險評分(PMRS)用於預測癌症；另有AI應用管理辦法",
+  "quotes": [
+   {
+    "text": "Developed a machine learning-based Poly-Microbial Risk Score (PMRS)",
+    "src": "永續報告書",
+    "url": "https://www.twmicrobio.com/wp-content/uploads/2026/10/2025-Microbio-ESG-Report.pdf",
+    "page": "PDF第30頁"
+   },
+   {
+    "text": "AI Application and Management Procedure",
+    "src": "官網",
+    "url": "https://www.twmicrobio.com/investors/major-internal-policies/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "個資隱私；資訊安全",
+  "ri_quote": {
+   "text": "Information Security Protection and Personal Data Protection",
+   "src": "永續報告書",
+   "url": "https://www.twmicrobio.com/wp-content/uploads/2026/10/2025-Microbio-ESG-Report.pdf",
+   "page": "PDF第66頁"
+  }
+ },
+ "4129": {
+  "level": "只是談論",
+  "basis": "AI僅見董事進修與贊助AI論壇；智慧醫療敘述未明說用AI",
+  "quotes": [
+   {
+    "text": "AI 發展與資安風險",
+    "src": "永續報告書",
+    "url": "https://www.unitedorthopedic.com/Developer/TW_DL/%E4%BC%81%E6%A5%AD%E6%B0%B8%E7%BA%8C%E7%9B%B8%E9%97%9C/2025%20%E8%81%AF%E5%90%88%E9%AA%A8%E6%9D%90%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "page": "PDF第43頁"
+   },
+   {
+    "text": "贊助 2025 年 AI 智慧論壇研討會",
+    "src": "永續報告書",
+    "url": "https://www.unitedorthopedic.com/Developer/TW_DL/%E4%BC%81%E6%A5%AD%E6%B0%B8%E7%BA%8C%E7%9B%B8%E9%97%9C/2025%20%E8%81%AF%E5%90%88%E9%AA%A8%E6%9D%90%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "page": "PDF第102頁"
+   }
+  ],
+  "ri_topics": "個資隱私；資訊安全；法規遵循；商業倫理；利害關係人溝通",
+  "ri_quote": {
+   "text": "利害關係人溝通與回應機制",
+   "src": "永續報告書",
+   "url": "https://www.unitedorthopedic.com/Developer/TW_DL/%E4%BC%81%E6%A5%AD%E6%B0%B8%E7%BA%8C%E7%9B%B8%E9%97%9C/2025%20%E8%81%AF%E5%90%88%E9%AA%A8%E6%9D%90%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "page": "PDF第26頁"
+  }
+ },
+ "6782": {
+  "level": "規劃中",
+  "basis": "研發/改善項目列「導入AI檢測技術」「導入具AI自動檢驗機」，並成立AI推動小組，未見已上線確證",
+  "quotes": [
+   {
+    "text": "導入具 AI 人工智能的自動檢驗機",
+    "src": "年報",
+    "url": "https://www.viscovision.com.tw/tw/pdf/data/114年股東會年報.pdf",
+    "page": "PDF第45頁"
+   },
+   {
+    "text": "K. 導入 AI 檢測技術，加強品質管控",
+    "src": "年報",
+    "url": "https://www.viscovision.com.tw/tw/pdf/data/114年股東會年報.pdf",
+    "page": "PDF第65頁"
+   },
+   {
+    "text": "並成立AI推動小組",
+    "src": "永續報告書",
+    "url": "http://www.viscovision.com.tw/pdf/csr/2025_csr_report.pdf",
+    "page": "PDF第113頁"
+   }
+  ],
+  "ri_topics": "個資隱私；法規遵循；倫理；利害關係人溝通",
+  "ri_quote": {
+   "text": "個資法介紹與外洩處理因應、營業秘密等課程",
+   "src": "永續報告書",
+   "url": "http://www.viscovision.com.tw/pdf/csr/2025_csr_report.pdf",
+   "page": "PDF第40頁"
+  }
+ }
+}

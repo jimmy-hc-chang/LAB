@@ -1,0 +1,222 @@
+{
+ "3164": {
+  "annual": {
+   "url": "https://www.genmont.com.tw/uploadfiles/421/利害關係人/公司年報/2025.pdf",
+   "label": "2025年度",
+   "page": "https://www.genmont.com.tw/list/cate-93128.htm"
+  },
+  "esg": {
+   "url": "https://www.genmont.com.tw/uploadfiles/421/公司治理/ESG專區/永續報告書/2025.pdf",
+   "label": "2025年 永續報告書",
+   "page": "https://www.genmont.com.tw/list/cate-392494.htm"
+  },
+  "tried": "genmont site pages"
+ },
+ "4119": {
+  "annual": {
+   "url": "https://www.sci-pharmtech.com.tw/storage/system/pdf/Investors/stockholder_report-2025.pdf",
+   "label": "114年度股東會年報",
+   "page": "https://www.sci-pharmtech.com.tw/investors-03"
+  },
+  "esg": null,
+  "tried": "investors-03"
+ },
+ "4737": {
+  "annual": {
+   "url": "https://www.bionime.com/download/7640/?tmstv=1781662840",
+   "label": "2025 Annual Report",
+   "page": "https://www.bionime.com/shareholders/"
+  },
+  "esg": {
+   "url": "https://download.rightest.com/official_website/bionime/esg/2024_Bionime_ESG_Report.pdf",
+   "label": "2024 Bionime ESG Report",
+   "page": "web search"
+  },
+  "tried": "shareholders, esg pages"
+ },
+ "3205": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.naturalbiokey.com/download_pdf.php?file=SLSESG114.pdf",
+   "label": "114年度永續報告書",
+   "page": "http://www.naturalbiokey.com"
+  },
+  "tried": "homepage; annual page finance-psc.php?arg=shareholder no pdf visible"
+ },
+ "6794": {
+  "annual": {
+   "url": "https://www.unicocell.com/photo/article/649/file244.pdf",
+   "label": "114年度年報",
+   "page": "https://www.unicocell.com/investment/l/20"
+  },
+  "esg": {
+   "url": "https://www.unicocell.com/photo/article/652/file247.pdf",
+   "label": "2025年向榮生技ESG報告書",
+   "page": "https://www.unicocell.com/investment/l/71"
+  },
+  "tried": "investment pages"
+ },
+ "6931": {
+  "annual": {
+   "url": "https://www.qingsong.com.tw/uploads/files/shares/115年股東會資料/(電子用印完成)ㄧ一五年股東常會議事手冊(上傳版).pdf",
+   "label": "股東會年報 (link same as 議事手冊, 115年股東常會)",
+   "page": "https://www.qingsong.com.tw/investor/shareholder/meeting"
+  },
+  "esg": {
+   "url": "https://www.qingsong.com.tw/uploads/files/shares/2026青松健康永續發展報告書0820超連結版_壓縮_FINAL上傳.pdf",
+   "label": "永續報告書 (2025)",
+   "page": "https://www.qingsong.com.tw/investor/government/6a8e7ff015232"
+  },
+  "tried": "investor pages; annual link equals handbook, uncertain"
+ },
+ "4109": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.jiajiebio.com/_files/ugd/3d99ff_32cb33413a6e44d8880c26ce4eee7e92.pdf",
+   "label": "2025 中文版",
+   "page": "https://www.jiajiebio.com/corporate-sustainability"
+  },
+  "tried": "corporate-sustainability"
+ },
+ "4129": {
+  "annual": {
+   "url": "https://www.unitedorthopedic.com/Developer/TW_DL/%E8%82%A1%E6%9D%B1%E6%9C%83/2025/114%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1.pdf",
+   "label": "2025 年股東會年報 (114年)",
+   "page": "https://tw.unitedorthopedic.com/investor/shareholder2/"
+  },
+  "esg": null,
+  "tried": "investor pages"
+ },
+ "4153": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.diva.com.tw/en/esg_download-detail/2025Y/",
+   "label": "Diva Sustainability Report (2025)",
+   "page": "https://www.diva.com.tw/en/esg/"
+  },
+  "tried": "investor/financial, esg; annual not found"
+ },
+ "4183": {
+  "annual": {
+   "url": "https://docs.epsbio.com.tw/Upload/Files/download/2024%20Annual%20Report_4183.pdf",
+   "label": "2024 Annual Report (fallback)",
+   "page": "https://www.epsbio.com.tw/download"
+  },
+  "esg": {
+   "url": "https://docs.epsbio.com.tw/Upload/Files/download/4183%20CSR%20Report.pdf",
+   "label": "CSR Report (undated)",
+   "page": "https://www.epsbio.com.tw/download"
+  },
+  "tried": "download page"
+ },
+ "6615": {
+  "annual": {
+   "url": "https://www.sofivagenomics.com.tw/Download/DownloadFile?no=DW2026060001&lang=zh-TW",
+   "label": "2025年年報",
+   "page": "https://www.sofivagenomics.com.tw/Investor/ConferenceIndex"
+  },
+  "esg": {
+   "url": "https://www.sofivagenomics.com.tw/Download/DownloadFile?no=DW2026080003&lang=zh-TW",
+   "label": "2025年度永續報告書",
+   "page": "https://www.sofivagenomics.com.tw/Social/SocialIndex?parentCatalogNo=CSR00021"
+  },
+  "tried": "investor/social pages"
+ },
+ "4728": {
+  "annual": {
+   "url": "https://sunmaxfile.z11.web.core.windows.net/f/4a2d0f48a81a4decadbe338b783d86df.pdf",
+   "label": "民國114年股東常會-年報下載 (FY2024 fallback)",
+   "page": "https://www.sunmaxbiotech.com/investor/shareholders-meeting"
+  },
+  "esg": null,
+  "tried": "shareholders-meeting"
+ },
+ "8279": {
+  "annual": {
+   "url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=dfile&id=185&i=1",
+   "label": "股東會年報 (year unconfirmed, format unconfirmed)",
+   "page": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=63&index=3"
+  },
+  "esg": null,
+  "tried": "shareholder services page"
+ },
+ "6875": {
+  "annual": null,
+  "esg": null,
+  "tried": "annual_reports page only has English FY113 annual report: https://www.pharmosa.com.tw/uploads/annual_report/stackholder_book/8/%E5%9C%8B%E9%82%91%E8%97%A5%E5%93%81%E5%B9%B4%E5%A0%B1-113%E5%B9%B4%E5%BA%A6%E8%8B%B1%E6%96%87_%E4%B8%8A__.pdf (domain assumed); esg not found (not needed)"
+ },
+ "6547": {
+  "annual": null,
+  "esg": {
+   "url": "https://pro.medigenvac.com/data/report/files/1779691364151065238.pdf",
+   "label": "medigenvac sustainability report (search says 2023 edition, unconfirmed)",
+   "page": "web search"
+  },
+  "tried": "web search only; site 503"
+ },
+ "1720": {
+  "annual": null,
+  "esg": null,
+  "tried": "standard 503; search nothing"
+ },
+ "1762": {
+  "annual": null,
+  "esg": null,
+  "tried": "ccsb 503; search nothing"
+ },
+ "4169": {
+  "annual": null,
+  "esg": null,
+  "tried": "tcmbio invest pages 404; search nothing"
+ },
+ "6598": {
+  "annual": null,
+  "esg": null,
+  "tried": "homepage no links"
+ },
+ "6467": {
+  "annual": null,
+  "esg": null,
+  "tried": "investor pages only google drive financials; no annual/esg"
+ },
+ "7827": {
+  "annual": null,
+  "esg": null,
+  "tried": "financials page only FS; no annual/esg"
+ },
+ "1788": {
+  "annual": null,
+  "esg": null,
+  "tried": "503"
+ },
+ "4121": {
+  "annual": null,
+  "esg": null,
+  "tried": "rossmax IR IP cert error"
+ },
+ "4166": {
+  "annual": null,
+  "esg": null,
+  "tried": "not tried"
+ },
+ "4911": {
+  "annual": null,
+  "esg": null,
+  "tried": "503/search nothing"
+ },
+ "6492": {
+  "annual": null,
+  "esg": null,
+  "tried": "503/search nothing"
+ },
+ "6661": {
+  "annual": null,
+  "esg": null,
+  "tried": "homepage no links"
+ },
+ "6762": {
+  "annual": null,
+  "esg": null,
+  "tried": "homepage no links"
+ }
+}

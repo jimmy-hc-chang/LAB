@@ -1,0 +1,2522 @@
+[
+{
+"code": "1707",
+"abbr": "葡萄王",
+"name": "葡萄王生技股份有限公司",
+"market": "上市",
+"web": "http://www.grapeking.com.tw",
+"date": "19821220",
+"sub": "食品生技－保健食品代理銷售及通路；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "1720",
+"abbr": "生達",
+"name": "生達化學製藥股份有限公司",
+"market": "上市",
+"web": "http://www.standard.com.tw",
+"date": "19951212",
+"sub": "製藥－中、西藥製劑；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "1731",
+"abbr": "美吾華",
+"name": "美吾華股份有限公司",
+"market": "上市",
+"web": "http://www.maywufa.com.tw",
+"date": "20010917",
+"sub": "製藥－藥品代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "1733",
+"abbr": "五鼎",
+"name": "五鼎生物技術股份有限公司",
+"market": "上市",
+"web": "www.apexbio.com.tw",
+"date": "20010917",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "1734",
+"abbr": "杏輝",
+"name": "杏輝藥品工業股份有限公司",
+"market": "上市",
+"web": "www.sinphar.com",
+"date": "20020826",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "1752",
+"abbr": "南光",
+"name": "南光化學製藥股份有限公司",
+"market": "上市",
+"web": "http://www.nangkuang.com.tw",
+"date": "20220119",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "1760",
+"abbr": "寶齡富錦",
+"name": "寶齡富錦生技股份有限公司",
+"market": "上市",
+"web": "http://www.pbf.com.tw",
+"date": "20180123",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路；醫療器材－醫療器材研發、設計、製造；食品生技－保健食品代理銷售及通路；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "1762",
+"abbr": "中化生",
+"name": "中化合成生技股份有限公司",
+"market": "上市",
+"web": "www.ccsb.com.tw",
+"date": "20101220",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "1783",
+"abbr": "和康生",
+"name": "和康生物科技股份有限公司",
+"market": "上市",
+"web": "www.mbi.com.tw",
+"date": "20131220",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "1786",
+"abbr": "科妍",
+"name": "科妍生物科技股份有限公司",
+"market": "上市",
+"web": "www.scivision.com.tw",
+"date": "20131112",
+"sub": "製藥－中、西藥製劑；製藥－原材料；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "1789",
+"abbr": "神隆",
+"name": "台灣神隆股份有限公司",
+"market": "上市",
+"web": "https://www.scinopharm.com/tw",
+"date": "20110929",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "1795",
+"abbr": "美時",
+"name": "美時化學製藥股份有限公司",
+"market": "上市",
+"web": "http://www.lotuspharm.com.tw",
+"date": "20191216",
+"sub": "製藥－中、西藥製劑；食品生技－保健食品代理銷售及通路；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "3164",
+"abbr": "景岳",
+"name": "景岳生物科技股份有限公司",
+"market": "上市",
+"web": "www.genmont.com.tw",
+"date": "20100322",
+"sub": "食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "3705",
+"abbr": "永信",
+"name": "永信國際投資控股股份有限公司",
+"market": "上市",
+"web": "www.yungshingroup.com",
+"date": "20110103",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "3716",
+"abbr": "中化控股",
+"name": "中化控股股份有限公司",
+"market": "上市",
+"web": "https://www.cenra.com/",
+"date": "20240902",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "4104",
+"abbr": "佳醫",
+"name": "佳醫健康事業股份有限公司",
+"market": "上市",
+"web": "www.excelsiormedical.com.tw",
+"date": "20071231",
+"sub": "製藥－藥品代理銷售及通路；製藥－醫療院所；醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4106",
+"abbr": "雃博",
+"name": "雃博股份有限公司",
+"market": "上市",
+"web": "https://tw.wellell.com/zh-tw",
+"date": "20041108",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4108",
+"abbr": "懷特",
+"name": "懷特生技新藥股份有限公司",
+"market": "上市",
+"web": "www.phytohealth.com.tw",
+"date": "20080716",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "4119",
+"abbr": "旭富",
+"name": "旭富製藥科技股份有限公司",
+"market": "上市",
+"web": "www.sci-pharmtech.com.tw",
+"date": "20040107",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "4133",
+"abbr": "亞諾法",
+"name": "亞諾法生技股份有限公司",
+"market": "上市",
+"web": "http://www.abnova.com",
+"date": "20091228",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4137",
+"abbr": "麗豐-KY",
+"name": "麗豐股份有限公司",
+"market": "上市",
+"web": "http://www.chlitinaholding.com/",
+"date": "20131127",
+"sub": "食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4142",
+"abbr": "國光生",
+"name": "國光生物科技股份有限公司",
+"market": "上市",
+"web": "http://www.adimmune.com.tw/",
+"date": "20120503",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "4148",
+"abbr": "全宇生技-KY",
+"name": "全宇生技控股有限公司",
+"market": "上市",
+"web": "www.allcosmos.com",
+"date": "20170608",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "4155",
+"abbr": "訊映",
+"name": "訊映光電股份有限公司",
+"market": "上市",
+"web": "http://www.okbiotech.com",
+"date": "20171205",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4164",
+"abbr": "承業醫",
+"name": "承業生醫投資控股股份有限公司",
+"market": "上市",
+"web": "www.chcg.com",
+"date": "20121024",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4169",
+"abbr": "泰宗",
+"name": "泰宗生物科技股份有限公司",
+"market": "上市",
+"web": "http://www.tcmbio.com/",
+"date": "20260408",
+"sub": "製藥－原材料；製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造；食品生技－保健食品代理銷售及通路；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "4178",
+"abbr": "永笙-KY",
+"name": "永笙生技股份有限公司",
+"market": "上市",
+"web": "https://stemcytebio.com/",
+"date": "20260430",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "4190",
+"abbr": "佐登-KY",
+"name": "佐登妮絲集團股份有限公司",
+"market": "上市",
+"web": "https://www.jourdeness.com",
+"date": "20151021",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "4195",
+"abbr": "基米-創",
+"name": "基龍米克斯生物科技股份有限公司",
+"market": "上市",
+"web": "www.genomics.com.tw",
+"date": "20260511",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4736",
+"abbr": "泰博",
+"name": "泰博科技股份有限公司",
+"market": "上市",
+"web": "http://www.taidoc.com.tw",
+"date": "20231222",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4737",
+"abbr": "華廣",
+"name": "華廣生技股份有限公司",
+"market": "上市",
+"web": "www.bionime.com",
+"date": "20101223",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4746",
+"abbr": "台耀",
+"name": "台耀化學股份有限公司",
+"market": "上市",
+"web": "www.formosalab.com",
+"date": "20110301",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "4771",
+"abbr": "望隼",
+"name": "望隼科技股份有限公司",
+"market": "上市",
+"web": "https://www.vizionfocus.com/",
+"date": "20240318",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6431",
+"abbr": "光麗-KY",
+"name": "光麗生技控股股份有限公司",
+"market": "上市",
+"web": "http://www.kl-holdings.com/",
+"date": "20141204",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "6446",
+"abbr": "藥華藥",
+"name": "藥華醫藥股份有限公司",
+"market": "上市",
+"web": "http://www.PharmaEssentia.com",
+"date": "20240125",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6467",
+"abbr": "泰合",
+"name": "泰合生技藥品股份有限公司",
+"market": "上市",
+"web": "www.tahopharma.com",
+"date": "20261020",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6472",
+"abbr": "保瑞",
+"name": "保瑞藥業股份有限公司",
+"market": "上市",
+"web": "https://bora-corp.com/",
+"date": "20231219",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6491",
+"abbr": "晶碩",
+"name": "晶碩光學股份有限公司",
+"market": "上市",
+"web": "http://www.pegavision.com",
+"date": "20191007",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6534",
+"abbr": "正瀚-創",
+"name": "正瀚生技股份有限公司",
+"market": "上市",
+"web": "www.chbio.com.tw",
+"date": "20231221",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "6541",
+"abbr": "泰福-KY",
+"name": "泰福生技股份有限公司",
+"market": "上市",
+"web": "www.tanvex.com",
+"date": "20171026",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6550",
+"abbr": "北極星藥業-KY",
+"name": "北極星藥業集團股份有限公司",
+"market": "上市",
+"web": "www.polarispharma.com",
+"date": "20220606",
+"sub": "再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6589",
+"abbr": "台康生技",
+"name": "台康生技股份有限公司",
+"market": "上市",
+"web": "http://www.eirgenix.com",
+"date": "20250721",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6598",
+"abbr": "ABC-KY",
+"name": "Applied BioCode Corporation",
+"market": "上市",
+"web": "www.ApBioCode.com/tw",
+"date": "20200609",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6645",
+"abbr": "金萬林-創",
+"name": "金萬林企業股份有限公司",
+"market": "上市",
+"web": "www.kimforest.com",
+"date": "20231221",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6657",
+"abbr": "華安",
+"name": "華安醫學股份有限公司",
+"market": "上市",
+"web": "http://www.energenesis-biomedical.com",
+"date": "20230612",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6666",
+"abbr": "羅麗芬-KY",
+"name": "羅麗芬控股股份有限公司",
+"market": "上市",
+"web": "www.luolihfen.com/",
+"date": "20181119",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "6782",
+"abbr": "視陽",
+"name": "視陽光學股份有限公司",
+"market": "上市",
+"web": "www.viscovision.com.tw",
+"date": "20221128",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6794",
+"abbr": "向榮生技",
+"name": "向榮生醫科技股份有限公司",
+"market": "上市",
+"web": "https://www.unicocell.com",
+"date": "20240521",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6796",
+"abbr": "晉弘",
+"name": "晉弘科技股份有限公司",
+"market": "上市",
+"web": "https://www.miis.com.tw",
+"date": "20220601",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6838",
+"abbr": "台新藥",
+"name": "台新藥股份有限公司",
+"market": "上市",
+"web": "www.formosapharma.com",
+"date": "20240813",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；製藥－原材料；製藥－藥品代理銷售及通路；製藥－醫療院所；醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造；醫療器材－電子零組件、塑膠零件、五金零件；食品生技－保健食品代理銷售及通路；食品生技－加工製成品；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "6861",
+"abbr": "睿生光電",
+"name": "睿生光電股份有限公司",
+"market": "上市",
+"web": "http://www.innocare-x.com",
+"date": "20230327",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6885",
+"abbr": "全福生技",
+"name": "全福生物科技股份有限公司",
+"market": "上市",
+"web": "https://www.brimbiotech.com/",
+"date": "20241216",
+"sub": "製藥－中、西藥製劑；製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6918",
+"abbr": "愛派司",
+"name": "愛派司生技股份有限公司",
+"market": "上市",
+"web": "https://www.aplusbio.com/",
+"date": "20250610",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6919",
+"abbr": "康霈*",
+"name": "康霈生技股份有限公司",
+"market": "上市",
+"web": "www.caliwaybiopharma.com",
+"date": "20241002",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6931",
+"abbr": "青松健康",
+"name": "青松健康股份有限公司",
+"market": "上市",
+"web": "https://www.qingsong.com.tw/",
+"date": "20250115",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6934",
+"abbr": "心誠鎂",
+"name": "心誠鎂行動醫電股份有限公司",
+"market": "上市",
+"web": "www.hcmed-inno.com",
+"date": "20260202",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6936",
+"abbr": "永鴻生技",
+"name": "永鴻國際生技股份有限公司",
+"market": "上市",
+"web": "https://www.vetnostrum.com/",
+"date": "20250428",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "6949",
+"abbr": "沛爾生醫*-創",
+"name": "沛爾生技醫藥股份有限公司",
+"market": "上市",
+"web": "https://www.pellbmt.com",
+"date": "20240308",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6955",
+"abbr": "邦睿生技-創",
+"name": "邦睿生技股份有限公司",
+"market": "上市",
+"web": "https://www.bonraybio.com",
+"date": "20241206",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7799",
+"abbr": "禾榮科",
+"name": "禾榮科技股份有限公司",
+"market": "上市",
+"web": "https://www.heron-neutron.com/",
+"date": "20250915",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7803",
+"abbr": "雲象科技-創",
+"name": "雲象科技股份有限公司",
+"market": "上市",
+"web": "https://www.aetherai.com/",
+"date": "20260520",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": "人工智慧－領域解決方案"
+},
+{
+"code": "7827",
+"abbr": "漢康-KY創",
+"name": "英屬開曼群島商漢康生技(股)公司",
+"market": "上市",
+"web": "https://www.hanchorbio.com",
+"date": "20260529",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "1565",
+"abbr": "精華",
+"name": "精華光學股份有限公司",
+"market": "上櫃",
+"web": "http://www.stshine.com.tw",
+"date": "20040330",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "1777",
+"abbr": "生泰",
+"name": "生泰合成工業股份有限公司",
+"market": "上櫃",
+"web": "https://www.syn-tech.com.tw",
+"date": "20051019",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "1781",
+"abbr": "合世",
+"name": "合世生醫科技股份有限公司",
+"market": "上櫃",
+"web": "www.healthandlife.com.tw",
+"date": "20041224",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "1784",
+"abbr": "訊聯",
+"name": "訊聯生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.BionetCorp.com",
+"date": "20070726",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "1788",
+"abbr": "杏昌",
+"name": "杏昌生技股份有限公司",
+"market": "上櫃",
+"web": "www.hiclearance.com.tw",
+"date": "20090720",
+"sub": "製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "1799",
+"abbr": "易威",
+"name": "易威生醫科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.easywellbio.com",
+"date": "20081110",
+"sub": "製藥－中、西藥製劑；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "1813",
+"abbr": "寶利徠",
+"name": "寶利徠光學科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.gialens.com.tw",
+"date": "20090804",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "3118",
+"abbr": "進階",
+"name": "進階生物科技股份有限公司",
+"market": "上櫃",
+"web": "www.level.com.tw",
+"date": "20080521",
+"sub": "再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑；醫療器材－醫療器材代理銷售及通路；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "3176",
+"abbr": "基亞",
+"name": "基亞生物科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.medigen.com.tw",
+"date": "20111123",
+"sub": "製藥－中、西藥製劑；製藥－原材料；製藥－藥品代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "3205",
+"abbr": "佰研",
+"name": "佰研生化科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.naturalbiokey.com",
+"date": "20050912",
+"sub": "製藥－中、西藥製劑；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "3218",
+"abbr": "大學光",
+"name": "大學光學科技股份有限公司",
+"market": "上櫃",
+"web": "www.uvb.com.tw/",
+"date": "20041129",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4102",
+"abbr": "永日",
+"name": "永日化學工業股份有限公司",
+"market": "上櫃",
+"web": "http://www.yungzip.com",
+"date": "20010320",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "4105",
+"abbr": "東洋",
+"name": "台灣東洋藥品工業股份有限公司",
+"market": "上櫃",
+"web": "www.tty.com.tw",
+"date": "20010927",
+"sub": "製藥－中、西藥製劑；製藥－原材料；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4107",
+"abbr": "邦特",
+"name": "邦特生物科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.bioteq.com.tw/zh-tw",
+"date": "20020304",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4109",
+"abbr": "加捷生醫",
+"name": "加捷生醫股份有限公司",
+"market": "上櫃",
+"web": "https://www.jiajiebio.com",
+"date": "20020808",
+"sub": "食品生技－保健食品代理銷售及通路；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "4111",
+"abbr": "濟生",
+"name": "濟生醫藥生技股份有限公司",
+"market": "上櫃",
+"web": "www.cscp.com.tw",
+"date": "19990306",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "4114",
+"abbr": "健喬",
+"name": "健喬信元醫藥生技股份有限公司",
+"market": "上櫃",
+"web": "http://www.synmosa.com.tw",
+"date": "20030512",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4116",
+"abbr": "明基醫",
+"name": "明基三豐醫療器材股份有限公司",
+"market": "上櫃",
+"web": "www.BenQMedicalTech.com",
+"date": "20151216",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4120",
+"abbr": "友華",
+"name": "友華生技醫藥股份有限公司",
+"market": "上櫃",
+"web": "www.oep.com.tw",
+"date": "20031105",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4121",
+"abbr": "優盛",
+"name": "優盛醫學科技股份有限公司",
+"market": "上櫃",
+"web": "www.rossmax.com",
+"date": "20030725",
+"sub": "製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4123",
+"abbr": "晟德",
+"name": "晟德大藥廠股份有限公司",
+"market": "上櫃",
+"web": "www.centerlab.com.tw",
+"date": "20031007",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "4126",
+"abbr": "太醫",
+"name": "太平洋醫材股份有限公司",
+"market": "上櫃",
+"web": "http://www.pahsco.com.tw",
+"date": "20040209",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4127",
+"abbr": "天良",
+"name": "天良生物科技企業股份有限公司",
+"market": "上櫃",
+"web": "www.tlb.com.tw",
+"date": "20050729",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路；食品生技－保健食品代理銷售及通路；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "4128",
+"abbr": "中天",
+"name": "中天生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://twmicrobio.com/",
+"date": "20060609",
+"sub": "製藥－中、西藥製劑；製藥－原材料；食品生技－保健食品代理銷售及通路；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "4129",
+"abbr": "聯合",
+"name": "聯合骨科器材股份有限公司",
+"market": "上櫃",
+"web": "https://tw.unitedorthopedic.com/",
+"date": "20040929",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4131",
+"abbr": "浩泰",
+"name": "浩泰精準股份有限公司",
+"market": "上櫃",
+"web": "www.neocore.com.tw",
+"date": "20040409",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4138",
+"abbr": "曜亞",
+"name": "曜亞國際股份有限公司",
+"market": "上櫃",
+"web": "http://www.dmttw.com.tw/",
+"date": "20101229",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4139",
+"abbr": "馬光-KY",
+"name": "馬光保健控股股份有限公司",
+"market": "上櫃",
+"web": "https://mk-healthcare.com/",
+"date": "20110429",
+"sub": "製藥－醫療院所",
+"ic_ai": ""
+},
+{
+"code": "4147",
+"abbr": "中裕",
+"name": "中裕新藥股份有限公司",
+"market": "上櫃",
+"web": "https://www.taimedbiologics.com",
+"date": "20151123",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "4153",
+"abbr": "鈺緯",
+"name": "鈺緯科技開發股份有限公司",
+"market": "上櫃",
+"web": "http://www.diva.com.tw/",
+"date": "20130523",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4157",
+"abbr": "太景*-KY",
+"name": "太景醫藥研發控股股份有限公司",
+"market": "上櫃",
+"web": "http://www.taigenbiotech.com/",
+"date": "20140117",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "4160",
+"abbr": "訊聯基因",
+"name": "訊聯基因數位股份有限公司",
+"market": "上櫃",
+"web": "www.GGA.Asia",
+"date": "20120917",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4161",
+"abbr": "聿新科",
+"name": "聿新生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.bioptik.com.tw",
+"date": "20130626",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4162",
+"abbr": "智擎",
+"name": "智擎生技製藥股份有限公司",
+"market": "上櫃",
+"web": "https://www.pharmaengine.com",
+"date": "20120918",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "4163",
+"abbr": "鐿鈦",
+"name": "鐿鈦科技股份有限公司",
+"market": "上櫃",
+"web": "www.intai.com.tw",
+"date": "20121115",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4166",
+"abbr": "友霖",
+"name": "友霖生技醫藥股份有限公司",
+"market": "上櫃",
+"web": "https://academy.oppharma.com/",
+"date": "20250821",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "4167",
+"abbr": "松瑞藥",
+"name": "松瑞製藥股份有限公司",
+"market": "上櫃",
+"web": "https://www.saviorlifetec.com.tw/",
+"date": "20150908",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "4168",
+"abbr": "醣聯",
+"name": "台灣醣聯生技醫藥股份有限公司",
+"market": "上櫃",
+"web": "http://www.glyconex.com.tw/",
+"date": "20121218",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "4173",
+"abbr": "久裕",
+"name": "久裕企業股份有限公司",
+"market": "上櫃",
+"web": "http://www.arich.com.tw",
+"date": "20131031",
+"sub": "製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4174",
+"abbr": "浩鼎",
+"name": "台灣浩鼎生技股份有限公司",
+"market": "上櫃",
+"web": "https://www.obipharma.com",
+"date": "20150323",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "4175",
+"abbr": "杏一",
+"name": "杏一醫療用品股份有限公司",
+"market": "上櫃",
+"web": "http://www.medfirst.com.tw/",
+"date": "20140423",
+"sub": "製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4183",
+"abbr": "福永生技",
+"name": "福永生物科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.epsbio.com.tw/",
+"date": "20170309",
+"sub": "醫療器材－醫療器材研發、設計、製造；醫療器材－電子零組件、塑膠零件、五金零件",
+"ic_ai": ""
+},
+{
+"code": "4188",
+"abbr": "安克",
+"name": "安克生醫股份有限公司",
+"market": "上櫃",
+"web": "https://www.amcad.com.tw/",
+"date": "20150324",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4192",
+"abbr": "杏國",
+"name": "杏國新藥股份有限公司",
+"market": "上櫃",
+"web": "http://www.syncorebio.com",
+"date": "20141028",
+"sub": "製藥－中藥材、西藥原料藥；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4198",
+"abbr": "欣大健康",
+"name": "欣大健康投資控股股份有限公司",
+"market": "上櫃",
+"web": "www.swissray.com",
+"date": "20141223",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4726",
+"abbr": "永昕",
+"name": "永昕生物醫藥股份有限公司",
+"market": "上櫃",
+"web": "https://www.mycenax.com",
+"date": "20131225",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "4728",
+"abbr": "雙美",
+"name": "雙美生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.sunmaxbiotech.com",
+"date": "20120110",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4735",
+"abbr": "豪展",
+"name": "豪展醫療科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.avita.com.tw",
+"date": "20110816",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4743",
+"abbr": "合一",
+"name": "合一生技股份有限公司",
+"market": "上櫃",
+"web": "http://www.onenessbio.com",
+"date": "20110923",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4744",
+"abbr": "皇將",
+"name": "皇將科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.cvctechnologies.com.tw/",
+"date": "20180712",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4745",
+"abbr": "合富-KY",
+"name": "合富醫療控股股份有限公司",
+"market": "上櫃",
+"web": "www.cowealthholding.com",
+"date": "20130130",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4747",
+"abbr": "強生*",
+"name": "強生化學製藥廠股份有限公司",
+"market": "上櫃",
+"web": "https://www.jcpjohnson.com.tw/",
+"date": "20131225",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4905",
+"abbr": "台聯電",
+"name": "台聯電訊股份有限公司",
+"market": "上櫃",
+"web": "www.tainet.com.tw",
+"date": "20011207",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "4911",
+"abbr": "德英",
+"name": "德英生物科技股份有限公司",
+"market": "上櫃",
+"web": "www.geherbs.com.tw",
+"date": "20110321",
+"sub": "製藥－原材料；食品生技－加工製成品；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "5312",
+"abbr": "寶島科",
+"name": "寶島光學科技股份有限公司",
+"market": "上櫃",
+"web": "www.formosa-optical.com.tw",
+"date": "19960525",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6130",
+"abbr": "上亞科技",
+"name": "上亞科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.singbao.com/",
+"date": "20020326",
+"sub": "製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6242",
+"abbr": "立康",
+"name": "立康生醫事業股份有限公司",
+"market": "上櫃",
+"web": "http://likangbio.com",
+"date": "20030423",
+"sub": "食品生技－保健食品代理銷售及通路；食品生技－加工製成品；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "6461",
+"abbr": "益得",
+"name": "益得生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.intechbiopharm.com",
+"date": "20180328",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑；製藥－藥品代理銷售及通路；食品生技－保健食品代理銷售及通路；食品生技－加工製成品；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "6469",
+"abbr": "大樹",
+"name": "大樹醫藥股份有限公司",
+"market": "上櫃",
+"web": "http://www.greattree.com.tw",
+"date": "20160330",
+"sub": "製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6492",
+"abbr": "生華科",
+"name": "生華生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.senhwabio.com",
+"date": "20170424",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6496",
+"abbr": "科懋",
+"name": "科懋生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.excelsiorgroup.com.tw",
+"date": "20160107",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；製藥－原材料；製藥－藥品代理銷售及通路；製藥－醫療院所；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6499",
+"abbr": "益安",
+"name": "益安生醫股份有限公司",
+"market": "上櫃",
+"web": "www.medeonbiodesign.com",
+"date": "20160727",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6523",
+"abbr": "達爾膚",
+"name": "達爾膚生醫科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.drwu.com",
+"date": "20160616",
+"sub": "食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6527",
+"abbr": "明達醫",
+"name": "明達醫學科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.crystalvue.com.tw",
+"date": "20191225",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6535",
+"abbr": "順藥",
+"name": "順天醫藥生技股份有限公司",
+"market": "上櫃",
+"web": "www.lumosa.com.tw",
+"date": "20160926",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6547",
+"abbr": "高端疫苗",
+"name": "高端疫苗生物製劑股份有限公司",
+"market": "上櫃",
+"web": "http://www.medigenvac.com",
+"date": "20180417",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6569",
+"abbr": "醫揚",
+"name": "醫揚科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.onyx-healthcare.com/",
+"date": "20161221",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6574",
+"abbr": "霈方",
+"name": "霈方國際股份有限公司",
+"market": "上櫃",
+"web": "www.mikobeaute.com",
+"date": "20170904",
+"sub": "食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6576",
+"abbr": "逸達",
+"name": "逸達生物科技股份有限公司",
+"market": "上櫃",
+"web": "www.foreseepharma.com",
+"date": "20180629",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6612",
+"abbr": "奈米醫材",
+"name": "應用奈米醫材科技股份有限公司",
+"market": "上櫃",
+"web": "www.icaresmedicus.com",
+"date": "20180718",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6615",
+"abbr": "慧智",
+"name": "慧智基因股份有限公司",
+"market": "上櫃",
+"web": "http://www.sofivagenomics.com.tw",
+"date": "20180122",
+"sub": "",
+"ic_ai": ""
+},
+{
+"code": "6617",
+"abbr": "共信-KY",
+"name": "共信醫藥科技控股股份有限公司",
+"market": "上櫃",
+"web": "www.gongwinbiopharm.com",
+"date": "20240618",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6620",
+"abbr": "漢達",
+"name": "漢達生技醫藥股份有限公司",
+"market": "上櫃",
+"web": "http://www.handapharma.com.tw",
+"date": "20251223",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6637",
+"abbr": "醫影",
+"name": "醫影股份有限公司",
+"market": "上櫃",
+"web": "http://www.mic-tw.com",
+"date": "20240618",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6649",
+"abbr": "台生材",
+"name": "台灣生醫材料股份有限公司",
+"market": "上櫃",
+"web": "www.twbm.com.tw",
+"date": "20190605",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6661",
+"abbr": "威健生技",
+"name": "威健股份有限公司",
+"market": "上櫃",
+"web": "http：//www.welgene.com.tw",
+"date": "20210127",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；製藥－原材料；製藥－藥品代理銷售及通路；製藥－醫療院所；醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6662",
+"abbr": "樂斯科",
+"name": "樂斯科生物科技股份有限公司",
+"market": "上櫃",
+"web": "www.biolasco.com.tw",
+"date": "20190326",
+"sub": "再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑；醫療器材－醫療器材研發、設計、製造；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "6703",
+"abbr": "軒郁",
+"name": "軒郁國際股份有限公司",
+"market": "上櫃",
+"web": "https://www.shinybrands.com/",
+"date": "20201020",
+"sub": "食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6712",
+"abbr": "長聖",
+"name": "長聖國際生技股份有限公司",
+"market": "上櫃",
+"web": "www.ever-supreme.com.tw",
+"date": "20210108",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6730",
+"abbr": "常廣",
+"name": "常廣股份有限公司",
+"market": "上櫃",
+"web": "http://www.lagis.com.tw",
+"date": "20251210",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6733",
+"abbr": "博晟生醫",
+"name": "博晟生醫股份有限公司",
+"market": "上櫃",
+"web": "https://www.biogend.com.tw/",
+"date": "20210128",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6762",
+"abbr": "達亞",
+"name": "達亞國際股份有限公司",
+"market": "上櫃",
+"web": "https://www.deltaasia.com.tw/",
+"date": "20201218",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6767",
+"abbr": "台微醫",
+"name": "台灣微創醫療器材股份有限公司",
+"market": "上櫃",
+"web": "https://www.wiltrom.com.tw/",
+"date": "20210125",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6785",
+"abbr": "昱展新藥",
+"name": "昱展新藥生技股份有限公司",
+"market": "上櫃",
+"web": "www.alarpharm.com",
+"date": "20240124",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6841",
+"abbr": "長佳智能",
+"name": "長佳智能股份有限公司",
+"market": "上櫃",
+"web": "https://www.everfortuneai.com.tw/",
+"date": "20230301",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": "人工智慧－領域解決方案"
+},
+{
+"code": "6844",
+"abbr": "諾貝兒",
+"name": "諾貝兒寶貝股份有限公司",
+"market": "上櫃",
+"web": "https://www.norbelbaby.com.tw",
+"date": "20240308",
+"sub": "製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6872",
+"abbr": "浩宇生醫",
+"name": "浩宇生醫股份有限公司",
+"market": "上櫃",
+"web": "https://navifus.com/",
+"date": "20250307",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6875",
+"abbr": "國邑*",
+"name": "國邑藥品科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.pharmosa.com.tw",
+"date": "20240326",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6929",
+"abbr": "佑全",
+"name": "佑全藥品股份有限公司",
+"market": "上櫃",
+"web": "http://www.yourchance.com.tw/",
+"date": "20240328",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6945",
+"abbr": "圓祥生技",
+"name": "圓祥生技股份有限公司",
+"market": "上櫃",
+"web": "www.apbioinc.com",
+"date": "20260605",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6986",
+"abbr": "和迅",
+"name": "和迅生命科學股份有限公司",
+"market": "上櫃",
+"web": "https://www.hexunbio.com/",
+"date": "20260626",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "7713",
+"abbr": "威力德生醫",
+"name": "威力德生醫股份有限公司",
+"market": "上櫃",
+"web": "https://www.weleader.com.tw",
+"date": "20250224",
+"sub": "醫療器材－醫療器材代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "7814",
+"abbr": "海昌生技",
+"name": "海昌生化科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.biohorien.com",
+"date": "20260716",
+"sub": "再生醫療－臨床實驗、移植技術、疾病治療；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "8279",
+"abbr": "生展",
+"name": "生展生物科技股份有限公司",
+"market": "上櫃",
+"web": "http://www.syngen.com.tw",
+"date": "20160926",
+"sub": "食品生技－保健食品代理銷售及通路；食品生技－加工製成品；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "8403",
+"abbr": "盛弘",
+"name": "盛弘醫藥股份有限公司",
+"market": "上櫃",
+"web": "www.share-hope.com",
+"date": "20110301",
+"sub": "製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "8409",
+"abbr": "商之器",
+"name": "商之器科技股份有限公司",
+"market": "上櫃",
+"web": "https://www.ebmtech.com/tw",
+"date": "20131125",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "8432",
+"abbr": "東生華",
+"name": "東生華製藥股份有限公司",
+"market": "上櫃",
+"web": "http://www.tshbiopharm.com",
+"date": "20120430",
+"sub": "製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "8436",
+"abbr": "大江",
+"name": "大江生醫股份有限公司",
+"market": "上櫃",
+"web": "www.tci-bio.com",
+"date": "20130912",
+"sub": "食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "1271",
+"abbr": "晨暉生技",
+"name": "晨暉生物科技股份有限公司",
+"market": "興櫃",
+"web": "www.sunway.cc",
+"date": "20210118",
+"sub": "製藥－藥品代理銷售及通路；食品生技－保健食品代理銷售及通路；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "3184",
+"abbr": "微邦",
+"name": "微邦科技股份有限公司",
+"market": "興櫃",
+"web": "https://microbasetech.com/",
+"date": "20130418",
+"sub": "醫療器材－醫療器材研發、設計、製造；醫療器材－電子零組件、塑膠零件、五金零件",
+"ic_ai": ""
+},
+{
+"code": "4115",
+"abbr": "善德生技",
+"name": "善德生化科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.sunder.com.tw",
+"date": "20220831",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4117",
+"abbr": "普生",
+"name": "普生股份有限公司",
+"market": "興櫃",
+"web": "www.gbc.com.tw",
+"date": "20020704",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4170",
+"abbr": "鑫品生醫",
+"name": "鑫品生醫科技股份有限公司",
+"market": "興櫃",
+"web": "www.vectorite.com.tw",
+"date": "20231228",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "4172",
+"abbr": "因華",
+"name": "因華生技製藥股份有限公司",
+"market": "興櫃",
+"web": "www.innopharmax.com.tw",
+"date": "20120913",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "4186",
+"abbr": "尖端醫",
+"name": "台灣尖端先進生技醫藥(股)公司",
+"market": "興櫃",
+"web": "http://www.biotest.com.tw",
+"date": "20121127",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "4194",
+"abbr": "禾生技",
+"name": "禾伸堂生技股份有限公司",
+"market": "興櫃",
+"web": "www.hshc.com.tw",
+"date": "20131213",
+"sub": "製藥－中、西藥製劑；製藥－原材料；製藥－藥品代理銷售及通路；醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "4197",
+"abbr": "暐世",
+"name": "暐世生物科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.visgeneer.com.tw",
+"date": "20131024",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "4724",
+"abbr": "宣捷幹細胞",
+"name": "宣捷幹細胞生技股份有限公司",
+"market": "興櫃",
+"web": "http://www.meribank.com.tw",
+"date": "20230616",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "4732",
+"abbr": "彥臣",
+"name": "彥臣生技藥品股份有限公司",
+"market": "興櫃",
+"web": "https://www.naturewiseppls.com/",
+"date": "20071225",
+"sub": "製藥－原材料；製藥－藥品代理銷售及通路；食品生技－保健食品代理銷售及通路；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "6483",
+"abbr": "原創生醫",
+"name": "原創生醫股份有限公司",
+"market": "興櫃",
+"web": "http://www.i-obm.com",
+"date": "20240329",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6493",
+"abbr": "雷虎生",
+"name": "雷虎生技股份有限公司",
+"market": "興櫃",
+"web": "www.ttbio.com",
+"date": "20150108",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6518",
+"abbr": "康科特",
+"name": "康科特股份有限公司",
+"market": "興櫃",
+"web": "http://www.concordmed.com.tw",
+"date": "20150513",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6539",
+"abbr": "麗彤",
+"name": "麗彤生醫科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.dvbiomed.com",
+"date": "20151015",
+"sub": "食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6543",
+"abbr": "普惠醫工",
+"name": "普惠醫工股份有限公司",
+"market": "興櫃",
+"web": "http://www.perfectmedical.com.tw",
+"date": "20190327",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6549",
+"abbr": "景凱",
+"name": "景凱生物科技股份有限公司",
+"market": "興櫃",
+"web": "http://taiwanj.com",
+"date": "20151021",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6564",
+"abbr": "安特羅",
+"name": "安特羅生物科技股份有限公司",
+"market": "興櫃",
+"web": "www.enimmune.com.tw",
+"date": "20180918",
+"sub": "製藥－原材料；製藥－藥品代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6572",
+"abbr": "博錸",
+"name": "博錸生技股份有限公司",
+"market": "興櫃",
+"web": "www.plexbio.com/tw/",
+"date": "20160226",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6580",
+"abbr": "台睿",
+"name": "台睿生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.trx.com.tw/",
+"date": "20170620",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；食品生技－保健食品代理銷售及通路；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "6586",
+"abbr": "醣基",
+"name": "醣基生醫股份有限公司",
+"market": "興櫃",
+"web": "www.chopharma.com",
+"date": "20170927",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6610",
+"abbr": "安成生技",
+"name": "安成生物科技股份有限公司",
+"market": "興櫃",
+"web": "www.twibiotech.com",
+"date": "20161227",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6621",
+"abbr": "華宇藥",
+"name": "華宇藥品股份有限公司",
+"market": "興櫃",
+"web": "https://www.uni-pharma.com.tw/",
+"date": "20170818",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6634",
+"abbr": "欣耀",
+"name": "欣耀生醫股份有限公司",
+"market": "興櫃",
+"web": "www.sinewpharma.com",
+"date": "20170629",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6659",
+"abbr": "天明製藥",
+"name": "天明製藥股份有限公司",
+"market": "興櫃",
+"web": "http://www.timing-pharmacy.com",
+"date": "20251222",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6660",
+"abbr": "厚美德",
+"name": "厚美德生物科技股份有限公司",
+"market": "興櫃",
+"web": "www.hmdbio.com",
+"date": "20261006",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6665",
+"abbr": "康聯生醫",
+"name": "康聯生醫科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.healthconn.com",
+"date": "20171123",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6676",
+"abbr": "祥翊",
+"name": "祥翊製藥股份有限公司",
+"market": "興櫃",
+"web": "http://www.sunnypharmtech.com/",
+"date": "20220119",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6677",
+"abbr": "瑩碩生技",
+"name": "瑩碩生技醫藥股份有限公司",
+"market": "興櫃",
+"web": "http://www.anxo.com.tw",
+"date": "20180627",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6696",
+"abbr": "仁新*",
+"name": "仁新醫藥股份有限公司",
+"market": "興櫃",
+"web": "http://www.linbioscience.com/tw/",
+"date": "20181008",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6704",
+"abbr": "國璽幹細胞",
+"name": "國璽幹細胞應用技術股份有限公司",
+"market": "興櫃",
+"web": "http://www.gwoxi.com.tw",
+"date": "20230426",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6709",
+"abbr": "昱厚生技",
+"name": "昱厚生技股份有限公司",
+"market": "興櫃",
+"web": "www.advagene.com.tw",
+"date": "20181129",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6734",
+"abbr": "安盛生",
+"name": "安盛生科股份有限公司",
+"market": "興櫃",
+"web": "www.ixensor.com",
+"date": "20190628",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6744",
+"abbr": "豐技生技",
+"name": "豐技生物科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.fcbiotech.com.tw",
+"date": "20190925",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6748",
+"abbr": "亞果生醫",
+"name": "亞果生醫股份有限公司",
+"market": "興櫃",
+"web": "www.acrobiomedical.com",
+"date": "20210727",
+"sub": "再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6758",
+"abbr": "冠亞",
+"name": "冠亞生技股份有限公司",
+"market": "興櫃",
+"web": "http://www.aspine.com.tw",
+"date": "20200102",
+"sub": "醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6797",
+"abbr": "圓點奈米",
+"name": "台灣圓點奈米技術股份有限公司",
+"market": "興櫃",
+"web": "https://www.tanbead.com",
+"date": "20201105",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6808",
+"abbr": "三鼎生技",
+"name": "三鼎生物科技股份有限公司",
+"market": "興櫃",
+"web": "www.3dglobalbiotech.com.tw",
+"date": "20201225",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6810",
+"abbr": "新穎生醫",
+"name": "新穎生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.bpmbiotech.com/",
+"date": "20210830",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6814",
+"abbr": "路迦生醫",
+"name": "路迦生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.lukas-biomedical.com/",
+"date": "20201231",
+"sub": "再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6815",
+"abbr": "晶鑽生醫",
+"name": "晶鑽生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.diamond-biotechnology.cc/",
+"date": "20210129",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6817",
+"abbr": "溫士頓",
+"name": "溫士頓醫藥股份有限公司",
+"market": "興櫃",
+"web": "https://www.winston.com.tw/",
+"date": "20210224",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6827",
+"abbr": "巨生醫",
+"name": "巨生生醫股份有限公司",
+"market": "興櫃",
+"web": "http://www.megaprobio.com",
+"date": "20211019",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6847",
+"abbr": "普瑞博",
+"name": "普瑞博生技股份有限公司",
+"market": "興櫃",
+"web": "https://puriblood.com",
+"date": "20211105",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6848",
+"abbr": "拉法醫",
+"name": "拉法生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.rbcbioscience.com/",
+"date": "20211025",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6850",
+"abbr": "光鼎生技",
+"name": "光鼎生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.bioptic.com.tw",
+"date": "20211110",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6857",
+"abbr": "宏碁智醫",
+"name": "宏碁智醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.acer-medical.com/",
+"date": "20211027",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6864",
+"abbr": "元樟生技",
+"name": "元樟生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.ams-bioteq.com/",
+"date": "20211229",
+"sub": "製藥－原材料；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "6876",
+"abbr": "朗齊生醫*",
+"name": "朗齊生物醫學股份有限公司",
+"market": "興櫃",
+"web": "www.launxp.com",
+"date": "20240118",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "6879",
+"abbr": "大江基因",
+"name": "大江基因醫學股份有限公司",
+"market": "興櫃",
+"web": "https://www.tci-gene.com/",
+"date": "20220125",
+"sub": "再生醫療－幹細胞開發；醫療器材－醫療器材研發、設計、製造；食品生技－保健食品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "6891",
+"abbr": "樂迦再生",
+"name": "樂迦再生科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.locus-cell.com/",
+"date": "20220428",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6892",
+"abbr": "台寶生醫",
+"name": "台寶生醫股份有限公司",
+"market": "興櫃",
+"web": "http://www.twbio-thera.com",
+"date": "20220513",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6917",
+"abbr": "竟天",
+"name": "竟天生物科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.androspharma.com",
+"date": "20230112",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6926",
+"abbr": "聖安生醫",
+"name": "聖安生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.shineon-bio.com",
+"date": "20221125",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6932",
+"abbr": "水星生醫*",
+"name": "水星生醫股份有限公司",
+"market": "興櫃",
+"web": "https://merdury.com",
+"date": "20221223",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "6939",
+"abbr": "啟弘生技",
+"name": "啟弘生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.tfbsbio.com/",
+"date": "20230515",
+"sub": "再生醫療－臨床實驗、移植技術、疾病治療；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "6973",
+"abbr": "永立榮",
+"name": "永立榮生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.u-neuron.com/",
+"date": "20230720",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6976",
+"abbr": "育世博-KY",
+"name": "英屬開曼群島商育世博(股)公司",
+"market": "興櫃",
+"web": "https://www.acepodia.com",
+"date": "20230808",
+"sub": "再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "6999",
+"abbr": "瀚醫生技",
+"name": "瀚醫生技股份有限公司",
+"market": "興櫃",
+"web": "https://www.hanbiomedical.com/",
+"date": "20240731",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7422",
+"abbr": "鴻林堂",
+"name": "鴻林堂生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://tw.smobio.com",
+"date": "20260724",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "7427",
+"abbr": "華上生醫",
+"name": "華上生技醫藥股份有限公司",
+"market": "興櫃",
+"web": "http://www.gntbm.com.tw",
+"date": "20210708",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "7561",
+"abbr": "光晟生技",
+"name": "光晟生物科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.bio-ray.com.tw",
+"date": "20200706",
+"sub": "再生醫療－幹細胞收集儲存；食品生技－加工製成品",
+"ic_ai": ""
+},
+{
+"code": "7595",
+"abbr": "世基生醫",
+"name": "世基生物醫學股份有限公司",
+"market": "興櫃",
+"web": "www.pharmigene.com.tw",
+"date": "20201222",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7607",
+"abbr": "通用幹細胞*",
+"name": "通用幹細胞股份有限公司",
+"market": "興櫃",
+"web": "https://www.dgsc.com.tw/",
+"date": "20230525",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7686",
+"abbr": "捷立康",
+"name": "捷立康生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.a-top.tw/",
+"date": "20260831",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7724",
+"abbr": "諾亞克",
+"name": "諾亞克科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.u-ark.com.tw/",
+"date": "20240815",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": "人工智慧－領域解決方案"
+},
+{
+"code": "7725",
+"abbr": "列特博",
+"name": "列特博生技股份有限公司",
+"market": "興櫃",
+"web": "http://www.labturbo.com.tw/",
+"date": "20231222",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7726",
+"abbr": "暄達",
+"name": "暄達醫學科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.carilexmedical.com/",
+"date": "20240227",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7729",
+"abbr": "仲恩生醫",
+"name": "仲恩生醫科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.steminent.com",
+"date": "20240311",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "7754",
+"abbr": "安基生技",
+"name": "安基生技新藥股份有限公司",
+"market": "興櫃",
+"web": "http://www.ajpharm.com",
+"date": "20240625",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "7759",
+"abbr": "視航生醫",
+"name": "視航生物醫學股份有限公司",
+"market": "興櫃",
+"web": "https://www.sunhawkvision.com/",
+"date": "20250310",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "7762",
+"abbr": "吉晟生",
+"name": "吉晟生技股份有限公司",
+"market": "興櫃",
+"web": "https://www.petpharmbio.com",
+"date": "20240725",
+"sub": "製藥－中、西藥製劑；製藥－原材料；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "7773",
+"abbr": "富禾生醫",
+"name": "富禾生醫股份有限公司",
+"market": "興櫃",
+"web": "www.fhb.com.tw",
+"date": "20240926",
+"sub": "再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "7776",
+"abbr": "奧孟亞",
+"name": "奧孟亞股份有限公司",
+"market": "興櫃",
+"web": "http://anyabiopharm.com/tw/",
+"date": "20241025",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "7784",
+"abbr": "安邦生技*",
+"name": "安邦生技股份有限公司",
+"market": "興櫃",
+"web": "https://anbogen.com/",
+"date": "20260505",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "7790",
+"abbr": "思必瑞特",
+"name": "思必瑞特生技股份有限公司",
+"market": "興櫃",
+"web": "https://www.sslab.com/",
+"date": "20241227",
+"sub": "再生醫療－幹細胞開發",
+"ic_ai": ""
+},
+{
+"code": "7808",
+"abbr": "訊聯智藥",
+"name": "訊聯細胞智藥股份有限公司",
+"market": "興櫃",
+"web": "https://www.bionettx.com/",
+"date": "20241212",
+"sub": "再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療",
+"ic_ai": ""
+},
+{
+"code": "7829",
+"abbr": "思捷優達-KY",
+"name": "英屬開曼群島商思捷優達(股)公司",
+"market": "興櫃",
+"web": "https://dasherneuroscience.com",
+"date": "20250603",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "7832",
+"abbr": "智新生技*",
+"name": "智新生技股份有限公司",
+"market": "興櫃",
+"web": "https://www.intelli-gene.com",
+"date": "20250508",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "7837",
+"abbr": "啟新生",
+"name": "啟新生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.cmp-micro.com/",
+"date": "20250528",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": ""
+},
+{
+"code": "7850",
+"abbr": "寶泰生醫",
+"name": "寶泰生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.protectvac.com",
+"date": "20250804",
+"sub": "再生醫療－幹細胞收集儲存；再生醫療－幹細胞開發；再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；製藥－原材料；製藥－藥品代理銷售及通路；製藥－醫療院所；醫療器材－醫療器材代理銷售及通路；醫療器材－醫療器材研發、設計、製造；醫療器材－電子零組件、塑膠零件、五金零件；食品生技－保健食品代理銷售及通路；食品生技－加工製成品；食品生技－原料",
+"ic_ai": ""
+},
+{
+"code": "7851",
+"abbr": "慧康生技*-KY",
+"name": "英屬開曼群島商慧康生活科技(股)",
+"market": "興櫃",
+"web": "https://www.health2sync.com/tw",
+"date": "20251119",
+"sub": "醫療器材－醫療器材研發、設計、製造",
+"ic_ai": "人工智慧－雲端平台；人工智慧－領域解決方案"
+},
+{
+"code": "7860",
+"abbr": "得生製藥",
+"name": "得生製藥股份有限公司",
+"market": "興櫃",
+"web": "http://www.tehseng.com/",
+"date": "20250909",
+"sub": "製藥－中、西藥製劑；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "7871",
+"abbr": "安立璽榮-KY",
+"name": "安立璽榮醫藥股份有限公司",
+"market": "興櫃",
+"web": "https://elixiron.com",
+"date": "20260113",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "7876",
+"abbr": "鼎晉生技",
+"name": "鼎晉生技股份有限公司",
+"market": "興櫃",
+"web": "https://www.obigenpharma.com/",
+"date": "20251124",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥；製藥－原材料；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "7878",
+"abbr": "藥祇",
+"name": "藥祇生醫股份有限公司",
+"market": "興櫃",
+"web": "https://www.pharmasaga.com",
+"date": "20251127",
+"sub": "製藥－中、西藥製劑；製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "7881",
+"abbr": "科明",
+"name": "科明儀器股份有限公司",
+"market": "興櫃",
+"web": "https://www.eyecaretech.com.tw",
+"date": "20251126",
+"sub": "醫療器材－醫療器材代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "7888",
+"abbr": "麗寶新藥",
+"name": "麗寶新藥生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://libopharma.com/",
+"date": "20251223",
+"sub": "製藥－原材料",
+"ic_ai": ""
+},
+{
+"code": "7891",
+"abbr": "博研醫藥",
+"name": "博研醫藥開發股份有限公司",
+"market": "興櫃",
+"web": "https://www.boyentherapeutics.com",
+"date": "20260114",
+"sub": "製藥－中藥材、西藥原料藥",
+"ic_ai": ""
+},
+{
+"code": "7902",
+"abbr": "宇越生醫*",
+"name": "宇越生醫科技股份有限公司",
+"market": "興櫃",
+"web": "http://www.uwell.com.tw/",
+"date": "20260122",
+"sub": "再生醫療－臨床實驗、移植技術、疾病治療；製藥－中、西藥製劑；製藥－藥品代理銷售及通路",
+"ic_ai": ""
+},
+{
+"code": "7920",
+"abbr": "瀚陽*",
+"name": "瀚陽生物科技股份有限公司",
+"market": "興櫃",
+"web": "https://www.2t-pharma.com",
+"date": "20260520",
+"sub": "製藥－中、西藥製劑",
+"ic_ai": ""
+},
+{
+"code": "7924",
+"abbr": "TLC-KY",
+"name": "TLC BioSciences Corp.",
+"market": "興櫃",
+"web": "https://www.tlcbio.com",
+"date": "20260626",
+"sub": "製藥－原材料",
+"ic_ai": ""
+}
+]

@@ -1,0 +1,314 @@
+{
+ "1752": {
+  "annual": {
+   "url": "https://www.nangkuang.com.tw/upload/%E6%8A%95%E8%B3%87%E4%BA%BA%E5%B0%88%E5%8D%80/%E8%82%A1%E6%9D%B1%E5%B0%88%E5%8D%80/%E8%82%A1%E6%9D%B1%E6%9C%83%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A/%E5%B9%B4%E5%A0%B1/(%E9%99%84%E4%BB%B6%E5%9B%9B)%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1.pdf",
+   "label": "115年股東常會 年報(114年度)",
+   "page": "https://www.nangkuang.com.tw/?route=article/investor&investor_id=4"
+  },
+  "esg": {
+   "url": "https://www.nangkuang.com.tw/upload/%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A/2025%E6%B0%B8%E7%BA%8C%E8%A8%88%E7%95%AB%E6%9B%B8_%E6%94%B9.pdf",
+   "label": "2025 114年度永續報告書",
+   "page": "https://www.nangkuang.com.tw/?route=download/esg_report"
+  },
+  "tried": "官網股東會資訊頁、永續報告書頁"
+ },
+ "1789": {
+  "annual": {
+   "url": "https://www.scinopharm.com/tw/investor_document-detail/354/",
+   "label": "民國114年度年報",
+   "page": "https://www.scinopharm.com/tw/investor/report/annual-report/"
+  },
+  "esg": {
+   "url": "https://www.scinopharm.com/download/2025ESG_CH/",
+   "label": "2025年永續報告書",
+   "page": "https://www.scinopharm.com/tw/esg/report/download/"
+  },
+  "tried": "官網年報頁、ESG下載頁(連結為導向PDF的下載網址)"
+ },
+ "4104": {
+  "annual": {
+   "url": "https://www.excelsiormedical.com.tw/wp-content/uploads/2026/06/%E8%82%A1%E5%8B%99-115%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1%E4%B8%AD.pdf",
+   "label": "115年股東會年報 中文版(114年度)",
+   "page": "https://www.excelsiormedical.com.tw/投資人專區/股東會/"
+  },
+  "tried": "官網股東會頁",
+  "esg": null
+ },
+ "4195": {
+  "annual": {
+   "url": "https://www.genomics.com.tw/upload/2026_07_22/2_20260722113109wul4opug30.pdf",
+   "label": "114 年 年報下載",
+   "page": "https://www.genomics.com.tw/tw/investors/financial"
+  },
+  "esg": null,
+  "tried": "官網財務資訊、ESG頁(ESG report頁僅含年報,未見永續報告書)"
+ },
+ "6431": {
+  "annual": {
+   "url": "http://www.kl-holdings.com/file/download/402880879649b34a0197145e4ba80016",
+   "label": "光麗生技控股集團2025年度年報",
+   "page": "http://www.kl-holdings.com/yearReport/list"
+  },
+  "esg": {
+   "url": "http://www.kl-holdings.com/file/download/402880879e870a2e01a04298f9170009",
+   "label": "2025永續報告書",
+   "page": "http://www.kl-holdings.com/csr/esg"
+  },
+  "tried": "官網公司年報、ESG頁"
+ },
+ "6550": {
+  "annual": {
+   "url": "https://polarispharma.com/wp-content/uploads/2025/05/2024_6550_AnnualReport_CH.pdf",
+   "label": "2024年度年報(官網最新僅此)",
+   "page": "https://polarispharma.com/investors/annual-report/"
+  },
+  "esg": {
+   "url": "https://polarispharma.com/wp-content/uploads/2026/08/%E5%8C%97%E6%A5%B5%E6%98%9F-2025ESG-CH.pdf",
+   "label": "2025 ESG 報告書(請按此下載報告書)",
+   "page": "https://polarispharma.com/esg/"
+  },
+  "tried": "官網年報頁僅列至2024年度"
+ },
+ "6666": {
+  "annual": {
+   "url": "https://cloud-1251007531.bcdn8.com/luolifen0923/uploads/20260513/7c13c043f5f9f5a88ccbecde5d52b667.pdf",
+   "label": "2025年年報(尚未適用永續揭露準則)",
+   "page": "http://www.luolihfen.com/yearly-report"
+  },
+  "esg": null,
+  "tried": "官網年度報告頁、股東會頁;未見永續報告書"
+ },
+ "6918": {
+  "annual": {
+   "url": "https://storage.upage.cool/62bd37bbd08bef0018a02872/2026/05/12/019e1ac5-6204-7159-8f79-a64263dfb158.pdf",
+   "label": "年報(2026/05/29股東常會)",
+   "page": "https://www.aplusbio.com/tw/investor/shareholder/meetingInformation"
+  },
+  "tried": "官網股東會資訊頁",
+  "esg": null
+ },
+ "7799": {
+  "annual": {
+   "url": "https://www.heron-neutron.com/files/InvestorRelations/3.%20ShareholderInformation/2.AnnualReport/114AnnualReport.pdf",
+   "label": "2025年度年報",
+   "page": "https://www.heron-neutron.com/investors/shareholders/annual-report"
+  },
+  "tried": "官網股東會年報頁",
+  "esg": null
+ },
+ "1781": {
+  "esg": {
+   "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/08/2025_%E5%90%88%E4%B8%96ESG%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "label": "2025年度 永續報告書(中文)",
+   "page": "https://www.healthandlife.com.tw/zh-tw/sustainability-report/"
+  },
+  "annual": {
+   "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/05/year_114.pdf",
+   "label": "114年度股東會年報",
+   "page": "https://www.healthandlife.com.tw/zh-tw/annual-report/"
+  },
+  "tried": "官網中文站股東會資料、永續報告書頁"
+ },
+ "3118": {
+  "annual": {
+   "url": "http://www.level.com.tw/record.php?field=file4&id=2643",
+   "label": "115年股東會 年報(115年報.pdf)",
+   "page": "http://www.level.com.tw/investor_tw_2.php"
+  },
+  "esg": {
+   "url": "https://www.level.com.tw/_i/assets/file/esgreports/38339ef1dc46eda78b392cfe7f2cd38b.pdf",
+   "label": "2025年永續報告書",
+   "page": "http://www.level.com.tw/esgreports_tw.php"
+  },
+  "tried": "官網股東專區、永續報告書頁(record.php需先開啟股東專區頁取得session才可下載)"
+ },
+ "4105": {
+  "annual": {
+   "url": "http://www.tty.com.tw/rwd1181/store/F3/TTY%E5%B9%B4%E5%A0%B12025.pdf",
+   "label": "公司年報 2025年度",
+   "page": "http://www.tty.com.tw/Category.asp?category_id=73"
+  },
+  "esg": {
+   "url": "http://www.tty.com.tw/rwd1181/store/F3/2025%20TTY%20Sustainability%20Report_CH.pdf",
+   "label": "2025 TTY永續報告書",
+   "page": "http://www.tty.com.tw/Category.asp?category_id=158"
+  },
+  "tried": "官網年報頁;永續報告書頁(category_id=134)HTML中未見PDF連結"
+ },
+ "4127": {
+  "annual": {
+   "url": "https://www.tlb.com.tw/?attachment_id=20995&download=1",
+   "label": "115年第1次常會 股東會年報(114股東會0625年報)",
+   "page": "https://www.tlb.com.tw/股東會相關資訊/"
+  },
+  "esg": {
+   "url": "https://www.tlb.com.tw/?attachment_id=20970&download=1",
+   "label": "永續報告書 114年度",
+   "page": "https://www.tlb.com.tw/永續報告書-2/"
+  },
+  "tried": "官網股東會資訊、永續報告書頁(下載連結會轉址到PDF)"
+ },
+ "4139": {
+  "annual": {
+   "url": "https://mk-healthcare.com/storage/ShareHolder/20260806/lvKgRjSipcVNN60zPWvEo7RciDq1zqNKU3JfvF6x.pdf",
+   "label": "2025年年報",
+   "page": "https://mk-healthcare.com/shareholder"
+  },
+  "esg": {
+   "url": "https://mk-healthcare.com/storage/SustainabilityDownload/20260828/WW5tKjnojfDlgEGOEVDTcdkDmjGAvS5UfGIxIrNd.pdf",
+   "label": "永續報告書 2025年度",
+   "page": "https://mk-healthcare.com/sustainabilitydownload"
+  },
+  "tried": "官網股東專區、企業永續下載頁"
+ },
+ "4198": {
+  "esg": {
+   "url": "https://swissray-s3.s3.ap-southeast-1.amazonaws.com/pdfUpload/1788138849497-qshhxwvyldn.pdf",
+   "label": "2025永續報告書",
+   "page": "https://www.swissray.com/esg-sustainability/sustainability-reports"
+  },
+  "annual": null,
+  "tried": "官網永續報告書頁"
+ },
+ "4745": {
+  "esg": {
+   "url": "https://storage-twnew.cowealth.com/UploadFiles/pdf/2026-08-27/115457504323305.pdf",
+   "label": "2025合富醫療控股股份有限公司-2025年度永續報告書",
+   "page": "https://www.cowealthholding.com/irm/esg.html"
+  },
+  "annual": null,
+  "tried": "官網ESG報告頁"
+ },
+ "6527": {
+  "annual": {
+   "url": "http://www.crystalvue.com.tw/zh-tw/data/files/1755567716422331015.pdf",
+   "label": "114年股東會年報(114年度為2024年度,官網尚無115年版)",
+   "page": "http://www.crystalvue.com.tw/zh-tw/meeting.php?page=3"
+  },
+  "esg": null,
+  "tried": "官網股東會資料頁(分頁1-3);首頁未見永續報告書"
+ },
+ "6637": {
+  "annual": {
+   "url": "https://www.mic-tw.com/NewFile/20260508.pdf",
+   "label": "年報 114年",
+   "page": "https://www.mic-tw.com/shareholder.php"
+  },
+  "esg": {
+   "url": "https://www.mic-tw.com/20260825_2025_MIC_ESG.pdf",
+   "label": "2025年永續報告書(中文)",
+   "page": "https://www.mic-tw.com/environmental.php"
+  },
+  "tried": "官網股東會頁、永續發展報告書頁"
+ },
+ "6730": {
+  "annual": {
+   "url": "https://www.lagis.com.tw/pdf/785203/2025_6730_20260529F04.pdf",
+   "label": "114年度年報 股東會年報",
+   "page": "https://www.lagis.com.tw/shareholder"
+  },
+  "esg": {
+   "url": "https://www.lagis.com.tw/pdf/734365/2025-csr-report-0813.pdf",
+   "label": "2025 常廣股份有限公司永續報告書",
+   "page": "https://www.lagis.com.tw/csr-report"
+  },
+  "tried": "官網股東會資訊、CSR報告頁(curl 403,改用WebFetch)"
+ },
+ "6841": {
+  "esg": {
+   "url": "https://www.everfortuneai.com.tw/api/v1/s3/file?file=1uxlevg1000dl2rlvkdaae1600p4gbhe.ESG-%E9%95%B7%E4%BD%B3%E6%99%BA%E8%83%BD2025%20-%200828.pdf",
+   "label": "下載永續報告書(ESG-長佳智能2025)",
+   "page": "https://www.everfortuneai.com.tw/esg/report"
+  },
+  "annual": null,
+  "tried": "官網股東會資訊(shareholder5)僅有114年開會通知/手冊/議事錄與113年年報,無114年度年報"
+ },
+ "7713": {
+  "annual": {
+   "url": "https://stofficialdbprd.blob.core.windows.net/weleader/template2/1778571458006_114%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1.pdf",
+   "label": "114年股東會年報",
+   "page": "https://www.weleader.com.tw/InvestorRelations/Page/046f2ca2-a1e2-448c-acef-08dca7c1d24d"
+  },
+  "tried": "官網股東會資訊頁",
+  "esg": null
+ },
+ "4142": {
+  "annual": {
+   "url": "https://www.adimmune.com.tw/uploads/images/investors/financial/1_114%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83(113%E5%B9%B4%E5%B9%B4%E5%A0%B1).pdf",
+   "label": "113年年報(114年股東會)",
+   "page": "https://www.adimmune.com.tw/tw/investor/report"
+  },
+  "esg": {
+   "url": "https://www.adimmune.com.tw/uploads/images/adimmuneESG2025.pdf",
+   "label": "2025 年永續報告書",
+   "page": "https://www.adimmune.com.tw/tw/csr/page/永續報告書"
+  },
+  "tried": "官網股東服務頁(僅列至114年股東會/113年年報)、永續報告書頁"
+ },
+ "4161": {
+  "annual": {
+   "url": "http://www.bioptik.com.tw/media/f/investor/2025_4161_20260623F04_20260605_084207.pdf",
+   "label": "公司年報 2025",
+   "page": "http://www.bioptik.com.tw/tw/investor/ShareholderColumn"
+  },
+  "esg": {
+   "url": "http://www.bioptik.com.tw/media/f/investor/2025%E5%B9%B4%E5%BA%A6%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "label": "2025_聿新生技永續報告書 (2026/08/26)",
+   "page": "http://www.bioptik.com.tw/tw/investor/CorporateGovernance"
+  },
+  "tried": "官網股東專欄/公司治理頁(資料由 fn/getdata_investor_table.php 載入)"
+ },
+ "4173": {
+  "annual": {
+   "url": "https://www.backend.arich.com.tw/uploads/files/9b000e3c9a4a91f8fa782354afff228a.pdf",
+   "label": "115年 股東會年報",
+   "page": "http://www.arich.com.tw/stockholder.php?type=0"
+  },
+  "esg": {
+   "url": "https://www.backend.arich.com.tw/uploads/files/2025%E5%B9%B4%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8(%E4%B8%AD)%E4%B9%85%E8%A3%954173.pdf",
+   "label": "2025年永續報告書",
+   "page": "http://www.arich.com.tw/#ESG"
+  },
+  "tried": "官網股東專區、ESG區(資料來自 backend.arich.com.tw API)"
+ },
+ "6461": {
+  "annual": {
+   "url": "http://www.intechbiopharm.com/CKEdit/upload/files/202601051622.pdf",
+   "label": "股東會年報(2025/05/20股東會,即113年度;官網尚無115年版)",
+   "page": "http://www.intechbiopharm.com/investors_detail.php?cat=201405271020407242&id=202212192340009496"
+  },
+  "esg": {
+   "url": "http://www.intechbiopharm.com/CKEdit/upload/files/202610061046.pdf",
+   "label": "2025年永續報告書",
+   "page": "http://www.intechbiopharm.com/investors_detail.php?cat=202209131718468075&id=202508281206159886"
+  },
+  "tried": "官網股東會資訊頁、益得永續報告書頁"
+ },
+ "6576": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.foreseepharma.com/uploads/images/6576_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_%E9%80%B8%E9%81%94%E7%94%9F%E6%8A%80_revised.pdf",
+   "label": "逸達生物科技 2024 永續報告書(2025版官網未見)",
+   "page": "https://www.foreseepharma.com/tw/esg/category"
+  },
+  "tried": "官網投資人/ESG頁為JS動態載入看不到年報清單;搜尋僅得112年度年報、2024永續報告書;115股東會頁僅有開會通知/手冊/議事錄"
+ },
+ "8436": {
+  "annual": {
+   "url": "https://www.tci-bio.com/wp-content/uploads/2025/10/2024%E5%B9%B4%E5%BA%A6%E5%B9%B4%E5%A0%B1.pdf",
+   "label": "2024 年度企業年報(官網最新僅此)",
+   "page": "https://www.tci-bio.com/zh-hant/investor/financial-information/"
+  },
+  "tried": "官網財務資訊頁,最新為2024年度",
+  "esg": null
+ },
+ "4116": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.benqmedicaltech.com/proimages/4116%E6%98%8E%E5%9F%BA%E9%86%AB_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_Final_CN(%E4%B8%8A%E5%82%B3)r.pdf",
+   "label": "2024 明基醫永續報告書(2025版未取得)",
+   "page": "https://www.benqmedicaltech.com/msg/message-永續報告書-346.html"
+  },
+  "tried": "官網公司年報/永續報告書頁為JS動態載入,curl/WebFetch看不到清單;WebSearch找到2024永續報告書,未找到年報"
+ }
+}

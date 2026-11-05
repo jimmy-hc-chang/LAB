@@ -1,0 +1,410 @@
+{
+ "4724": {
+  "level": "規劃中",
+  "basis": "官網新聞稱與先勁智能合作導入AI免疫數據分析，力拚年底落地",
+  "quotes": [
+   {
+    "text": "先勁智能導入的 AI技術，為宣捷打造「免疫細胞數據分析系統」",
+    "src": "官網",
+    "url": "https://www.meribank.com.tw/news-detail/160/",
+    "page": "官網"
+   },
+   {
+    "text": "這項整合AI與專利擴增技術的治療方案，力拚最快在今年底前正式落地",
+    "src": "官網",
+    "url": "https://www.meribank.com.tw/news-detail/160/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6483": {
+  "level": "規劃中",
+  "basis": "年報載明規劃以人工智慧技術提升藥物載體模型並列為研發重點",
+  "quotes": [
+   {
+    "text": "透過測試不同藥物包覆實驗持續提升模型精準度，以提升藥物療效與安全性",
+    "src": "年報",
+    "url": "http://www.i-obm.com/upload_files/shareholders-meeting-information/112_Annual_Report.pdf",
+    "page": "PDF第8頁"
+   },
+   {
+    "text": "透過人工智慧在藥物研發的協助，可以將專利技術平台做最大的衍生",
+    "src": "年報",
+    "url": "http://www.i-obm.com/upload_files/shareholders-meeting-information/112_Annual_Report.pdf",
+    "page": "PDF第9頁"
+   }
+  ],
+  "ri_topics": "資訊安全；受試者；倫理；客戶隱私",
+  "ri_quote": {
+   "text": "資通安全管理架構本公司資訊安全之權責單位為管理部下轄資訊管理室",
+   "src": "年報",
+   "url": "http://www.i-obm.com/upload_files/shareholders-meeting-information/112_Annual_Report.pdf",
+   "page": "PDF第75頁"
+  }
+ },
+ "6518": {
+  "level": "已實施",
+  "basis": "官網稱攜手醫院全面導入AI輔助判讀系統（合作部署）",
+  "quotes": [
+   {
+    "text": "全面導入低劑量電腦斷層（LDCT）AI輔助判讀系統",
+    "src": "官網",
+    "url": "http://www.concordmed.com.tw/news_main.asp?newsid=10107",
+    "page": "官網"
+   },
+   {
+    "text": "康科特攜手中英醫院導入神瑞AI 強化肺癌篩檢量能",
+    "src": "官網",
+    "url": "http://www.concordmed.com.tw/news_main.asp?newsid=10107",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6564": {
+  "level": "規劃中",
+  "basis": "自研川崎症AI輔助診斷軟體，已完成QMS並推進法規送件",
+  "quotes": [
+   {
+    "text": "其研發的川崎症AI輔助診斷軟體「貝可安（PEKAN）」已完成醫療器材品質管理系統",
+    "src": "官網",
+    "url": "http://www.enimmune.com.tw/tw/news/新聞集錦/安特羅推動川崎症-AI-輔助診斷系統-完成-QMS-建置並推進法規送件",
+    "page": "官網"
+   },
+   {
+    "text": "安特羅生技未來將持續推進查驗登記及市場布局",
+    "src": "官網",
+    "url": "http://www.enimmune.com.tw/tw/news/新聞集錦/安特羅推動川崎症-AI-輔助診斷系統-完成-QMS-建置並推進法規送件",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6665": {
+  "level": "規劃中",
+  "basis": "取得Tempus AI代理權，官網稱將引進其AI分析技術",
+  "quotes": [
+   {
+    "text": "康聯生醫將在現有的數位健康網絡中，引進 Tempus AI 分析技術",
+    "src": "官網",
+    "url": "https://www.healthconn.com/news-detail40.htm",
+    "page": "官網"
+   },
+   {
+    "text": "康聯生醫取得 Tempus 台灣代理權，以 AI 科技現代化癌症基因檢測",
+    "src": "官網",
+    "url": "https://www.healthconn.com",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6704": {
+  "level": "無",
+  "basis": "證據包僅有亂碼檔案，無公司自身AI內容",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6709": {
+  "level": "無",
+  "basis": "AI僅為臨床試驗編碼AD17002-AI01，非人工智慧",
+  "quotes": [],
+  "ri_topics": "利害關係人溝通；客戶隱私；受試者；資訊安全",
+  "ri_quote": {
+   "text": "本公司設有發言人及代理發言人，作為利害關係人溝通管道。",
+   "src": "年報",
+   "url": "https://cdn.prod.website-files.com/6964bf97ac8ccf5c6cd0cfda/6a38f56ca228486a7cca225e_114%E5%B9%B4%E5%BA%A6%E6%98%B1%E5%8E%9A%E5%B9%B4%E5%A0%B1.pdf",
+   "page": "PDF第24頁"
+  }
+ },
+ "6734": {
+  "level": "已實施",
+  "basis": "官網產品結合AI代謝分析與個人化建議",
+  "quotes": [
+   {
+    "text": "AI that reads your metabolic trends.",
+    "src": "官網",
+    "url": "http://www.ixensor.com",
+    "page": "官網"
+   },
+   {
+    "text": "Your health data builds with every test; AI keeps learning and refining its advice",
+    "src": "官網",
+    "url": "http://www.ixensor.com",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6744": {
+  "level": "規劃中",
+  "basis": "年報列2025年開發項目：以AI建立演算法自動判讀報告",
+  "quotes": [
+   {
+    "text": "交由 AI 執行，使報告判讀更精準快速",
+    "src": "年報",
+    "url": "https://www.fcbiotech.com.tw/wp-content/uploads/2026/09/附檔一年報115.pdf",
+    "page": "PDF第70頁"
+   },
+   {
+    "text": "進一步可將資料彙整成基因資料庫，利用 AI 進行大數據分析",
+    "src": "年報",
+    "url": "https://www.fcbiotech.com.tw/wp-content/uploads/2026/09/附檔一年報115.pdf",
+    "page": "PDF第70頁"
+   }
+  ],
+  "ri_topics": "資訊安全；個人隱私",
+  "ri_quote": {
+   "text": "機密性、敏感性及未同意之個人隱私資料及文件，不得上網公布。",
+   "src": "年報",
+   "url": "https://www.fcbiotech.com.tw/wp-content/uploads/2026/09/附檔一年報115.pdf",
+   "page": "PDF第71頁"
+  }
+ },
+ "6814": {
+  "level": "只是談論",
+  "basis": "官網僅為AI醫療影像講座與趨勢介紹，未述公司自身應用",
+  "quotes": [
+   {
+    "text": "在全球醫療發展趨勢中，AI已逐漸成為智慧醫療的重要核心",
+    "src": "官網",
+    "url": "https://www.lukas-biomedical.com/news-detail/268/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6857": {
+  "level": "已實施",
+  "basis": "VeriSee DR/AMD為AI輔助診斷軟體，DR獲TFDA核准",
+  "quotes": [
+   {
+    "text": "The first ophthalmic AI Software as a Medical Device (SaMD) approved by Taiwan FDA",
+    "src": "官網",
+    "url": "https://www.acer-medical.com/solutions/verisee-dr/",
+    "page": "官網"
+   },
+   {
+    "text": "VeriSee DR is an AI-assisted diagnostic software for diabetic retinopathy",
+    "src": "官網",
+    "url": "https://www.acer-medical.com/solutions/verisee-dr/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6876": {
+  "level": "無",
+  "basis": "年報僅提大數據分析，未述AI",
+  "quotes": [],
+  "ri_topics": "受試者保護；IRB；資訊安全",
+  "ri_quote": {
+   "text": "12 名受試者已完成試驗，並於 114 年 Q1 申請 IRB 結案",
+   "src": "年報",
+   "url": "https://launxp.com/wp-content/uploads/2026/06/2025年報.pdf",
+   "page": "PDF第8頁"
+  }
+ },
+ "6891": {
+  "level": "規劃中",
+  "basis": "年報稱新廠將結合AI智慧化管理系統並規劃導入AI",
+  "quotes": [
+   {
+    "text": "此外工廠將結合自動化生產模組與AI智慧化管理系統",
+    "src": "年報",
+    "url": "http://www.locus-cell.com/download/shareholder/%e6%a8%82%e8%bf%a6_2025%e5%b9%b4%e8%82%a1%e6%9d%b1%e5%b8%b8%e6%9c%83%e5%b9%b4%e5%a0%b1_Final.pdf",
+    "page": "PDF第8頁"
+   },
+   {
+    "text": "並導入IT、AI及IoT，實現智慧工廠之升級",
+    "src": "年報",
+    "url": "http://www.locus-cell.com/download/shareholder/%e6%a8%82%e8%bf%a6_2025%e5%b9%b4%e8%82%a1%e6%9d%b1%e5%b8%b8%e6%9c%83%e5%b9%b4%e5%a0%b1_Final.pdf",
+    "page": "PDF第68頁"
+   }
+  ],
+  "ri_topics": "個人資料保護；客戶隱私；利害關係人溝通；受試者",
+  "ri_quote": {
+   "text": "本公司制定《個人資料保護管理辦法》，明確規範個人資料之蒐集、使用、查詢、修改",
+   "src": "年報",
+   "url": "http://www.locus-cell.com/download/shareholder/%e6%a8%82%e8%bf%a6_2025%e5%b9%b4%e8%82%a1%e6%9d%b1%e5%b8%b8%e6%9c%83%e5%b9%b4%e5%a0%b1_Final.pdf",
+   "page": "PDF第46頁"
+  }
+ },
+ "6892": {
+  "level": "只是談論",
+  "basis": "僅出現董事進修課程主題「AI熱潮」",
+  "quotes": [
+   {
+    "text": "2024WIW: AI熱潮下的數位金融及永續金融協奏曲專題講座",
+    "src": "官網",
+    "url": "http://www.twbio-thera.com/tw/investor/1/3",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6926": {
+  "level": "只是談論",
+  "basis": "官網僅載董事長期望未來發展人工智慧",
+  "quotes": [
+   {
+    "text": "未來，他希望結合工研院、學術界、醫療界、產業界，發展精準智慧醫療、人工智慧、新藥開發",
+    "src": "官網",
+    "url": "https://www.shineon-bio.com/news_detail/35",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6932": {
+  "level": "只是談論",
+  "basis": "年報AI多為產業趨勢描述，製程AI模組歸屬不明確",
+  "quotes": [
+   {
+    "text": "人工智慧（AI）與數位科技的導入，正加速改變產業運作模式",
+    "src": "年報",
+    "url": "https://merdury.com/wp-content/uploads/2026/06/2026股東會年報.pdf",
+    "page": "PDF第49頁"
+   }
+  ],
+  "ri_topics": "資訊安全；利害關係人溝通；客戶隱私",
+  "ri_quote": {
+   "text": "負責公司治理之法令遵循、訂定合理之薪酬政策及員工績效考核制度、教育訓練，及利害關係人溝通機制",
+   "src": "永續報告書",
+   "url": "https://merdury.com/wp-content/uploads/2025/04/規章_永續發展委員會組織規程.pdf",
+   "page": "PDF第1頁"
+  }
+ },
+ "7561": {
+  "level": "已實施",
+  "basis": "官網產品稱使用獨家AI關聯解碼引擎解讀數據",
+  "quotes": [
+   {
+    "text": "獨家 AI 關聯解碼引擎",
+    "src": "官網",
+    "url": "https://www.bio-ray.com.tw/product/4",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7725": {
+  "level": "規劃中",
+  "basis": "年報載產品方向為導入AI輔助實驗數據分析之實驗室管理系統",
+  "quotes": [
+   {
+    "text": "導入 AI 輔助實驗數據分析處理，進一步達成智慧化實驗室管理",
+    "src": "年報",
+    "url": "https://labturbo.com.tw/wp-content/uploads/2024/06/列特博_113年度股東會年報.pdf",
+    "page": "PDF第45頁"
+   }
+  ],
+  "ri_topics": "資訊安全；資料保護；客戶隱私",
+  "ri_quote": {
+   "text": "機密性及敏感性的資料或文件，不得存放在對外開放的資訊系統中",
+   "src": "年報",
+   "url": "https://labturbo.com.tw/wp-content/uploads/2024/06/列特博_113年度股東會年報.pdf",
+   "page": "PDF第59頁"
+  }
+ },
+ "7773": {
+  "level": "已實施",
+  "basis": "官網稱免疫功能分析平台結合AI演算法並走向自費醫療商業化",
+  "quotes": [
+   {
+    "text": "同時結合AI輔助的免疫功能分析平台，評估患者免疫系統狀態",
+    "src": "官網",
+    "url": "http://www.fhb.com.tw",
+    "page": "官網"
+   },
+   {
+    "text": "如何運用蛋白質體學與AI演算法打造的精準檢測平台",
+    "src": "官網",
+    "url": "http://www.fhb.com.tw",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7808": {
+  "level": "已實施",
+  "basis": "官網稱外泌體產品以AI分析篩選研發",
+  "quotes": [
+   {
+    "text": "AI智慧研發，分析外泌體關鍵作用因子，精準篩選最佳外泌體及幹細胞來源",
+    "src": "官網",
+    "url": "https://www.bionettx.com/",
+    "page": "官網"
+   },
+   {
+    "text": "以「清泌一號」配方為基底，加上AI功能預測分析選出的IGF-1活性專利因子",
+    "src": "官網",
+    "url": "https://www.bionettx.com/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7829": {
+  "level": "已實施",
+  "basis": "官網稱以AI驅動藥物研發平台開發CNS療法",
+  "quotes": [
+   {
+    "text": "Dasher Neuroscience is harnessing artificial intelligence (AI) to develop transformative therapies for CNS disorders",
+    "src": "官網",
+    "url": "https://dasherneuroscience.com",
+    "page": "官網"
+   },
+   {
+    "text": "Extensive biological and clinical datasets are processed by AI to enhance molecular design",
+    "src": "官網",
+    "url": "https://dasherneuroscience.com/services/ai-innovation/",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7837": {
+  "level": "已實施",
+  "basis": "官網解決方案載明自動化智能實驗室運用人工智慧",
+  "quotes": [
+   {
+    "text": "專注於利用先進的智能技術、自動化設備和人工智慧，來提高實驗室的運作效率和精確度",
+    "src": "官網",
+    "url": "https://www.cmp-micro.com/solutions/clinical-medicine",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7871": {
+  "level": "已實施",
+  "basis": "官網稱以AI輔助設計建構合成人類抗體庫",
+  "quotes": [
+   {
+    "text": "AI-assisted synthetic human antibody libraries combined with p",
+    "src": "官網",
+    "url": "https://elixiron.com",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ }
+}

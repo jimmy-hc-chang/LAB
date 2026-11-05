@@ -1,0 +1,356 @@
+{
+ "4147": {
+  "level": "無",
+  "basis": "LLM為法學碩士學位縮寫，非AI",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4153": {
+  "level": "規劃中",
+  "basis": "永續報告書列中期目標：導入AI資安威脅偵測技術",
+  "quotes": [
+   {
+    "text": "Introduce AI security threat detection technology.",
+    "src": "永續報告書",
+    "url": "https://www.diva.com.tw/en/esg_download-detail/2025Y/",
+    "page": "PDF第16頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4163": {
+  "level": "只是談論",
+  "basis": "僅贊助北科大AI應用開發產學聯盟，無自身AI應用",
+  "quotes": [
+   {
+    "text": "贊助台北科技大學 AI 應用開發產學聯盟",
+    "src": "永續報告書",
+    "url": "https://www.intai.com.tw/files/shares/Sustainability_Report_2024.pdf",
+    "page": "PDF第70頁"
+   }
+  ],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "遵循台灣「個人資料保護法」在個人資料之蒐集、處理或利用之規範",
+   "src": "永續報告書",
+   "url": "https://www.intai.com.tw/files/shares/Sustainability_Report_2024.pdf",
+   "page": "PDF第39頁"
+  }
+ },
+ "4168": {
+  "level": "規劃中",
+  "basis": "年報長期計畫載明擬導入新藥開發AI平台，尚未上線",
+  "quotes": [
+   {
+    "text": "導入新藥開發 AI 平台，將 Pro-antibody 與抗醣抗體 ADC 平台深化至 AI 藥物設計",
+    "src": "年報",
+    "url": "https://ir.glyconex.com.tw/shareholder/annual-reports/2025y.pdf",
+    "page": "PDF第68頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "4183": {
+  "level": "無",
+  "basis": "僅血糖訊號演算法與大數據泛稱，未明說AI",
+  "quotes": [],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "有效落實個人資料、內部機密資料、客戶及供應商資料保護",
+   "src": "年報",
+   "url": "https://docs.epsbio.com.tw/Upload/Files/download/2024%20Annual%20Report_4183.pdf",
+   "page": "PDF第53頁"
+  }
+ },
+ "4726": {
+  "level": "已實施",
+  "basis": "年報稱已導入AI製程開發工具GoSilico並應用於歐洲客戶專案",
+  "quotes": [
+   {
+    "text": "領先全台導入 AI 製程開發工具 GoSilico™",
+    "src": "年報",
+    "url": "https://mycenax.com/upload/2026_05_06_1142040.pdf",
+    "page": "PDF第6頁"
+   },
+   {
+    "text": "2025 年，永昕已成功將此技術平台應用於歐洲客戶開發專案",
+    "src": "年報",
+    "url": "https://mycenax.com/upload/2026_05_06_1142040.pdf",
+    "page": "PDF第67頁"
+   }
+  ],
+  "ri_topics": "資訊安全；法規遵循",
+  "ri_quote": {
+   "text": "負責統籌資訊安全及保護相關政策制定、執行、風險管理與遵循度查核",
+   "src": "年報",
+   "url": "https://mycenax.com/upload/2026_05_06_1142040.pdf",
+   "page": "PDF第75頁"
+  }
+ },
+ "4728": {
+  "level": "只是談論",
+  "basis": "僅董事進修AI課程與大數據泛稱，無自身AI應用",
+  "quotes": [
+   {
+    "text": "AI 時代，企業成長創新思維",
+    "src": "年報",
+    "url": "https://sunmaxfile.z11.web.core.windows.net/f/4a2d0f48a81a4decadbe338b783d86df.pdf",
+    "page": "PDF第34頁"
+   }
+  ],
+  "ri_topics": "資料隱私；受試者保護；利害關係人溝通",
+  "ri_quote": {
+   "text": "進行客戶、供應商、員工以及所有利害關係人隱私保護",
+   "src": "永續報告書",
+   "url": "https://sunmaxfile.z11.web.core.windows.net/f/ce0e2138f51645318888c6c772cdc7a0.pdf",
+   "page": "PDF第76頁"
+  }
+ },
+ "4743": {
+  "level": "只是談論",
+  "basis": "僅GenAI風險描述、董事進修與員工AI資安課程，無實際應用",
+  "quotes": [
+   {
+    "text": "本公司也了解 GenAI 自動化研究、改善臨床試驗和減少錯誤的特性",
+    "src": "永續報告書",
+    "url": "https://onenessbio.com/wp-content/uploads/2026/09/ONENESSBIO_2025-ESG-Report_CN_v1.7.pdf",
+    "page": "PDF第66頁"
+   },
+   {
+    "text": "AI 應用與資安防範課程",
+    "src": "永續報告書",
+    "url": "https://onenessbio.com/wp-content/uploads/2026/09/ONENESSBIO_2025-ESG-Report_CN_v1.7.pdf",
+    "page": "PDF第68頁"
+   }
+  ],
+  "ri_topics": "資料隱私；倫理；受試者保護；利害關係人溝通",
+  "ri_quote": {
+   "text": "強化資訊安全與個資保護機制，有助保障利害關係人資訊安全與隱私權益。",
+   "src": "永續報告書",
+   "url": "https://onenessbio.com/wp-content/uploads/2026/09/ONENESSBIO_2025-ESG-Report_CN_v1.7.pdf",
+   "page": "PDF第21頁"
+  }
+ },
+ "4747": {
+  "level": "規劃中",
+  "basis": "年報稱積極規劃建置結合人工智慧自動化產線，尚未完成",
+  "quotes": [
+   {
+    "text": "已積極規劃建置符合國際規範之連續製程監控並結合人工智慧自動化產線",
+    "src": "年報",
+    "url": "https://www.jcpjohnson.com.tw/docs/service/upload/3annual/2025年度年報_股東會後修訂%20.pdf",
+    "page": "PDF第47頁"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循",
+  "ri_quote": {
+   "text": "公司是否遵循相關法規及國際準則，並制定相關保護消費者或客戶權益政策及申訴程序",
+   "src": "年報",
+   "url": "https://www.jcpjohnson.com.tw/docs/service/upload/3annual/2025年度年報_股東會後修訂%20.pdf",
+   "page": "PDF第29頁"
+  }
+ },
+ "6535": {
+  "level": "只是談論",
+  "basis": "僅董事AI課程及轉投資Ever Fortune AI公司，無自身AI應用",
+  "quotes": [
+   {
+    "text": "“AI Strategy and Governance” for TPEx-ListedCompanies",
+    "src": "年報",
+    "url": "https://www.lumosa.com.tw/file/shareholder_annual_report/1750665785585.pdf",
+    "page": "PDF第62頁"
+   }
+  ],
+  "ri_topics": "倫理；受試者保護",
+  "ri_quote": {
+   "text": "Independent Ethics Committee (IRB/IEC) approval before execution.",
+   "src": "永續報告書",
+   "url": "https://www.lumosa.com.tw/file/social_care/1787626207240.pdf",
+   "page": "PDF第61頁"
+  }
+ },
+ "6574": {
+  "level": "無",
+  "basis": "證據包僅有亂碼，無AI相關內容",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6615": {
+  "level": "已實施",
+  "basis": "年報稱實驗室已建立報告運管平台與AI諮詢服務系統；為邊界",
+  "quotes": [
+   {
+    "text": "實驗室建立報告運管平台與 AI 諮詢服務系統",
+    "src": "年報",
+    "url": "https://www.sofivagenomics.com.tw/Download/DownloadFile?no=DW2026060001&lang=zh-TW",
+    "page": "PDF第11頁"
+   },
+   {
+    "text": "並評估導入 AI 加上自然語言的辨認",
+    "src": "年報",
+    "url": "https://www.sofivagenomics.com.tw/Download/DownloadFile?no=DW2026060001&lang=zh-TW",
+    "page": "PDF第153頁"
+   }
+  ],
+  "ri_topics": "資料隱私；倫理",
+  "ri_quote": {
+   "text": "5.未發生侵害隱私事件",
+   "src": "永續報告書",
+   "url": "https://www.sofivagenomics.com.tw/Download/DownloadFile?no=DW2026080003&lang=zh-TW",
+   "page": "PDF第6頁"
+  }
+ },
+ "6649": {
+  "level": "只是談論",
+  "basis": "僅董事進修AI課程與智慧醫療市場描述",
+  "quotes": [
+   {
+    "text": "AI 與新興科技應用案例",
+    "src": "年報",
+    "url": "https://www.twbm.com.tw/en/_files/ugd/6e8533_060eb178f7954b4fb868593200e17296.pdf",
+    "page": "PDF第30頁"
+   }
+  ],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "制定並定期更新《個人資料保護政策》",
+   "src": "永續報告書",
+   "url": "https://www.twbm.com.tw/_files/ugd/c19b48_ba4a579dd44e446fb482b65f19a58752.pdf",
+   "page": "PDF第63頁"
+  }
+ },
+ "6703": {
+  "level": "已實施",
+  "basis": "年報稱今年已引進智慧AI演算系統及SEO優化AI演算系統",
+  "quotes": [
+   {
+    "text": "今年更引進智慧 AI 演算系統，設計出客製化會員互動內容",
+    "src": "年報",
+    "url": "https://www.shinybrands.com/wp-content/uploads/2026/05/R1504001374軒郁國際年報上115年.pdf",
+    "page": "PDF第104頁"
+   },
+   {
+    "text": "今年導入 SEO 優化 AI 演算系統",
+    "src": "年報",
+    "url": "https://www.shinybrands.com/wp-content/uploads/2026/05/R1504001374軒郁國際年報上115年.pdf",
+    "page": "PDF第104頁"
+   }
+  ],
+  "ri_topics": "資料隱私；利害關係人溝通",
+  "ri_quote": {
+   "text": "本公司係有訂定【個人資料保護管理辦法】",
+   "src": "年報",
+   "url": "https://www.shinybrands.com/wp-content/uploads/2026/05/R1504001374軒郁國際年報上115年.pdf",
+   "page": "PDF第48頁"
+  }
+ },
+ "6733": {
+  "level": "只是談論",
+  "basis": "僅董事生成式AI課程與員工AI+Excel VBA訓練，未說明實際應用",
+  "quotes": [
+   {
+    "text": "管理類AI+Excel VBA616",
+    "src": "永續報告書",
+    "url": "https://www.biogend.com.tw/?attachment_id=62691&download=1",
+    "page": "PDF第93頁"
+   }
+  ],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "博晟生醫對於營業機密、資訊安全、客戶資料與隱私相當重視",
+   "src": "永續報告書",
+   "url": "https://www.biogend.com.tw/?attachment_id=62691&download=1",
+   "page": "PDF第70頁"
+  }
+ },
+ "6785": {
+  "level": "只是談論",
+  "basis": "僅董事AI進修課程",
+  "quotes": [
+   {
+    "text": "Trends and RiskManagement ofGenerative AI",
+    "src": "年報",
+    "url": "https://alarpharm.com/wp-content/uploads/114%E5%B9%B4%E5%A0%B1%E8%8B%B1-1.pdf",
+    "page": "PDF第34頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6875": {
+  "level": "只是談論",
+  "basis": "僅董事AI進修課程",
+  "quotes": [
+   {
+    "text": "Technology and Trends - AI InnovativeApplications and Risk Management",
+    "src": "年報",
+    "url": "https://www.pharmosa.com.tw/uploads/annual_report/stackholder_book/12/%E5%9C%8B%E9%82%91%E5%B9%B4%E5%A0%B1E-114%E5%B9%B4%E5%BA%A6_1150506_Final.pdf",
+    "page": "PDF第48頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6945": {
+  "level": "規劃中",
+  "basis": "官網新聞稱AI賦能新藥開發有進展、探索AI於抗體研發；為邊界",
+  "quotes": [
+   {
+    "text": "同時探索 AI 技術在抗體研發上的應用",
+    "src": "官網",
+    "url": "http://www.apbioinc.com/news-detail75.htm",
+    "page": "官網"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "8279": {
+  "level": "已實施",
+  "basis": "年報產品線列有AI影像醫療產品（AI分析軟體），屬代理販售",
+  "quotes": [
+   {
+    "text": "AI 影像醫療產品（糖尿病視網膜病變、老年性黃斑部病變、骨質密度等 AI 分析軟體",
+    "src": "年報",
+    "url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=dfile&id=185&i=1",
+    "page": "PDF第75頁"
+   }
+  ],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "維護客戶和利害關係人的資訊安全和隱私",
+   "src": "永續報告書",
+   "url": "https://www.syngen.com.tw/userfiles/ESG/生展生物科技股份有限公司2025年永續報告書_CH.pdf",
+   "page": "PDF第40頁"
+  }
+ },
+ "8432": {
+  "level": "已實施",
+  "basis": "永續報告書列有使用人工智慧建置的癌症篩檢產品（代理）；為邊界",
+  "quotes": [
+   {
+    "text": "使用人工智慧建置腫瘤 DNA 的甲基化(methylation)/拷貝數(CNV)/片段學",
+    "src": "永續報告書",
+    "url": "https://www.tshbiopharm.com/rwd1427/store/F2/2025東生華ESG永續報告書_最終版本%20(0804).pdf",
+    "page": "PDF第91頁"
+   },
+   {
+    "text": "整合生物資訊大數據及人工智慧 (AI) 技術",
+    "src": "永續報告書",
+    "url": "https://www.tshbiopharm.com/rwd1427/store/F2/2025東生華ESG永續報告書_最終版本%20(0804).pdf",
+    "page": "PDF第90頁"
+   }
+  ],
+  "ri_topics": "資料隱私；受試者保護；利害關係人溝通",
+  "ri_quote": {
+   "text": "為確保人體試驗的品質與受試者權益",
+   "src": "永續報告書",
+   "url": "https://www.tshbiopharm.com/rwd1427/store/F2/2025東生華ESG永續報告書_最終版本%20(0804).pdf",
+   "page": "PDF第98頁"
+  }
+ }
+}

@@ -1,0 +1,16 @@
+### 8409 商之器（商之器科技股份有限公司，上櫃）細分類：醫療器材－醫療器材研發、設計、製造
+[官網] AI強詞段落14處
+  - https://www.ebmtech.com/tw｜AI｜ EBM 商之器科技 | 醫療影像系統 PACS、FHIR 整合、深耕計畫與 AI 醫療解決方案 EBM 商之器科技 | 醫療影像系統 PACS、FHIR 整合、深耕計畫與 AI 醫療解決方案 EBM 
+  - https://www.ebmtech.com/tw｜AI｜IR 整合、深耕計畫與 AI 醫療解決方案 EBM 商之器科技 | 醫療影像系統 PACS、FHIR 整合、深耕計畫與 AI 醫療解決方案 EBM 商之器科技自 1988 年起提供企業級 PACS、RIS、FHIR/HL7 醫療資料整合與 AI
+  - https://www.ebmtech.com/tw｜AI｜AI 醫療解決方案 EBM 商之器科技自 1988 年起提供企業級 PACS、RIS、FHIR/HL7 醫療資料整合與 AI 醫療影像解決方案，協助超過 3,500 家醫療院所推動智慧醫療與健康台灣深耕計畫。 行動 PACS 在無線時代保持領先
+  - https://www.ebmtech.com/tw/product/telemedicine｜AI｜BM 商之器 EBM 遠距醫療解決方案提供跨院遠距會診、影像即時分享與遠端診斷支援，廣泛應用於偏鄉醫療、離島醫療與跨院 AI 影像判讀協作。 遠距醫療 遠距醫療技術將不同地點、因地理界線限制而無法連結在一起的醫療機構串連，使醫療專業人員和不在同
+  - https://www.ebmtech.com/tw/product/ude-app｜AI｜存與管理。 既可提供醫護人員做離線影像調閱瀏覽，也可做獨立工作站和報吿系統整合等延伸運用。 整合在本機的CoreML影像AI及雲端AI模組，將運算結果同步顯示在影像上，輔助醫師判讀肉眼難以辨識的微小病灶。未來將會導入更多影像AI模組，提升及輔助
+  - https://www.ebmtech.com/tw/product/ude-app｜AI｜ 既可提供醫護人員做離線影像調閱瀏覽，也可做獨立工作站和報吿系統整合等延伸運用。 整合在本機的CoreML影像AI及雲端AI模組，將運算結果同步顯示在影像上，輔助醫師判讀肉眼難以辨識的微小病灶。未來將會導入更多影像AI模組，提升及輔助醫師們的診
+  - https://www.ebmtech.com/tw/product/ude-app｜AI｜CoreML影像AI及雲端AI模組，將運算結果同步顯示在影像上，輔助醫師判讀肉眼難以辨識的微小病灶。未來將會導入更多影像AI模組，提升及輔助醫師們的診斷效率及流程。 下載免費試用UDE Lite https://apps.apple.com/t
+  - https://www.ebmtech.com/tw/product/eps-pi｜AI｜醫療影像處理平台 - EBM 商之器 EPS Pi® EPS Pi® 是醫療影像處理平台，提供 DICOM 影像後處理、AI 模型整合介面與多模態影像分析能力，加速臨床診斷流程。 EPS Pi® 選擇附件 特色 A Viewer Ready D
+  - https://www.ebmtech.com/tw/product/xannotation-app｜AI｜ XAnnotation App｜醫療影像 AI 標註工具 - EBM 商之器 XAnnotation App XAnnotation App 是醫療影像 AI 標註工
+  - https://www.ebmtech.com/tw/product/xannotation-app｜AI｜療影像 AI 標註工具 - EBM 商之器 XAnnotation App XAnnotation App 是醫療影像 AI 標註工具，支援多模態影像 ROI 標註、AI 訓練資料集準備與註記資料管理，加速 AI 模型開發。 XAnnotati
+  - https://www.ebmtech.com/tw/product/xannotation-app｜AI｜Annotation App XAnnotation App 是醫療影像 AI 標註工具，支援多模態影像 ROI 標註、AI 訓練資料集準備與註記資料管理，加速 AI 模型開發。 XAnnotation App 選擇附件 在訓練模型前，資料蒐集
+  - https://www.ebmtech.com/tw/product/xannotation-app｜AI｜ation App 是醫療影像 AI 標註工具，支援多模態影像 ROI 標註、AI 訓練資料集準備與註記資料管理，加速 AI 模型開發。 XAnnotation App 選擇附件 在訓練模型前，資料蒐集與標註常是令人頭痛的問題，我們特別開發了 
+  - https://www.ebmtech.com/tw/product/pixdx-app｜AI｜ PixDx App｜AI 醫療影像診斷輔助 App - EBM 商之器 PixDx App PixDx App 提供 AI 醫療影像診斷輔助，協
+  - https://www.ebmtech.com/tw/product/pixdx-app｜AI｜ PixDx App｜AI 醫療影像診斷輔助 App - EBM 商之器 PixDx App PixDx App 提供 AI 醫療影像診斷輔助，協助醫師在行動裝置上快速辨識影像特徵、優先排序緊急病例並產出輔助診斷意見。 選擇附件 在爭分奪秒的臨

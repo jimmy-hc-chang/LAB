@@ -1,0 +1,126 @@
+{
+ "1271": {
+  "annual": {
+   "url": "https://www.sunway.cc/wp-content/uploads/2024-年報.pdf",
+   "label": "2024年報.pdf (113年度)",
+   "page": "https://www.sunway.cc/tw/reports-and-presentations/"
+  },
+  "esg": null,
+  "tried": "官網投資人頁；2025年報尚未上架"
+ },
+ "4172": {
+  "annual": null,
+  "esg": null,
+  "tried": "官網首頁HTTP 503"
+ },
+ "6493": {
+  "annual": null,
+  "esg": null,
+  "tried": "investor.php子頁無PDF，download.php未查"
+ },
+ "6549": {
+  "annual": null,
+  "esg": null,
+  "tried": "股東會資訊頁只連doc.twse.com.tw(不可用)"
+ },
+ "6586": {
+  "annual": null,
+  "esg": null,
+  "tried": "chopharma.com investors.html 無連結抽出"
+ },
+ "6659": {
+  "annual": null,
+  "esg": {
+   "url": "https://drive.google.com/file/d/105DiksEYz3Um4xu4TRAMemSu-Af7ttZ-/view?usp=sharing",
+   "label": "2025永續報告書",
+   "page": "https://www.timing-pharmacy.com/pages-3?lang=tw"
+  },
+  "tried": "官網ESG頁為Google Drive連結(非公司網域)；年報未見"
+ },
+ "6677": {
+  "annual": {
+   "url": "http://www.anxo.com.tw/uploads/ckeditor/files/R1405000785%E7%91%A9%E7%A2%A9%E7%94%9F%E6%8A%80%E5%B9%B4%E5%A0%B1\\(%E4%B8%8A\\).pdf",
+   "label": "股東會年報 (114年股東常會, 113年度)",
+   "page": "https://www.anxo.com.tw/investor/shareholder"
+  },
+  "esg": null,
+  "tried": "114年度年報僅在doc.twse"
+ },
+ "6748": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.acrobiomedical.com/userfiles/Other/PDF/ESG%20Report/2025永續報告書-亞果生醫.pdf",
+   "label": "2025永續報告書",
+   "page": "https://www.acrobiomedical.com/index.php?option=module&lang=cht&task=showlist&id=1114&index=1"
+  },
+  "tried": "財報資訊頁未見年報"
+ },
+ "6808": {
+  "annual": {
+   "url": "https://www.3dglobalbiotech.com.tw/download_s.php?ds=75",
+   "label": "114年度年報",
+   "page": "https://www.3dglobalbiotech.com.tw/inv_annualreport.php?p=5&c=28&a=8"
+  },
+  "esg": null,
+  "tried": "CSR頁無PDF"
+ },
+ "6817": {
+  "annual": {
+   "url": "https://www.winston.com.tw/filedown.php?file=upload%2F2026%2F08%2F20260803083729025GVVCEUQAZX.pdf&site=dXBsb2FkLzIwMjYvMDgvMjAyNjA4MDMwODM3MjkwMjVHVlZDRVVRQVpYLnBkZg==",
+   "label": "114年度年報",
+   "page": "https://www.winston.com.tw/?action=stock"
+  },
+  "esg": null,
+  "tried": "相對連結，網域依頁面補上"
+ },
+ "6850": {
+  "annual": null,
+  "esg": null,
+  "tried": "財報頁只有財務報表，股東會年報標示建置中"
+ },
+ "6917": {
+  "annual": null,
+  "esg": null,
+  "tried": "首頁僅連英文about頁；搜尋無結果"
+ },
+ "6999": {
+  "annual": null,
+  "esg": null,
+  "tried": "官網503"
+ },
+ "7595": {
+  "annual": null,
+  "esg": null,
+  "tried": "investors/ESG頁抽不出連結"
+ },
+ "7724": {
+  "annual": null,
+  "esg": null,
+  "tried": "官網403；搜尋無結果(有114年報修正重訊)"
+ },
+ "7754": {
+  "annual": null,
+  "esg": null,
+  "tried": "股東專區/財務資訊頁無年報PDF"
+ },
+ "7776": {
+  "annual": null,
+  "esg": null,
+  "tried": "官網503"
+ },
+ "7850": {
+  "annual": null,
+  "esg": null,
+  "tried": "投資人專區為#，investors.html 404"
+ },
+ "7876": {
+  "annual": null,
+  "esg": null,
+  "tried": "股東會/財報頁無PDF"
+ },
+ "7891": {
+  "annual": null,
+  "esg": null,
+  "tried": "官網503，investors 404"
+ }
+}

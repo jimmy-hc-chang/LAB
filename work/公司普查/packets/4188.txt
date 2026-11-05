@@ -1,0 +1,68 @@
+### 4188 安克（安克生醫股份有限公司，上櫃）細分類：醫療器材－醫療器材研發、設計、製造
+[年報] 來源網址：https://06e3948a-0a2d-408d-89bf-be76fbfb13de.usrfiles.com/ugd/06e394_369bdba994bf4d1fac6c51acd2b862e6.pdf｜網頁標示：114年度年報(中文)｜共118頁(PDF頁)｜AI相關詞出現105次(強詞89次)
+  - PDF第5頁｜人工智慧｜壹、致股東報告書各位股東女士、先生：114 年人工智慧（AI）技術於醫療影像診斷領域之應用持續成長。本公司旗下產品安克呼止偵®於國內市場維持穩定成長，陸續取得嘉義市及新竹縣衛生局核准之自費醫令碼
+  - PDF第5頁｜AI｜偵 ®於國內已獲逾30 家醫療院所採用，並同步申請健保暫時性支付專案，期望於 115 年納入以大幅增加滲透使用率。展望未來，本公司作為國內 AI 創新醫材之指標性企業，憑藉領先的人工智慧技術與完整的專利布局，將持續優化 AI 診斷能力，推動 AmCAD-UT®（安克甲狀偵）、AmCA
+  - PDF第5頁｜人工智慧｜，並同步申請健保暫時性支付專案，期望於 115 年納入以大幅增加滲透使用率。展望未來，本公司作為國內 AI 創新醫材之指標性企業，憑藉領先的人工智慧技術與完整的專利布局，將持續優化 AI 診斷能力，推動 AmCAD-UT®（安克甲狀偵）、AmCAD-UO®（安克呼止偵）、AmCAD-UB
+  - PDF第5頁｜AI｜15 年納入以大幅增加滲透使用率。展望未來，本公司作為國內 AI 創新醫材之指標性企業，憑藉領先的人工智慧技術與完整的專利布局，將持續優化 AI 診斷能力，推動 AmCAD-UT®（安克甲狀偵）、AmCAD-UO®（安克呼止偵）、AmCAD-UB®（安克乳安偵）等產品於多元醫療領域之
+  - PDF第5頁｜AI｜甲狀偵）、AmCAD-UO®（安克呼止偵）、AmCAD-UB®（安克乳安偵）等產品於多元醫療領域之臨床應用。同時深化全球市場合作，善用既有 AI 掃描與即時影像分析技術，結合掌上型超音波設備，促進產品普及與臨床導入，加速國際市場准入與成長動能。謹向各位股東報告 114 年度營業結果、
+  - PDF第6頁｜AI｜1115819155%33%53,10543,783631983%30%2. 研究發展成果研發成果1. 安克甲狀偵 AmCAD-UT− 優化AI深度學習模型，偵測準確性再提升。− 完成新UI/UX Android版程式整合。− 完成掌超整合開發。− 完成與德國平台廠商AI平台整合開發
+  - PDF第6頁｜深度學習｜15819155%33%53,10543,783631983%30%2. 研究發展成果研發成果1. 安克甲狀偵 AmCAD-UT− 優化AI深度學習模型，偵測準確性再提升。− 完成新UI/UX Android版程式整合。− 完成掌超整合開發。− 完成與德國平台廠商AI平台整合開發。2. 
+  - PDF第6頁｜AI｜UT− 優化AI深度學習模型，偵測準確性再提升。− 完成新UI/UX Android版程式整合。− 完成掌超整合開發。− 完成與德國平台廠商AI平台整合開發。2. 安克呼止偵® AmCAD-UO− 優化深度學習與診斷模型。− 瑞士OTO-HNS權威期刊論文正式發表。− 美國史丹佛睡眠
+  - PDF第6頁｜深度學習｜/UX Android版程式整合。− 完成掌超整合開發。− 完成與德國平台廠商AI平台整合開發。2. 安克呼止偵® AmCAD-UO− 優化深度學習與診斷模型。− 瑞士OTO-HNS權威期刊論文正式發表。− 美國史丹佛睡眠中心及太平洋大學，持續執行臨床試驗。− 台大牙科、長庚醫院及小兒臨
+  - PDF第7頁｜AI｜研發成果3. 聲波散射組織成像平臺 AmCAD-US− 加速自動分析流程。4. 安克乳安偵® AmCAD-UB− 優化AI深度學習模型，提升即時掃描的準確率與運算速度。− UB+UT Live版本掃描與報告系統功能完善。− UB特徵演算法開發完成。− 提供診所試
+  - PDF第7頁｜AI｜算法開發完成。− 提供診所試用並整合診所現有系統。法規及專利：− “預測睡眠呼中止症風險之方法” 台灣專利審查核准。− 取得UT TFDA AI/DL版本證書。− 預測睡眠呼中止症風險之方法”美國專利審查核准、領證。− 取得通過稽核後更新之 ISO 13485 證書。二、115 年度
+  - PDF第7頁｜深度學習｜化使用者體驗 Android 版。開發跨平台 Windows 新 UI/UX 優化使用者體驗版。持續加速及優化腫瘤分割及 BIRADS 診斷深度學習模型。啟動法規申請之臨床收案。準備 FDA 法規申請送件文件。透過國際醫學會與展會，推動平台化解決方案之市場曝光與合作機會。3
+  - PDF第8頁｜人工智慧｜代理授權。三、未來公司發展策略在全球邁向精準健康與智慧醫療的趨勢下，台灣政府積極推動相關政策，以「2030全齡健康」為願景，帶動醫療大數據與人工智慧於臨床應用之發展，為智慧醫療產業創造成長契機。本公司長期深耕 AI 醫療影像與臨床整合，發展方向與國家政策高度契合。115 年度將聚焦健保推
+  - PDF第8頁｜AI｜灣政府積極推動相關政策，以「2030全齡健康」為願景，帶動醫療大數據與人工智慧於臨床應用之發展，為智慧醫療產業創造成長契機。本公司長期深耕 AI 醫療影像與臨床整合，發展方向與國家政策高度契合。115 年度將聚焦健保推進、法規取證、國際合作及臨床實證應用四大策略，持續拓展市場並強化技
+  - PDF第9頁｜AI｜產品方面，安克甲狀偵®預計納入健保給付，透過 AI 輔助診斷提升效率與一致性，促進醫療資源有效運用；並拓展至乳房等應用領域，積極洽談國際合作以推動軟硬體整合。安克呼止偵®則持續擴大自費應用範
+  - PDF第9頁｜AI｜證，並通過歐盟 MDR，確保符合國際標準，支撐全球市場拓展在技術與產品體驗上，公司持續優化 UX/UI 設計，強化臨床流程整合，並推動國際 AI 平台合作及 AI 影像技術結合手持式超音波設備之開發與應用(POCUS)，以滿足基層與遠距醫療需求。展望未來，本公司將持續以法規推進、臨床
+  - PDF第9頁｜AI｜DR，確保符合國際標準，支撐全球市場拓展在技術與產品體驗上，公司持續優化 UX/UI 設計，強化臨床流程整合，並推動國際 AI 平台合作及 AI 影像技術結合手持式超音波設備之開發與應用(POCUS)，以滿足基層與遠距醫療需求。展望未來，本公司將持續以法規推進、臨床實證、技術創新與國
+  - PDF第9頁｜AI｜健提升產品競爭力與全球市場布局，掌握智慧醫療產業成長機會。四、受到外部競爭環境、法規環境及總體經營環境之影響(一)外部競爭環境之影響：隨著 AI 技術於醫療影像領域持續發展，市場競爭已由單一演算法能力，轉向「平台整合能力」與「臨床工作流程導入」之競爭。醫療機構在導入 AI 時，逐步由
+  - PDF第9頁｜AI｜影響：隨著 AI 技術於醫療影像領域持續發展，市場競爭已由單一演算法能力，轉向「平台整合能力」與「臨床工作流程導入」之競爭。醫療機構在導入 AI 時，逐步由 單 點 工 具 評 估 ， 轉 為 優 先 考 量 是 否 可 整 合 於 企 業 影 像 平 台 （ Enterprise 
+  - PDF第9頁｜AI｜atform），並能嵌入既有 PACS、RIS 及 EHR 系統，以提升整體營運效率與臨床應用價值。在競爭態勢方面，國際大型醫材廠商持續將 AI 功能整合於影像設備中，強化設備端之即時應用能力；同時，企業影像平台業者積極建立 AI 應用生態系，透過集中管理與標準化部署模式，加速醫院導
+  - PDF第9頁｜AI｜臨床應用價值。在競爭態勢方面，國際大型醫材廠商持續將 AI 功能整合於影像設備中，強化設備端之即時應用能力；同時，企業影像平台業者積極建立 AI 應用生態系，透過集中管理與標準化部署模式，加速醫院導入多項 AI 解決方案。此外，專注特定疾病應用之 AI 公司亦持續發展，市場競爭由產品
+  - PDF第9頁｜AI｜合於影像設備中，強化設備端之即時應用能力；同時，企業影像平台業者積極建立 AI 應用生態系，透過集中管理與標準化部署模式，加速醫院導入多項 AI 解決方案。此外，專注特定疾病應用之 AI 公司亦持續發展，市場競爭由產品功能延伸至整體解決方案與通路整合能力。相較之下，本公司產品除具備影
+  - PDF第9頁｜AI｜同時，企業影像平台業者積極建立 AI 應用生態系，透過集中管理與標準化部署模式，加速醫院導入多項 AI 解決方案。此外，專注特定疾病應用之 AI 公司亦持續發展，市場競爭由產品功能延伸至整體解決方案與通路整合能力。相較之下，本公司產品除具備影像分析與輔助判讀功能外，亦積極推動產品平台
+  - PDF第9頁｜AI｜，須持續投入資源進行法規合規、在地臨床合作及市場教育，以提升產品導入效率與市場接受度。此外，隨著手持超音波（POCUS）及行動醫療應用成長，AI 解決方案亦朝向行動化與即時輔助方向發展。本公司將持續推動產品於行動裝置及多元臨床場景之應用，以拓展市場覆蓋範圍並強化產品競爭力。(二)法規
+  - PDF第10頁｜AI｜)、輔助器具(Patient aids) 及其他類醫材產品(Others)等六大項。其中診斷影像產品佔比最高，占比達 23.1%。另一方面，AI 與數位技術在醫療流程中的應用持續擴大，促進診斷輔助、遠距照護及基層醫療場景快速成長，推動醫療設備朝智慧化、即時化及可攜化方向演進，為醫療服
+  * RI PDF第43頁｜個人資料｜生主管機關制定的 QMS 相關法規，並於 112 年 11 月獲全台第一個歐盟 MDR 的智慧醫材軟體認證。本公司已制定個人資料保護管理要點，並遵守個人資料保護法等相關法規，確實尊重消費者之隱私權，保護消費者提供之個人資料。114 年，舉辦多家企業
+  * RI PDF第43頁｜個人資料｜關法規，並於 112 年 11 月獲全台第一個歐盟 MDR 的智慧醫材軟體認證。本公司已制定個人資料保護管理要點，並遵守個人資料保護法等相關法規，確實尊重消費者之隱私權，保護消費者提供之個人資料。114 年，舉辦多家企業團體篩檢活動，包含友華生技、
+  * RI PDF第43頁｜隱私｜一個歐盟 MDR 的智慧醫材軟體認證。本公司已制定個人資料保護管理要點，並遵守個人資料保護法等相關法規，確實尊重消費者之隱私權，保護消費者提供之個人資料。114 年，舉辦多家企業團體篩檢活動，包含友華生技、台北市律師公會，提供企業員工進行睡眠呼
+  * RI PDF第43頁｜個人資料｜醫材軟體認證。本公司已制定個人資料保護管理要點，並遵守個人資料保護法等相關法規，確實尊重消費者之隱私權，保護消費者提供之個人資料。114 年，舉辦多家企業團體篩檢活動，包含友華生技、台北市律師公會，提供企業員工進行睡眠呼吸中止症檢測體驗，協助企業對
+  * RI PDF第50頁｜資訊安全｜ 3%以上之目標前進。本公司建立以董事會為最高層級的人權治理架構，由「永續發展委員會」成立跨部門的人權工作小組，包括企業資訊安全、企業永續、客戶服務、環保安全 無差異。衛生、人力資源、資訊技術、法務、資材管理、營運、品質暨可靠性、研究發展等各功能組
+  * RI PDF第54頁｜倫理｜。上下游供應商及客戶、消費者、社區、往來銀行等都以互惠原則相往來，與之分享公司所創造的經濟價值。3. 有禮—對內重視企業倫理，對外則為法令遵循及道德規範。本公司已制定道德行為準則以規範其道德標準。(二) 在環保方面，不僅要求符合國內相關法令的規
+[永續報告書] 來源網址：https://www.amcadbiomed.com/_files/ugd/8f9f1b_3e18d3f9be0d4837a66662af5c22c78b.pdf｜網頁標示：2024 Sustainability Report｜共121頁(PDF頁)｜AI相關詞出現47次(強詞47次)
+  - PDF第1頁｜AI｜t10-MinuteSleep Apnea ScreeningThyroid Ultrasound AIBreast Ultrasound AI
+  - PDF第3頁｜AI｜) to stakeholders.The report addresses key material topics, including AI innovation and R&D capabilities, productquality, information security
+  - PDF第6頁｜AI｜sage from the ChairmanRooted in Taiwan, Expanding Globally, Advancing AI,Fulfilling Our Sustainability VisionIn 2024, AmCad BioMed continued t
+  - PDF第6頁｜artificial intelligence｜ty VisionIn 2024, AmCad BioMed continued to deepen the application of artificial intelligence in healthcare,driving broader impact and meaningful practices. Guided
+  - PDF第6頁｜AI｜n to address unmet clinicalneeds with smart technologies, we focus on AI-powered ultrasound imaging for diagnosis andclinical adoption, while 
+  - PDF第6頁｜AI｜ to society and the environment.Environmental Sustainability: Driving AI Medical Innovation with Green TechnologyAs the first Taiwan-based com
+  - PDF第6頁｜AI｜A approval for ultrasound computer-aideddetection (CAD), we integrate AI with ultrasound imaging to enable real-time quantification andvisuali
+  - PDF第6頁｜AI｜ disorders.We also launched a handheld ultrasound (POCUS) system with AI guidance and decision support,improving diagnostic accessibility in u
+  - PDF第7頁｜AI｜ device software.AmCad BioMed integrates cutting-edge technology with AI and medical expertise to deliverultrasound image quantification and v
+  - PDF第7頁｜AI｜ Middle Eastern markets.Products and MarketsAmCad BioMed is a leading AI medical device company in Taiwan, recognized for its advanced AItechn
+  - PDF第8頁｜AI｜e medicaldevices.Looking ahead, AmCad BioMed will continue to advance AI diagnostic technologies, broadenproduct applications across diverse m
+  - PDF第8頁｜AI｜f AmCad BioMed include:AmCad-UT®(Thyroid Ultrasound The world’s first AI-powered thyroid ultrasound diagnosticsystem certified by the U.S. FDA
+  - PDF第8頁｜deep learning｜e U.S. FDA. It features automated noduleCAD/CADx System)detection and deep learning algorithms, enabling physicians toimprove diagnostic accuracy and sta
+  - PDF第9頁｜AI｜ndifferentiating between benign and malignant tumor cells.AmCad-UB®An AI-powered breast ultrasound diagnostic systemindependently developed by
+  - PDF第9頁｜AI｜ependently developed by AmCad BioMed. It integratesreal-time imaging, AI-based feature analysis, and automatedreporting to assist physicians i
+  - PDF第9頁｜AI｜ioMed builds a low-pollution, high-efficiency value chain centered on AI medical software,covering R&D, manufacturing, supply and delivery, ma
+  - PDF第9頁｜AI｜ility and impact while advancing sustainable innovation.R&DFocused on AI-assisted ultrasound diagnostics, wehave launched several world-first 
+  - PDF第9頁｜AI｜-assisted ultrasound diagnostics, wehave launched several world-first AI medical devices,including AmCad-UO® and AmCad-UT®, bothcertified by t
+  - PDF第9頁｜AI｜ngIn collaboration with leading ultrasoundmanufacturers, we integrate AI software withreal-time imaging to develop handheld ultrasounddiagnost
+  - PDF第14頁｜AI｜ existing suppliers, all rated as low risk.AWARDS AND RECOGNITIONS2024AI Award 2024 – Service Contribution AwardPresented by the Taiwan Artifi
+  - PDF第14頁｜Artificial Intelligence｜2024AI Award 2024 – Service Contribution AwardPresented by the Taiwan Artificial Intelligence Association, recognizing AmCad BioMed’sinnovation and service value i
+  - PDF第14頁｜AI｜ssociation, recognizing AmCad BioMed’sinnovation and service value in AI medical applications.2023National Innovation AwardAmCad-UO®, the ultr
+  - PDF第14頁｜AI｜or Biotechnology and Medicine Industry, acknowledging achievements in AI medical deviceR&D and clinical application.2022Taipei Biotech Award –
+  - PDF第22頁｜AI｜.In 2024, AmCad Biomed activelypromoted the domesticimplementation of AI medicalapplications, participating in over20 promotional events acros
+  - PDF第22頁｜AI｜ractical achievementsin technology deployment wererecognized with the AI Award2024 – Best Solution.
+[官網] AI強詞段落8處
+  - https://www.amcad.com.tw/｜AI｜ --> AmCad | Pioneering Ultrasound AI top of page Home About Company Team ESG Awards & Recognitio
+  - https://www.amcad.com.tw/｜AI｜b to navigate through the menu items. Pioneering Ultrasound AI The Future of Ultrasound Imaging is Here At AmCad BioMed, w
+  - https://www.amcad.com.tw/｜artificial intelligence｜ Here At AmCad BioMed, we are pioneering the integration of artificial intelligence (AI) into ultrasound imaging, revolutionizing the way healt
+  - https://www.amcad.com.tw/｜AI｜ are pioneering the integration of artificial intelligence (AI) into ultrasound imaging, revolutionizing the way healthcar
+  - https://www.amcad.com.tw/｜AI｜e professionals diagnose and treat patients. Our ultrasound AI software solutions are designed to streamline workflows, en
+  - https://www.amcad.com.tw/｜AI｜ll quality of patient care. Clarity in Diagnosis Ultrasound AI AmCad BioMed delivered the world’s first ultrasound AI solu
+  - https://www.amcad.com.tw/｜AI｜ound AI AmCad BioMed delivered the world’s first ultrasound AI solution, advancing accuracy in early detection. 1st 30% In
+  - https://www.amcad.com.tw/｜AI｜D-UO: Redefine OSA assessment and treatment with ultrasound AI Learn More Breast AmCAD-UB: Enhance breast ultrasound scans

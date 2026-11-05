@@ -1,0 +1,363 @@
+{
+ "4142": {
+  "level": "只是談論",
+  "basis": "年報稱研擬運用 AI、永續報告書稱善用 AI，皆無具體應用",
+  "quotes": [
+   {
+    "text": "研擬配合運用近期快速發展的人工智慧技術（AI），優化生產流程，提高質量控制",
+    "src": "年報",
+    "url": "https://www.adimmune.com.tw/uploads/images/investors/financial/1_114%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83(113%E5%B9%B4%E5%B9%B4%E5%A0%B1).pdf",
+    "page": "PDF第8頁"
+   },
+   {
+    "text": "未來也要與時俱進，善用 AI 及高科技，朝向百年企業永續發展",
+    "src": "永續報告書",
+    "url": "https://www.adimmune.com.tw/uploads/images/adimmuneESG2025.pdf",
+    "page": "PDF第3頁"
+   }
+  ],
+  "ri_topics": "資料隱私；受試者；利害關係人溝通",
+  "ri_quote": {
+   "text": "客戶個人資料於公司內部被視為高度機密資訊",
+   "src": "永續報告書",
+   "url": "https://www.adimmune.com.tw/uploads/images/adimmuneESG2025.pdf",
+   "page": "PDF第73頁"
+  }
+ },
+ "1781": {
+  "level": "規劃中",
+  "basis": "持續投入 AI 智慧醫療產品研發、遠距設備結合 AI 分析，屬研發中",
+  "quotes": [
+   {
+    "text": "持續投入助聽器、遠距醫療、AI 智慧醫療及藥械整合產品研發",
+    "src": "年報",
+    "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/05/year_114.pdf",
+    "page": "PDF第5頁"
+   },
+   {
+    "text": "發展遠距醫療設備，結合雲端平台與AI分析，提升慢性病管理與居家照護價值",
+    "src": "年報",
+    "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/05/year_114.pdf",
+    "page": "PDF第5頁"
+   }
+  ],
+  "ri_topics": "客戶隱私；利害關係人溝通；資訊安全",
+  "ri_quote": {
+   "text": "針對產品與服務之顧客健康與安全、客戶隱私、行銷及標示等議題",
+   "src": "年報",
+   "url": "https://www.healthandlife.com.tw/wp-content/uploads/2026/05/year_114.pdf",
+   "page": "PDF第28頁"
+  }
+ },
+ "4105": {
+  "level": "只是談論",
+  "basis": "AI 僅見於董事進修、產業趨勢、課程與資安宣導，無自身 AI 產品或流程",
+  "quotes": [
+   {
+    "text": "數位轉型價值創造-以數據驅動引領變革，並為AI產業化開拓發展契機",
+    "src": "年報",
+    "url": "http://www.tty.com.tw/rwd1181/store/F3/TTY%E5%B9%B4%E5%A0%B12025.pdf",
+    "page": "PDF第55頁"
+   },
+   {
+    "text": "7 月宣導生成式 AI 防範提醒，降低資料外洩風險",
+    "src": "永續報告書",
+    "url": "http://www.tty.com.tw/rwd1181/store/F3/2025%20TTY%20Sustainability%20Report_CH.pdf",
+    "page": "PDF第14頁"
+   },
+   {
+    "text": "AI新藥新知與運用等多元主題",
+    "src": "年報",
+    "url": "http://www.tty.com.tw/rwd1181/store/F3/TTY%E5%B9%B4%E5%A0%B12025.pdf",
+    "page": "PDF第67頁"
+   }
+  ],
+  "ri_topics": "受試者保護；IRB；個資；病友參與；利害關係人溝通",
+  "ri_quote": {
+   "text": "嚴謹落實試驗倫理與監測流程",
+   "src": "永續報告書",
+   "url": "http://www.tty.com.tw/rwd1181/store/F3/2025%20TTY%20Sustainability%20Report_CH.pdf",
+   "page": "PDF第60頁"
+  }
+ },
+ "4116": {
+  "level": "已實施",
+  "basis": "智慧手術室 iQOR 整合方案含 AI 手術報告彙整，為自家方案",
+  "quotes": [
+   {
+    "text": "運用 5G 智慧連接、4K 手術影像、手術導航機器人、醫療設備控制、線上即時視訊會議 和 AI 手術報告彙整",
+    "src": "永續報告書",
+    "url": "https://www.benqmedicaltech.com/proimages/4116%E6%98%8E%E5%9F%BA%E9%86%AB_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_Final_CN(%E4%B8%8A%E5%82%B3)r.pdf",
+    "page": "PDF第15頁"
+   }
+  ],
+  "ri_topics": "客戶隱私；資訊安全；利害關係人溝通",
+  "ri_quote": {
+   "text": "3.6 客戶服務418 客戶隱私",
+   "src": "永續報告書",
+   "url": "https://www.benqmedicaltech.com/proimages/4116%E6%98%8E%E5%9F%BA%E9%86%AB_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_Final_CN(%E4%B8%8A%E5%82%B3)r.pdf",
+   "page": "PDF第22頁"
+  }
+ },
+ "4161": {
+  "level": "無",
+  "basis": "僅提大數據分析與物聯網，未明說 AI",
+  "quotes": [],
+  "ri_topics": "資料隱私；資訊安全；倫理",
+  "ri_quote": {
+   "text": "未接獲來自主管機關與客戶個資與隱私相關之申訴案件",
+   "src": "永續報告書",
+   "url": "http://www.bioptik.com.tw/media/f/investor/2025%E5%B9%B4%E5%BA%A6%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "page": "PDF第68頁"
+  }
+ },
+ "6576": {
+  "level": "只是談論",
+  "basis": "AI 僅見於董事進修課程主題",
+  "quotes": [
+   {
+    "text": "公司治理-生成式AI產業發展趨勢",
+    "src": "永續報告書",
+    "url": "https://www.foreseepharma.com/uploads/images/6576_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_%E9%80%B8%E9%81%94%E7%94%9F%E6%8A%80_revised.pdf",
+    "page": "PDF第17頁"
+   }
+  ],
+  "ri_topics": "人權；個人隱私；行銷倫理；受試者",
+  "ri_quote": {
+   "text": "本公司致力維護所有員工、利害關係人之基本人權，及個人隱私資料之保護",
+   "src": "永續報告書",
+   "url": "https://www.foreseepharma.com/uploads/images/6576_2024%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8_%E9%80%B8%E9%81%94%E7%94%9F%E6%8A%80_revised.pdf",
+   "page": "PDF第28頁"
+  }
+ },
+ "8436": {
+  "level": "已實施",
+  "basis": "永續報告書載明已導入 AI 製程優化、AI 成本分析與 AI 能源控制平台",
+  "quotes": [
+   {
+    "text": "TCI has introduced AI-enabled process optimization since 2023.",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第60頁"
+   },
+   {
+    "text": "Factory cost analysis now incorporates AI-driven insights and recommendations.",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第47頁"
+   },
+   {
+    "text": "connected to the AI energy intelligent control platform",
+    "src": "永續報告書",
+    "url": "https://www.tci-bio.com/wp-content/uploads/2026/10/2025-永續報告書_EN_261019_compressed.pdf",
+    "page": "PDF第56頁"
+   }
+  ],
+  "ri_topics": "資料隱私；資訊安全；利害關係人溝通",
+  "ri_quote": {
+   "text": "客戶隱私權的維護為大江資訊安全管理的重要目標之一，公司依循歐盟一般資料保護規範",
+   "src": "年報",
+   "url": "https://www.tci-bio.com/wp-content/uploads/2025/10/2024%E5%B9%B4%E5%BA%A6%E5%B9%B4%E5%A0%B1.pdf",
+   "page": "PDF第51頁"
+  }
+ },
+ "6539": {
+  "level": "查無資料",
+  "basis": "文字層為亂碼",
+  "quotes": [],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6634": {
+  "level": "規劃中",
+  "basis": "稱積極導入 AI 賦能研發、建構試驗模型，未見具體已上線成果",
+  "quotes": [
+   {
+    "text": "本公司積極導入 AI 技術賦能研發，為新藥開發注入強大動能",
+    "src": "年報",
+    "url": "https://www.sinewpharma.com/Upload/download/115%20Report.pdf",
+    "page": "PDF第10頁"
+   },
+   {
+    "text": "導入人工智慧等先進科技建構多元試驗模型，降低動物與人體受試負擔",
+    "src": "年報",
+    "url": "https://www.sinewpharma.com/Upload/download/115%20Report.pdf",
+    "page": "PDF第10頁"
+   }
+  ],
+  "ri_topics": "受試者；資訊安全",
+  "ri_quote": {
+   "text": "降低動物與人體受試負擔",
+   "src": "年報",
+   "url": "https://www.sinewpharma.com/Upload/download/115%20Report.pdf",
+   "page": "PDF第10頁"
+  }
+ },
+ "6676": {
+  "level": "只是談論",
+  "basis": "AI 僅見於董事進修課程",
+  "quotes": [
+   {
+    "text": "數位轉型與 AI 應用課程名稱",
+    "src": "年報",
+    "url": "https://www.sunnypharmtech.com/file-download/service/EFF19DFD-AB02-452D-9B1C-83C60DE0A667",
+    "page": "PDF第38頁"
+   }
+  ],
+  "ri_topics": "個資；資訊安全",
+  "ri_quote": {
+   "text": "不定期辦理資訊安全及個人資料保護教育訓練及宣導作業",
+   "src": "年報",
+   "url": "https://www.sunnypharmtech.com/file-download/service/EFF19DFD-AB02-452D-9B1C-83C60DE0A667",
+   "page": "PDF第69頁"
+  }
+ },
+ "6748": {
+  "level": "只是談論",
+  "basis": "AI 僅見於董事進修課程",
+  "quotes": [
+   {
+    "text": "最新人工智慧之發展趨勢與",
+    "src": "永續報告書",
+    "url": "https://www.acrobiomedical.com/userfiles/Other/PDF/ESG%20Report/2025永續報告書-亞果生醫.pdf",
+    "page": "PDF第48頁"
+   }
+  ],
+  "ri_topics": "資料隱私；倫理；利害關係人溝通",
+  "ri_quote": {
+   "text": "亞果生醫恪遵《個人資料保護法》及相關法規，將客戶隱私權視為企業營運的重要承諾",
+   "src": "永續報告書",
+   "url": "https://www.acrobiomedical.com/userfiles/Other/PDF/ESG%20Report/2025永續報告書-亞果生醫.pdf",
+   "page": "PDF第68頁"
+  }
+ },
+ "6808": {
+  "level": "只是談論",
+  "basis": "AI 僅見於董事進修與產業趨勢描述",
+  "quotes": [
+   {
+    "text": "數位科技及人工智慧的趨勢與風險管理",
+    "src": "年報",
+    "url": "https://www.3dglobalbiotech.com.tw/download_s.php?ds=75",
+    "page": "PDF第47頁"
+   },
+   {
+    "text": "未來牙科服務產業亦逐步朝向人工智慧技術整合發展",
+    "src": "年報",
+    "url": "https://www.3dglobalbiotech.com.tw/download_s.php?ds=75",
+    "page": "PDF第74頁"
+   }
+  ],
+  "ri_topics": "倫理；IRB；受試者；個資",
+  "ri_quote": {
+   "text": "落實倫理臨床研究",
+   "src": "年報",
+   "url": "https://www.3dglobalbiotech.com.tw/download_s.php?ds=75",
+   "page": "PDF第17頁"
+  }
+ },
+ "6810": {
+  "level": "無",
+  "basis": "AI 僅出現在董事個人經歷，與公司自身無關",
+  "quotes": [],
+  "ri_topics": "個資",
+  "ri_quote": {
+   "text": "個人資料檔案安全維護管理辦法",
+   "src": "年報",
+   "url": "https://www.bpmbiotech.com/uploads/images/Investor/Financials/114%E5%B9%B4%E5%B9%B4%E5%A0%B1.pdf",
+   "page": "PDF第35頁"
+  }
+ },
+ "6817": {
+  "level": "無",
+  "basis": "AI 僅為董事兼任他公司名稱",
+  "quotes": [],
+  "ri_topics": "倫理；資訊安全",
+  "ri_quote": {
+   "text": "對新進人員進行員工倫理守則宣導",
+   "src": "年報",
+   "url": "https://www.winston.com.tw/filedown.php?file=upload%2F2026%2F08%2F20260803083729025GVVCEUQAZX.pdf&site=dXBsb2FkLzIwMjYvMDgvMjAyNjA4MDMwODM3MjkwMjVHVlZDRVVRQVpYLnBkZg==",
+   "page": "PDF第39頁"
+  }
+ },
+ "6847": {
+  "level": "無",
+  "basis": "僅提智慧醫療，未明說 AI",
+  "quotes": [],
+  "ri_topics": "客戶隱私；個資",
+  "ri_quote": {
+   "text": "對客戶之隱私均遵守保密協定及個人資料保護法",
+   "src": "年報",
+   "url": "https://puriblood.com/wp-content/uploads/%E6%99%AE%E7%91%9E%E5%8D%9A113%E5%B9%B4%E5%A0%B1_-20250509-M-C.pdf",
+   "page": "PDF第34頁"
+  }
+ },
+ "7427": {
+  "level": "只是談論",
+  "basis": "僅稱將持續關注 AI 應用，無具體計畫",
+  "quotes": [
+   {
+    "text": "我們也將持續關注人工智慧於新藥研發、數據分析及知識管理等領域的應用",
+    "src": "永續報告書",
+    "url": "https://www.gntbm.com.tw/upload/41/永續報告書2025.pdf",
+    "page": "PDF第3頁"
+   },
+   {
+    "text": "人工智慧（AI）技術快速發展，正加速改變醫藥研發、臨床試驗、藥物設計及精準醫療的模式",
+    "src": "永續報告書",
+    "url": "https://www.gntbm.com.tw/upload/41/永續報告書2025.pdf",
+    "page": "PDF第3頁"
+   }
+  ],
+  "ri_topics": "受試者保護；IRB；倫理；客戶隱私；利害關係人溝通",
+  "ri_quote": {
+   "text": "充分保障受試者權益，提供完整資訊並依法辦理相關保險",
+   "src": "永續報告書",
+   "url": "https://www.gntbm.com.tw/upload/41/永續報告書2025.pdf",
+   "page": "PDF第11頁"
+  }
+ },
+ "7832": {
+  "level": "無",
+  "basis": "AI 僅出現在董事個人經歷",
+  "quotes": [],
+  "ri_topics": "資訊安全；個資",
+  "ri_quote": {
+   "text": "本公司設置專責資訊部門，負責統籌執行資訊安全政策",
+   "src": "年報",
+   "url": "https://www.intelli-gene.com/simg_thumbs/shareholderdownload/092c3d00adec6a7c.pdf",
+   "page": "PDF第58頁"
+  }
+ },
+ "7881": {
+  "level": "規劃中",
+  "basis": "持續探索 AI 輔助、計畫引進 AI 視野醫材及導入 AI 應用",
+  "quotes": [
+   {
+    "text": "持續探索 AI 智能輔助應用，為患者打造精準、安全的醫療環境",
+    "src": "年報",
+    "url": "https://www.eyecaretech.com.tw/web/upload/ckfinder/files/0625%20%E7%A7%91%E6%98%8E%E5%84%80%E5%99%A8%E5%B9%B4%E5%A0%B1(%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88).pdf",
+    "page": "PDF第6頁"
+   },
+   {
+    "text": "引進青光眼領域相關醫材:例如眼壓測量儀，青光眼手術植入物， AI 視野等",
+    "src": "年報",
+    "url": "https://www.eyecaretech.com.tw/web/upload/ckfinder/files/0625%20%E7%A7%91%E6%98%8E%E5%84%80%E5%99%A8%E5%B9%B4%E5%A0%B1(%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88).pdf",
+    "page": "PDF第73頁"
+   },
+   {
+    "text": "導入數位化管理系統或 AI 應用，優化內部營運流程",
+    "src": "年報",
+    "url": "https://www.eyecaretech.com.tw/web/upload/ckfinder/files/0625%20%E7%A7%91%E6%98%8E%E5%84%80%E5%99%A8%E5%B9%B4%E5%A0%B1(%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88).pdf",
+    "page": "PDF第78頁"
+   }
+  ],
+  "ri_topics": "客戶隱私；個資；資訊安全",
+  "ri_quote": {
+   "text": "本公司重視客戶資料保護，依《個人資料保護法》及相關法規辦理資料之蒐集、處理及利用",
+   "src": "年報",
+   "url": "https://www.eyecaretech.com.tw/web/upload/ckfinder/files/0625%20%E7%A7%91%E6%98%8E%E5%84%80%E5%99%A8%E5%B9%B4%E5%A0%B1(%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88).pdf",
+   "page": "PDF第38頁"
+  }
+ }
+}

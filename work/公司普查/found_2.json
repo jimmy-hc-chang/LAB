@@ -1,0 +1,186 @@
+{
+ "1733": {
+  "annual": {
+   "url": "https://www.apexbio.com.tw/Manager/img/Report/55-2026051.pdf",
+   "label": "2025 年報",
+   "page": "https://www.apexbio.com.tw/Web/IR/shareholder.php"
+  },
+  "esg": {
+   "url": "https://www.apexbio.com.tw/Manager/img/CSR/60-2026022.pdf",
+   "label": "2025 永續報告書",
+   "page": "https://www.apexbio.com.tw/Web/CSR/csr_report.php"
+  },
+  "tried": "IR shareholder page, CSR report page"
+ },
+ "1786": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.scivision.com.tw/cms/upload/ckeditor/files/1786%E7%A7%91%E5%A6%8D_2025%E5%B9%B4%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%8A%E5%82%B32%29.pdf",
+   "label": "114年 (2025) 永續報告書",
+   "page": "https://www.scivision.com.tw/invest?id=173"
+  },
+  "tried": "invest?id=130,117 (only quarterly reports), id=173"
+ },
+ "3716": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.cenra.com/uploads/images/ESG/report/esg_report2025.pdf",
+   "label": "2025 ESG Report",
+   "page": "https://www.cenra.com/tw/esg/reports"
+  },
+  "tried": "shareholders/info, shareholders/meeting (no annual report PDF), esg/reports"
+ },
+ "4190": {
+  "annual": {
+   "url": "https://www.jourdeness.com/upload/download3/2025789568.pdf",
+   "label": "2025 股東會年報 (likely FY2024; domain inferred, unverified)",
+   "page": "https://www.jourdeness.com/download3.asp?lang=tw"
+  },
+  "esg": null,
+  "tried": "download3.asp, responsibility.asp"
+ },
+ "4192": {
+  "annual": null,
+  "esg": null,
+  "tried": "syncorebio.com investor pages: 114年度年報 listed but links are '#' (JS download manager), no direct URL; 2025年永續報告書 same"
+ },
+ "6242": {
+  "annual": null,
+  "esg": null,
+  "tried": "likangbio.com 年報 page redirect-only; ESG pages data-421503/data-427103 (2025 中文版) redirect pages, no PDF URL seen"
+ },
+ "4743": {
+  "annual": null,
+  "esg": {
+   "url": "https://onenessbio.com/wp-content/uploads/2026/09/ONENESSBIO_2025-ESG-Report_CN_v1.7.pdf",
+   "label": "2025 ESG Report (CN) [bonus, only annual needed]",
+   "page": "https://onenessbio.com/esg-sustainability/esg-data/latest-esg-reports/"
+  },
+  "tried": "annual-reports page loads via JS ('載入中'), no PDF"
+ },
+ "4168": {
+  "annual": {
+   "url": "https://ir.glyconex.com.tw/shareholder/annual-reports/2025y.pdf",
+   "label": "2025 年報",
+   "page": "https://www.glyconex.com.tw/investors/shareholder-services/"
+  },
+  "esg": null,
+  "tried": "shareholder-services page; no ESG PDF seen"
+ },
+ "8432": {
+  "annual": {
+   "url": "https://www.tshbiopharm.com/rwd1427/store/F2/114-yearpaper.pdf",
+   "label": "114年股東會年報 (label from page; file named 114-yearpaper)",
+   "page": "https://www.tshbiopharm.com/category.asp?category_id=64"
+  },
+  "esg": {
+   "url": "https://www.tshbiopharm.com/rwd1427/store/F2/2025東生華ESG永續報告書_最終版本%20(0804).pdf",
+   "label": "114年度(2025) 永續報告書 中文版",
+   "page": "https://www.tshbiopharm.com/Category.asp?category_id=257"
+  },
+  "tried": "category 64, 257"
+ },
+ "6703": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.esg-shinybrands.com/uploads/reports/6a979fc20cc3d.pdf",
+   "label": "2025年_軒郁國際ESG報告書",
+   "page": "https://www.esg-shinybrands.com/"
+  },
+  "tried": "esg-shinybrands.com"
+ },
+ "4102": {
+  "annual": {
+   "url": "https://www.yungzip.com/archive/investors/item/AnnualReports/2024.pdf",
+   "label": "2024 年報 (fallback; no 2025 listed)",
+   "page": "https://www.yungzip.com/investors/1/134"
+  },
+  "esg": null,
+  "tried": "investors/1, 1/134; no sustainability link seen"
+ },
+ "6523": {
+  "annual": null,
+  "esg": null,
+  "tried": "drwu.com/pages/yearfn-report and investor-csr-report: only Google Drive links (2025 annual not found; ESG 2025 drive: https://drive.google.com/file/d/1uBfJd-q2NT4VRerCMA1USTOzBEpemMgu/view ; annual 2025 drive: https://drive.google.com/file/d/1pvFMj4qPKKk1VMwhqunoWdFWTOan4dBf/view - unclear which is which)"
+ },
+ "6574": {
+  "annual": null,
+  "esg": null,
+  "tried": "mikobeaute.com investors/1/5 (2024 financial reports only; 2025 links JS), sustainability page JS links"
+ },
+ "4126": {
+  "annual": null,
+  "esg": null,
+  "tried": "pahsco.com.tw investors, esg/document: 2025-2022 sustainability entries but no hrefs shown"
+ },
+ "6838": {
+  "annual": null,
+  "esg": null,
+  "tried": "formosapharma.com sustainability, download (form-gated); websearch"
+ },
+ "4771": {
+  "annual": null,
+  "esg": null,
+  "tried": "vizionfocus.com home (no links); websearch"
+ },
+ "6534": {
+  "annual": null,
+  "esg": null,
+  "tried": "chbio.com 403"
+ },
+ "6657": {
+  "annual": null,
+  "esg": null,
+  "tried": "energenesis-biomedical.com invest/report (only financial statements)"
+ },
+ "6949": {
+  "annual": null,
+  "esg": null,
+  "tried": "pellbmt.com 503"
+ },
+ "1777": {
+  "annual": null,
+  "esg": null,
+  "tried": "syn-tech.com.tw 503"
+ },
+ "1813": {
+  "annual": null,
+  "esg": null,
+  "tried": "gialens.com.tw 503"
+ },
+ "4114": {
+  "annual": null,
+  "esg": null,
+  "tried": "synmosa.com.tw 503"
+ },
+ "4138": {
+  "annual": null,
+  "esg": null,
+  "tried": "dmttw.com.tw investor/sustainability category (no PDF links)"
+ },
+ "4160": {
+  "annual": null,
+  "esg": null,
+  "tried": "gga.asia 503"
+ },
+ "6620": {
+  "annual": null,
+  "esg": null,
+  "tried": "handapharma.com.tw shareholders/csr pages (Google Drive handbooks only)"
+ },
+ "6785": {
+  "annual": null,
+  "esg": null,
+  "tried": "alarpharm.com timeout"
+ },
+ "6945": {
+  "annual": null,
+  "esg": null,
+  "tried": "apbioinc.com links only to MOPS"
+ },
+ "4137": {
+  "annual": null,
+  "esg": null,
+  "tried": "chlitinaholding.com 503; websearch"
+ }
+}

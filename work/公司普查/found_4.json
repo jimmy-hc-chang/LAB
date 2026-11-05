@@ -1,0 +1,261 @@
+{
+ "1760": {
+  "annual": {
+   "url": "https://www.pbf.com.tw/wp-content/uploads/1150414寶齡年報lock-上傳檔.pdf",
+   "label": "2026年年報 (114年度)",
+   "page": "https://www.pbf.com.tw/股東專區/股東會資訊/"
+  },
+  "esg": {
+   "url": "https://www.pbf.com.tw/wp-content/uploads/2025永續報告書_壓縮檔.pdf",
+   "label": "2025永續報告書",
+   "page": "https://www.pbf.com.tw/environment-social-governance/"
+  },
+  "tried": "pbf.com.tw 股東會資訊, ESG頁"
+ },
+ "1795": {
+  "annual": {
+   "url": "https://api.lotuspharm.com/shareholders-meeting/download?id=14&index=3&locale=en",
+   "label": "2026 Annual Report (page label, download link, not .pdf path)",
+   "page": "https://www.lotuspharm.com/en/investors/shareholder-services/shareholders-meeting"
+  },
+  "esg": null,
+  "tried": "lotus investors/shareholders-meeting; search showed api.lotuspharm.com/storage/esg-reports/*.pdf but year unverified (one is 2021)"
+ },
+ "4106": {
+  "annual": null,
+  "esg": {
+   "url": "https://tw.wellell.com/storage/media/tw/investors/ESG%20Report/2025%E5%B9%B4%E9%9B%83%E5%8D%9A%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8-%E4%B8%AD%E6%96%87.pdf",
+   "label": "2025年雃博永續報告書 中文",
+   "page": "search result tw.wellell.com"
+  },
+  "tried": "web search; tw.wellell.com 403"
+ },
+ "4736": {
+  "annual": {
+   "url": "https://www.taidoc.com/tw/wp-content/uploads/2026/01/113%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1.pdf",
+   "label": "113年 股東會年報 (FY2024; 114年度 not listed)",
+   "page": "https://www.taidoc.com/tw/taidoc-annual-report/"
+  },
+  "esg": {
+   "url": "https://www.taidoc.com/tw/wp-content/uploads/2026/10/20260825_%E6%B3%B0%E5%8D%9AESG%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "label": "2025 (114年) ESG報告書",
+   "page": "https://www.taidoc.com/tw/esg/"
+  },
+  "tried": "annual-report page, esg page"
+ },
+ "6446": {
+  "annual": {
+   "url": "https://www.pharmaessentia.com/uploads/images/report/2025_Annual_Report_EN.pdf",
+   "label": "2025 Annual Report (EN; year meaning unverified)",
+   "page": "https://www.pharmaessentia-esg.com/en/download/detail"
+  },
+  "esg": {
+   "url": "https://www.pharmaessentia.com/uploads/images/download/PEC2025CS_Report_en.pdf",
+   "label": "2025 Sustainability Report (EN)",
+   "page": "https://www.pharmaessentia-esg.com/en/download/detail"
+  },
+  "tried": "pharmaessentia-esg download page"
+ },
+ "6589": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.eirgenix.com/download/591923",
+   "label": "2024 ESG Report (download link)",
+   "page": "https://www.eirgenix.com/esg-esg-overview"
+  },
+  "tried": "financial-reports-2025/2026 (no annual report), esg overview"
+ },
+ "4155": {
+  "annual": {
+   "url": "https://www.okbiotech.com/files/113年度年報.pdf",
+   "label": "113年度年報 (FY2024; 114年度 not listed)",
+   "page": "https://www.okbiotech.com/zh-tw/a3-2135/股東會相關資訊.html"
+  },
+  "esg": null,
+  "tried": "股東會相關資訊 page; no ESG report found"
+ },
+ "6782": {
+  "annual": {
+   "url": "https://www.viscovision.com.tw/tw/pdf/data/114年股東會年報.pdf",
+   "label": "114年股東會年報",
+   "page": "https://www.viscovision.com.tw/tw/investors_data.html"
+  },
+  "esg": null,
+  "tried": "investors_data page"
+ },
+ "6919": {
+  "annual": null,
+  "esg": {
+   "url": "https://drive.google.com/file/d/11vwe4FEHKcFg0QE5ZHropj-ROf7Fzo2O/view",
+   "label": "康霈生技2025年永續報告書 (Google Drive view)",
+   "page": "https://www.caliwaybiopharma.com/about/5/"
+  },
+  "tried": "investor-detail/50 lists 113年報 etc. but no hrefs visible"
+ },
+ "7803": {
+  "annual": null,
+  "esg": null,
+  "tried": "aetherai.com investorpage, financial page (only financial reports)"
+ },
+ "1784": {
+  "annual": null,
+  "esg": null,
+  "tried": "search: 111/112 annual report only found; bionetcorp.com/download 503"
+ },
+ "3176": {
+  "annual": {
+   "url": "https://www.medigen.com.tw/upload/shareholders_year_120260605171752.pdf",
+   "label": "114年報",
+   "page": "https://www.medigen.com.tw/investor_shareholders_reports"
+  },
+  "esg": null,
+  "tried": "investor_shareholders_reports"
+ },
+ "4107": {
+  "annual": {
+   "url": "https://www.bioteq.com.tw/storage/media/investors/annual-report/114/113年報_中文.pdf",
+   "label": "113年度年報 (114 not listed)",
+   "page": "https://www.bioteq.com.tw/zh-tw/pages/annual-report"
+  },
+  "esg": {
+   "url": "https://www.bioteq.com.tw/storage/media/ESG%20Report/邦特_2025永續報告書-0824Final.pdf",
+   "label": "114年度永續報告書",
+   "page": "https://www.bioteq.com.tw/zh-tw/page-categories/yong-xu-bao-gao-shu"
+  },
+  "tried": "annual-report page, 永續 category page"
+ },
+ "4147": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.taimedbiologics.com/article_d.php?lang=tw&tb=7&id=1121",
+   "label": "2025永續報告書 (article page, PDF url not shown)",
+   "page": "https://www.taimedbiologics.com/article.php?lang=tw&tb=7&cid=172"
+  },
+  "tried": "download.php tb=5 (annual only up to 2022 via Google Drive, 2024/2025 no href)"
+ },
+ "4163": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.intai.com.tw/files/shares/Sustainability_Report_2024.pdf",
+   "label": "2024 Sustainability Report",
+   "page": "search result / ir.intai.com.tw"
+  },
+  "tried": "search; ir.intai.com.tw 503"
+ },
+ "4120": {
+  "annual": null,
+  "esg": null,
+  "tried": "oep.com.tw 503, search only homepage"
+ },
+ "4128": {
+  "annual": null,
+  "esg": {
+   "url": "https://www.twmicrobio.com/wp-content/uploads/2025/10/2024%E4%B8%AD%E5%A4%A9%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8-CN.pdf",
+   "label": "2024 ESG REPORT (中文)",
+   "page": "search result"
+  },
+  "tried": "shareholders-meeting page no hrefs; search"
+ },
+ "4175": {
+  "annual": null,
+  "esg": null,
+  "tried": "medfirst.com.tw FinancialInformation-2 no content, search"
+ },
+ "4726": {
+  "annual": {
+   "url": "https://mycenax.com/upload/2026_05_06_1142040.pdf",
+   "label": "114年度年報",
+   "page": "https://www.mycenax.com/info-shareholders.php?lang=tw"
+  },
+  "esg": {
+   "url": "https://mycenax.com/upload/2026_08_28_1602580.pdf",
+   "label": "2025年永續報告書",
+   "page": "https://www.mycenax.com/csr.php?lang=tw"
+  },
+  "tried": "info-shareholders, csr"
+ },
+ "4747": {
+  "annual": {
+   "url": "https://www.jcpjohnson.com.tw/docs/service/upload/3annual/2025年度年報_股東會後修訂%20.pdf",
+   "label": "2025年度年報(股東會後修訂)",
+   "page": "https://www.jcpjohnson.com.tw/docs/investment01_in03.php"
+  },
+  "esg": null,
+  "tried": "investment01_in03 (relative path resolved against /docs/)"
+ },
+ "6469": {
+  "annual": {
+   "url": "https://www.greattree.com.tw/files/15-investor/EN/file/2026/2025_Annual%20Report_CH.pdf",
+   "label": "114年度年報",
+   "page": "search result greattree.com.tw"
+  },
+  "esg": {
+   "url": "https://www.greattree.com.tw/files/15-investor/16/2024Sustainability%20report(revise1016).pdf",
+   "label": "2024 Sustainability Report",
+   "page": "search result"
+  },
+  "tried": "search; CSR page 503 (2025 listing unverified)"
+ },
+ "6535": {
+  "annual": {
+   "url": "https://www.lumosa.com.tw/file/shareholder_annual_report/1750665785585.pdf",
+   "label": "2024 Annual Report (only up to 2024 listed)",
+   "page": "https://www.lumosa.com.tw/investor/shareholder_annual_report"
+  },
+  "esg": {
+   "url": "https://www.lumosa.com.tw/file/social_care/1787626207240.pdf",
+   "label": "Lumosa 2025 ESG Report",
+   "page": "https://www.lumosa.com.tw/investor/corporate_social_responsibility"
+  },
+  "tried": "annual report page, CSR page"
+ },
+ "6612": {
+  "annual": {
+   "url": "https://www.icaresmedicus.com/wp-content/uploads/2025/05/3fdca6e07d243461d58e30097a59acd2.pdf",
+   "label": "奈米醫材114年股東會年報 (content is ANNUAL REPORT 2024, i.e. FY113)",
+   "page": "https://www.icaresmedicus.com/investors/shareholderservices/"
+  },
+  "esg": null,
+  "tried": "shareholderservices page; no ESG report listed"
+ },
+ "6649": {
+  "annual": {
+   "url": "https://www.twbm.com.tw/en/_files/ugd/6e8533_060eb178f7954b4fb868593200e17296.pdf",
+   "label": "股東會年報.pdf (under 2026 AGM, likely FY2025; unlabeled)",
+   "page": "https://www.twbm.com.tw/en/股東服務"
+  },
+  "esg": null,
+  "tried": "shareholder service page; also 113年股東會年報 https://www.twbm.com.tw/en/_files/ugd/c19b48_75d8399503b147c08eed146e466faeb6.pdf"
+ },
+ "6733": {
+  "annual": {
+   "url": "https://www.biogend.com.tw/?attachment_id=59674&download=1",
+   "label": "113年報 (FY2024; 114 not listed)",
+   "page": "https://www.biogend.com.tw/股東會資訊.html"
+  },
+  "esg": {
+   "url": "https://www.biogend.com.tw/?attachment_id=62691&download=1",
+   "label": "2025 永續報告書 (中文)",
+   "page": "https://www.biogend.com.tw/esg-2"
+  },
+  "tried": "股東會資訊, esg-2"
+ },
+ "6844": {
+  "annual": {
+   "url": "https://www.norbelbaby.com.tw/InvestorZone/doc/twse_shareholder/113/113%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83%E4%B9%8B%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1.pdf",
+   "label": "112年度年報 (older; from search)",
+   "page": "search result"
+  },
+  "esg": null,
+  "tried": "search; InvestorZone page 404"
+ },
+ "7814": {
+  "annual": null,
+  "esg": {
+   "url": "https://drive.google.com/file/d/1a3v0EHnosBFD0Xc2wo9KjXwMQGqXY9Mj/view?usp=drive_link",
+   "label": "114年永續報告書 (Google Drive)",
+   "page": "https://www.biohorien.com/show/2025-sustainability-report.htm"
+  },
+  "tried": "ESG list, 相關資料 (no annual report)"
+ }
+}

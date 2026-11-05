@@ -1,0 +1,22 @@
+{
+"4170":{"annual":null,"esg":null,"tried":"官網投資人專區/股東專區只連到 mops；搜尋無公司網域年報"},
+"4732":{"annual":null,"esg":null,"tried":"naturewise.com.tw/investor-annual-report/ 列有114年年報等，但下載連結為 # 佔位，抓不到真實PDF網址；搜尋也未見"},
+"6543":{"annual":{"url":"https://www.perfectmedical.com.tw/download/670637","label":"2026 股東常會年報","page":"https://www.perfectmedical.com.tw/shareholders-meeting-information"},"esg":{"url":"https://www.perfectmedical.com.tw/data-424830","label":"2025年永續報告書下載（頁面，非直接PDF；data-424830頁僅見自動導向文字）","page":"https://www.perfectmedical.com.tw/shareholders-meeting-information"},"tried":"年報為download端點，副檔名未確認；ESG另有2024版 https://www.perfectmedical.com.tw/annual-report"},
+"6580":{"annual":null,"esg":null,"tried":"股東專區/財務資訊皆連 mops；搜尋無結果"},
+"6634":{"annual":{"url":"https://www.sinewpharma.com/Upload/download/115%20Report.pdf","label":"114年度年報（115年股東常會）","page":"https://www.sinewpharma.com/investors-detail100.htm"},"esg":null,"tried":"路徑由頁面相對連結推得，空白以%20編碼"},
+"6676":{"annual":{"url":"https://www.sunnypharmtech.com/file-download/service/EFF19DFD-AB02-452D-9B1C-83C60DE0A667","label":"1150626-03-年報.pdf (2026股東會)","page":"https://www.sunnypharmtech.com/service/shareholder-services"},"esg":null,"tried":"頁面無永續報告書"},
+"6704":{"annual":null,"esg":null,"tried":"投資人專區皆連 mops；ESG頁 article-invest-esg.html 無報告"},
+"6797":{"annual":null,"esg":null,"tried":"年報頁/股東會頁僅見財報PDF與2022年度年報(2023股東會) https://www.tanbead.com/upload/2023_06_16/6_20230616152903zpt7vbb064.pdf；未見114/113年報"},
+"6815":{"annual":null,"esg":null,"tried":"diamond-biotechnology.com 投資人頁 403；搜尋無結果"},
+"6848":{"annual":null,"esg":null,"tried":"財報頁僅財報PDF；股東會資訊連Yahoo"},
+"6879":{"annual":{"url":"https://drive.google.com/file/d/1EiFFTThw__rdusfz3ITz2aYAwK6Efi-T/view?usp=drive_link","label":"大江基因-2024年度年報（Google Drive，官網財務資料頁所連；非公司網域）","page":"https://www.tci-gene.com/pages/financial-information"},"esg":null,"tried":"只有2024年度，Drive託管"},
+"6976":{"annual":null,"esg":null,"tried":"股東會頁只連 doc.twse.com.tw"},
+"7427":{"annual":null,"esg":{"url":"https://www.gntbm.com.tw/upload/41/永續報告書2025.pdf","label":"永續報告書2025","page":"https://www.gntbm.com.tw/tw/investors1.html"},"tried":"股東常會頁114年僅通知書/手冊/議事錄無年報；財務資訊頁僅財報"},
+"7686":{"annual":null,"esg":null,"tried":"a-top.tw 股東會資訊頁僅導向mops"},
+"7729":{"annual":{"url":"https://steminent.com/resources/uploads/%E8%82%A1%E6%9D%B1%E6%9C%83/%E4%BB%B2%E6%81%A9%E7%94%9F%E9%86%AB-113%E5%B9%B4%E5%BA%A6%E5%B9%B4%E5%A0%B1.pdf","label":"仲恩生醫科技股份有限公司一一三年度年報（搜尋結果，公司網域）","page":"https://steminent.com/article/lists?article_category_id=2&article_id=11&page=1"},"esg":null,"tried":"官網503；僅113年度，未見114年度"},
+"7762":{"annual":{"url":"https://www.petpharmbio.com/datas/stocks/114/%E5%B9%B4%E5%A0%B1.pdf","label":"民國一一三年度年報（114年股東會）","page":"https://www.petpharmbio.com/investment.html"},"esg":null,"tried":"僅113年度；114年度未見"},
+"7832":{"annual":{"url":"https://www.intelli-gene.com/simg_thumbs/shareholderdownload/092c3d00adec6a7c.pdf","label":"114年度股東常會年報（115股東會）","page":"https://www.intelli-gene.com/shareholder"},"esg":null,"tried":"相對路徑接站台根目錄"},
+"7860":{"annual":null,"esg":null,"tried":"官網503/404、搜尋無結果"},
+"7881":{"annual":{"url":"https://www.eyecaretech.com.tw/web/upload/ckfinder/files/0625%20%E7%A7%91%E6%98%8E%E5%84%80%E5%99%A8%E5%B9%B4%E5%A0%B1(%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88).pdf","label":"年報（115年股東常會）","page":"https://www.eyecaretech.com.tw/zh_TW/investor/id/4"},"esg":null,"tried":"相對路徑接站台根目錄"},
+"7924":{"annual":null,"esg":null,"tried":"中文財務頁說明尚未發布正式年報；英文頁下載無URL"}
+}

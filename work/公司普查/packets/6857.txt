@@ -1,0 +1,17 @@
+### 6857 宏碁智醫（宏碁智醫股份有限公司，興櫃）細分類：醫療器材－醫療器材研發、設計、製造
+[官網] AI強詞段落42處
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜ DR Improving the quality of diabetes care VeriSee DR is an AI-assisted diagnostic software for diabetic retinopathy (DR) 
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜opathy (DR) that identifies high-risk DR patients. Its core AI model has been trained from images labeled by retina specia
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜gainst a rigorous clinical reference standard. It leverages AI deep learning techniques to produce diagnosis results simil
+  - https://www.acer-medical.com/solutions/verisee-dr/｜deep learning｜nst a rigorous clinical reference standard. It leverages AI deep learning techniques to produce diagnosis results similar to that of 
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜out network connection. Request a demo The first ophthalmic AI Software as a Medical Device (SaMD) approved by Taiwan FDA 
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜on systems References to additional clinical research data: AI Model Development Hsieh, Yi-Ting, et al. “Application of de
+  - https://www.acer-medical.com/solutions/verisee-dr/｜deep learning｜AI Model Development Hsieh, Yi-Ting, et al. “Application of deep learning image assessment software VeriSee™ for diabetic retinopathy
+  - https://www.acer-medical.com/solutions/verisee-dr/｜artificial intelligence｜Tsai, Meng-Ju, et al. “Cross-camera external validation for artificial intelligence software in diagnosis of diabetic retinopathy.” Journal of 
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜od and face higher risks of vision loss and even blindness. AI-powered Software to Optimize DR Screening Process How It Wo
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜noses and disease tracking Step 1 Step 2 Step 3 Install the AI software on the computer connected to the fundus camera. Th
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜giving recommendations in 30 seconds with 93% accuracy. The AI software also provides the 4 major lesions with their corre
+  - https://www.acer-medical.com/solutions/verisee-dr/｜AI｜betic retinopathy diagnosis efficiently. Step 1 Install the AI software on the computer connected to the fundus camera. St
+  - https://www.acer-medical.com/solutions/verisee-dr/｜deep learning｜l of the Formosan Medical Association, 2020. Application of deep learning image assessment software VeriSee TM for diabetic retinopat
+  - https://www.acer-medical.com/solutions/verisee-amd/｜AI｜MD Safeguarding the eye health of seniors VeriSee AMD is an AI-assisted screening software for age-related macular degener
+  - https://www.acer-medical.com/solutions/verisee-amd/｜AI｜tion (AMD) that identifies high-risk AMD patients. Its core AI model has been trained from images labeled by retina specia

@@ -1,0 +1,352 @@
+{
+ "1731": {
+  "level": "已實施",
+  "basis": "研發導入AI輔助配方優化、染髮AI虛擬試髮系統已上線，屬自身實際應用",
+  "quotes": [
+   {
+    "text": "研發團隊開始導入 AI 輔助配方優化與穩定性模擬技術",
+    "src": "永續報告書",
+    "page": "PDF第40頁",
+    "url": "http://www.maywufa.com.tw/uploads/images/ESG/report/2025-report-tw.pdf"
+   },
+   {
+    "text": "2022 起針對染髮劑商品導入 AI 虛擬線上試髮色系統",
+    "src": "永續報告書",
+    "page": "PDF第48頁",
+    "url": "http://www.maywufa.com.tw/uploads/images/ESG/report/2025-report-tw.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "未發生侵害客戶隱私或洩漏客戶個資之事件",
+   "src": "永續報告書",
+   "page": "PDF第12頁",
+   "url": "http://www.maywufa.com.tw/uploads/images/ESG/report/2025-report-tw.pdf"
+  }
+ },
+ "1752": {
+  "level": "只是談論",
+  "basis": "僅員工教育訓練課程與副董事長談AI趨勢，無實際應用",
+  "quotes": [
+   {
+    "text": "AI科技在工作上的應用與營業秘密",
+    "src": "永續報告書",
+    "page": "PDF第44頁",
+    "url": "https://www.nangkuang.com.tw/upload/%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A/2025%E6%B0%B8%E7%BA%8C%E8%A8%88%E7%95%AB%E6%9B%B8_%E6%94%B9.pdf"
+   },
+   {
+    "text": "AI科技的發展正在快速改變整個市場環境",
+    "src": "永續報告書",
+    "page": "PDF第8頁",
+    "url": "https://www.nangkuang.com.tw/upload/%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A/2025%E6%B0%B8%E7%BA%8C%E8%A8%88%E7%95%AB%E6%9B%B8_%E6%94%B9.pdf"
+   }
+  ],
+  "ri_topics": "受試者保護；倫理；知情同意；資料隱私；利害關係人溝通",
+  "ri_quote": {
+   "text": "並落實受試者保護措施，包括：確認受試者於參與試驗前已完成知情同意程序（Informed Consent）",
+   "src": "永續報告書",
+   "page": "PDF第26頁",
+   "url": "https://www.nangkuang.com.tw/upload/%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A/2025%E6%B0%B8%E7%BA%8C%E8%A8%88%E7%95%AB%E6%9B%B8_%E6%94%B9.pdf"
+  }
+ },
+ "1783": {
+  "level": "已實施",
+  "basis": "官網用AI增加語言、已導入Deep Instinct AI資安系統；僅內部/IT工具",
+  "quotes": [
+   {
+    "text": "Deep Instinct AI anti-hackingsystem (June 2024)",
+    "src": "年報",
+    "page": "PDF第144頁",
+    "url": "https://mbi-bio.com/wp-content/uploads/113-年報-英-1.pdf"
+   },
+   {
+    "text": "The website employs AI to enhance the availability of new language options",
+    "src": "年報",
+    "page": "PDF第6頁",
+    "url": "https://mbi-bio.com/wp-content/uploads/113-年報-英-1.pdf"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "1789": {
+  "level": "只是談論",
+  "basis": "僅董事AI課程及生成式AI使用規範（風險管控），未述具體AI應用",
+  "quotes": [
+   {
+    "text": "調整並實施生成式 AI 工具使用規範，明確界定使用範圍與資料輸入限制",
+    "src": "年報",
+    "page": "PDF第141頁",
+    "url": "https://www.scinopharm.com/tw/investor_document-detail/354/"
+   },
+   {
+    "text": "AI 對資訊安全的影響及因應",
+    "src": "永續報告書",
+    "page": "PDF第41頁",
+    "url": "https://www.scinopharm.com/download/2025ESG_CH/"
+   }
+  ],
+  "ri_topics": "資料隱私；利害關係人溝通；倫理",
+  "ri_quote": {
+   "text": "保護客戶隱私：盤查檔案資料權限確保客戶隱私及資訊安全，未經授權之人員不得使用及存取客戶個資",
+   "src": "永續報告書",
+   "page": "PDF第41頁",
+   "url": "https://www.scinopharm.com/download/2025ESG_CH/"
+  }
+ },
+ "3705": {
+  "level": "只是談論",
+  "basis": "僅董事進修課程主題含AI大數據，無公司自身AI應用",
+  "quotes": [
+   {
+    "text": "從AI大數據推動產業升級與產業合作",
+    "src": "年報",
+    "page": "PDF第24頁",
+    "url": "https://www.yungshingroup.com/uploads/images/2024中文年報.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私；受試者保護",
+  "ri_quote": {
+   "text": "未接獲有侵犯客戶隱私之情事發生",
+   "src": "永續報告書",
+   "page": "PDF第5頁",
+   "url": "https://www.yungshingroup.com/uploads/images/2024永續報告書.pdf"
+  }
+ },
+ "4104": {
+  "level": "已實施",
+  "basis": "新品牌伊啵美容服務已使用AI人工智能皮膚檢測",
+  "quotes": [
+   {
+    "text": "透過 AI 人工智能皮膚檢測及完美細緻工法，提供消費者韓式臉部皮膚管理美容服務",
+    "src": "年報",
+    "page": "PDF第91頁",
+    "url": "https://www.excelsiormedical.com.tw/wp-content/uploads/2026/06/%E8%82%A1%E5%8B%99-115%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83%E5%B9%B4%E5%A0%B1%E4%B8%AD.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "佳醫高度重視客戶個人資料與機敏健康資訊之保護",
+   "src": "永續報告書",
+   "page": "PDF第53頁",
+   "url": "https://www.excelsiormedical.com.tw/wp-content/uploads/2026/08/佳醫-2025永續報告書_中文版.pdf"
+  }
+ },
+ "4195": {
+  "level": "已實施",
+  "basis": "已推出結合AI的高通量蛋白質體服務，並導入自動化數據AI判讀",
+  "quotes": [
+   {
+    "text": "我們隆重推出高通量蛋白質體服務，結合群體基因組研究與人工智慧（AI）技術",
+    "src": "年報",
+    "page": "PDF第59頁",
+    "url": "https://www.genomics.com.tw/upload/2026_07_22/2_20260722113109wul4opug30.pdf"
+   },
+   {
+    "text": "自動化數據 AI 判讀",
+    "src": "年報",
+    "page": "PDF第90頁",
+    "url": "https://www.genomics.com.tw/upload/2026_07_22/2_20260722113109wul4opug30.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "「個人資料保護管理辦法」",
+   "src": "年報",
+   "page": "PDF第25頁",
+   "url": "https://www.genomics.com.tw/upload/2026_07_22/2_20260722113109wul4opug30.pdf"
+  }
+ },
+ "4746": {
+  "level": "已實施",
+  "basis": "多部門已使用付費ChatGPT Team，並在行政與研發導入AI；僅內部辦公工具",
+  "quotes": [
+   {
+    "text": "Completed the use of paid ChatGPT Team subscriptions by multipledepartments",
+    "src": "年報",
+    "page": "PDF第137頁",
+    "url": "https://www.formosalab.com/storage/architecture/page~139/page~142/page~209/2026-06-05-02_en.pdf"
+   },
+   {
+    "text": "incorporating AI in various administrative and R&Dtasks to boost",
+    "src": "永續報告書",
+    "page": "PDF第3頁",
+    "url": "https://www.formosalab.com/storage/architecture/page~145/page~155/2024_ESG_EN.pdf"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6431": {
+  "level": "規劃中",
+  "basis": "年報列為計畫：結合AI智慧手環、建置AI遠距智慧健康平台，尚未見已上線",
+  "quotes": [
+   {
+    "text": "建置 AI 遠距智慧健康平台，擴大客戶族群",
+    "src": "年報",
+    "page": "PDF第68頁",
+    "url": "http://www.kl-holdings.com/file/download/402880879649b34a0197145e4ba80016"
+   },
+   {
+    "text": "結合 AI 智慧手環搭配保健品販賣及健康管理收入",
+    "src": "年報",
+    "page": "PDF第68頁",
+    "url": "http://www.kl-holdings.com/file/download/402880879649b34a0197145e4ba80016"
+   }
+  ],
+  "ri_topics": "利害關係人溝通",
+  "ri_quote": {
+   "text": "亦積極與各界利害關係人溝通",
+   "src": "永續報告書",
+   "page": "PDF第22頁",
+   "url": "http://www.kl-holdings.com/file/download/402880879e870a2e01a04298f9170009"
+  }
+ },
+ "6491": {
+  "level": "只是談論",
+  "basis": "僅員工AI教育訓練與趨勢描述，「營運AI化」未具體說明應用",
+  "quotes": [
+   {
+    "text": "將人工智慧（AI）與生成式人工智慧（Generative AI, GenAI） 納入年度教育訓練重點",
+    "src": "永續報告書",
+    "page": "PDF第63頁",
+    "url": "https://www.pegavision.com/In_Regulation/esg_report_2025.pdf"
+   },
+   {
+    "text": "本公司在持續提高營運 AI 化及自動化的同時",
+    "src": "年報",
+    "page": "PDF第69頁",
+    "url": "https://www.pegavision.com/In_Annual-Report/2025TA_Annual.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循；利害關係人溝通",
+  "ri_quote": {
+   "text": "無發生客戶隱私外洩事件",
+   "src": "永續報告書",
+   "page": "PDF第17頁",
+   "url": "https://www.pegavision.com/In_Regulation/esg_report_2025.pdf"
+  }
+ },
+ "6796": {
+  "level": "已實施",
+  "basis": "自有產品AI-DR糖尿病視網膜病變AI篩檢軟體，產品整合AI輔助判讀",
+  "quotes": [
+   {
+    "text": "MiiS evolves edge computing-based AI screening in Diabetic Retinopathy",
+    "src": "官網",
+    "page": "官網",
+    "url": "https://www.miis.com.tw/products_1.php?lang=us"
+   },
+   {
+    "text": "products integrate AI artificial intelligence software's auxiliary judgment",
+    "src": "年報",
+    "page": "PDF第92頁",
+    "url": "https://www.miis.com.tw/image/editor/files/2024%E8%8B%B1%E6%96%87%E5%B9%B4%E5%A0%B1-Final-%E4%B8%8A%E5%82%B3-%E6%9B%B4%E6%96%B0-%E8%82%A1%E6%9D%B1%E6%9C%83%E5%BE%8C%E6%9B%B4%E6%AD%A3%E7%89%88.pdf"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "6918": {
+  "level": "規劃中",
+  "basis": "AI輔助術前規劃解決方案屬開發中／計畫開發項目，尚未上市",
+  "quotes": [
+   {
+    "text": "同時投資開發 AI 輔助的術前規劃解決方案",
+    "src": "年報",
+    "page": "PDF第61頁",
+    "url": "https://storage.upage.cool/62bd37bbd08bef0018a02872/2026/05/12/019e1ac5-6204-7159-8f79-a64263dfb158.pdf"
+   },
+   {
+    "text": "AI 輔助術前規劃解決方案開發",
+    "src": "永續報告書",
+    "page": "PDF第34頁",
+    "url": "https://storage.upage.cool/62bd37bbd08bef0018a02872/2026/08/14/019ffe6c-2889-7456-a7da-f97794e1e785.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私；法規遵循",
+  "ri_quote": {
+   "text": "客戶及員工個資依法妥善保護",
+   "src": "永續報告書",
+   "page": "PDF第47頁",
+   "url": "https://storage.upage.cool/62bd37bbd08bef0018a02872/2026/08/14/019ffe6c-2889-7456-a7da-f97794e1e785.pdf"
+  }
+ },
+ "6934": {
+  "level": "只是談論",
+  "basis": "年報僅稱「評估導入」數位與AI系統，尚無具體計畫",
+  "quotes": [
+   {
+    "text": "Evaluate the introduction ofdigital and AI-related systems toimprove",
+    "src": "年報",
+    "page": "PDF第46頁",
+    "url": "https://www.hcmed-inno.com/files/investor_file/1778832516498.pdf"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7799": {
+  "level": "規劃中",
+  "basis": "永續報告書路線圖列「導入AI演算法」，官網僅與GE探索AI影像，尚未實施",
+  "quotes": [
+   {
+    "text": "導入 AI 演算法與大數據分析，優化治療參數設定與預後評估",
+    "src": "永續報告書",
+    "page": "PDF第34頁",
+    "url": "https://www.heron-neutron.com/files/CorporateSustainability/2025%20Sustainability%20Report.pdf"
+   },
+   {
+    "text": "探索 AI 影像與 BNCT 應用",
+    "src": "官網",
+    "page": "官網",
+    "url": "https://www.heron-neutron.com/news-Post/sxwmSDsejmCOPPDt"
+   }
+  ],
+  "ri_topics": "受試者保護；倫理審查；知情同意；利害關係人溝通；法規遵循",
+  "ri_quote": {
+   "text": "臨床試驗均經 TFDA 與 IRB 審查與核准",
+   "src": "永續報告書",
+   "page": "PDF第27頁",
+   "url": "https://www.heron-neutron.com/files/CorporateSustainability/2025%20Sustainability%20Report.pdf"
+  }
+ },
+ "1565": {
+  "level": "規劃中",
+  "basis": "永續報告書列目標：使用AI監測高風險作業，尚為目標；另有董事AI課程",
+  "quotes": [
+   {
+    "text": "推動智慧化安全監控系統，使用 AI 監測高風險作業，提升安全預防能力",
+    "src": "永續報告書",
+    "page": "PDF第60頁",
+    "url": "https://www.stshine.com.tw/wp-content/uploads/2025_永續報告書.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私；利害關係人溝通",
+  "ri_quote": {
+   "text": "2025年度未發生任何客戶資料外洩事件",
+   "src": "永續報告書",
+   "page": "PDF第6頁",
+   "url": "https://www.stshine.com.tw/wp-content/uploads/2025_永續報告書.pdf"
+  }
+ },
+ "4105": {
+  "level": "只是談論",
+  "basis": "僅產業趨勢描述AI輔助研發及學生課程，非公司自身應用",
+  "quotes": [
+   {
+    "text": "AI 輔助製藥產品的研發，快速並精準篩選新型活性物質，以期縮短研發週期，降低成本",
+    "src": "年報",
+    "page": "PDF第109頁",
+    "url": "http://www.tty.com.tw/rwd1181/store/F3/TTY%E5%B9%B4%E5%A0%B12025.pdf"
+   }
+  ],
+  "ri_topics": "資料隱私；利害關係人溝通；法規遵循",
+  "ri_quote": {
+   "text": "依據個人資料保護法及主管機關所訂定之相關法規，修訂本公司「個人資料安全保護管理作業辦法」",
+   "src": "年報",
+   "page": "PDF第50頁",
+   "url": "http://www.tty.com.tw/rwd1181/store/F3/TTY%E5%B9%B4%E5%A0%B12025.pdf"
+  }
+ }
+}

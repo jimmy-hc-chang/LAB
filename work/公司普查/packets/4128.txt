@@ -1,0 +1,17 @@
+### 4128 中天（中天生物科技股份有限公司，上櫃）細分類：製藥－中、西藥製劑；製藥－原材料；食品生技－保健食品代理銷售及通路；食品生技－加工製成品
+[永續報告書] 來源網址：https://www.twmicrobio.com/wp-content/uploads/2026/10/2025-Microbio-ESG-Report.pdf｜網頁標示：Latest ESG Report｜共202頁(PDF頁)｜AI相關詞出現13次(強詞13次)
+  - PDF第30頁｜machine learning｜d a database of 1,200in vitro fecal microbiota database.． Developed a machine learning-based Poly-Microbial Risk Score (PMRS): used for predicting cancerpat
+  - PDF第66頁｜AI｜01 Information Security Protection and Personal Data Protection” and “AI Application andInformation Security Prevention” courses, and in the s
+  - PDF第76頁｜AI｜rket landscape.Technology and talent risk: There may be challenges in AI technology whenintroducing AI into drug discovery and R&D, such as al
+  - PDF第76頁｜AI｜talent risk: There may be challenges in AI technology whenintroducing AI into drug discovery and R&D, such as algorithmic instability orlack o
+  - PDF第76頁｜AI｜the Company also needs talents equippedwith professional knowledge of AI and new drug R&D, and these talents maybe scarce in a short time.1.2.
+  - PDF第76頁｜AI｜ in a short time.1.2.3.4.5.•Implementation of ArtificialIntelligence (AI) in theBiopharmaceutical Industry•Risk CountermeasuresMaintain sensit
+  - PDF第77頁｜AI｜ion, information security and personal data protection (ISO27001) and AI applications andinformation security risk prevention, which were also
+  - PDF第82頁｜AI｜ation Security andPersonal Data Protection TrainingAll employees31356%AI Applications and Cybersecurity RiskPrevention TrainingAll employees41
+  - PDF第104頁｜AI｜curity andpersonal data protection training, information security and AI-relatedsecurity courses, in order to continuously strengthen employee
+  - PDF第151頁｜ai｜64-8899No. 273-1, Sec. 3, Roosevelt Rd., Da’an Dist., Taipei City22Bo'ai2388-5257No.98, Bo'ai Rd., Zhongzheng Dist., Taipei City23Fuzhou2396-1
+  - PDF第151頁｜ai｜. 3, Roosevelt Rd., Da’an Dist., Taipei City22Bo'ai2388-5257No.98, Bo'ai Rd., Zhongzheng Dist., Taipei City23Fuzhou2396-1918No. 11-7, Fuzhou S
+  - PDF第152頁｜ai｜8No. 146, Zhongzheng Rd., Luodong Township, Yilan County47Keelung Ren’ai2428-6878No. 40, Ren 4th Rd., Ren’ai Dist., Keelung City48Xizhi8691-52
+  - PDF第152頁｜ai｜wnship, Yilan County47Keelung Ren’ai2428-6878No. 40, Ren 4th Rd., Ren’ai Dist., Keelung City48Xizhi8691-52961F., No. 47, Nanchang St., Xizhi D
+[官網] AI強詞段落1處
+  - https://www.twmicrobio.com/investors/major-internal-policies/｜AI｜., Ltd. 13 Corporate Governance Best Practice Principles 14 AI Application and Management Procedure Address: 18 F.-1, No. 
