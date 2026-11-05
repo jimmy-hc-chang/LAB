@@ -50,7 +50,7 @@ for c in cs:
             r['level']='未判定'
     if r['level']=='查無資料':
         src=[f"公司官網（{c['web']}，爬取 {r['s_pages']} 頁，未出現 AI 強詞，未找到年報／永續報告書 PDF）"]
-        src.append('公開資訊觀測站 doc.twse.com.tw 年報下載（本環境無法下載 PDF）')
+        pass
         for kk,lab in (('annual','年報'),('esg','永續報告書')):
             if pk.get(kk) and not v[kk]:
                 pf=f'{B}/pdf/{k}_{kk}.pdf'
