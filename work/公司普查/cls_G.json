@@ -1,0 +1,300 @@
+{
+ "6850": {
+  "level": "規劃中",
+  "basis": "年報稱未來將積極導入AI輔助分析與機器學習，尚未實施",
+  "quotes": [
+   {
+    "text": "未來將積極導入 AI 輔助分析與機器學習技術，以提升數據判讀效率",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=6850&year=115&mtype=F",
+    "page": "PDF第73頁"
+   }
+  ],
+  "ri_topics": "資料隱私；個人資料；利害關係人溝通",
+  "ri_quote": {
+   "text": "對客戶之隱私均遵守保密協定及個人資料保護法",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=6850&year=115&mtype=F",
+   "page": "PDF第37頁"
+  }
+ },
+ "6879": {
+  "level": "只是談論",
+  "basis": "AI僅見於產業描述與董事進修課程，公司自身無AI應用",
+  "quotes": [
+   {
+    "text": "透過生物資訊與人工智慧進行大數據分析與比對，進而協助醫師制定個別化的診療策略",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=6879&year=115&mtype=F",
+    "page": "PDF第59頁"
+   },
+   {
+    "text": "隨著互聯網、大數據分析與AI演算法的蓬勃發展",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=6879&year=115&mtype=F",
+    "page": "PDF第60頁"
+   }
+  ],
+  "ri_topics": "資料隱私；知情同意；資訊安全",
+  "ri_quote": {
+   "text": "為充分保障客戶及所有利害關係人之隱私權，建置完善之資訊安全管理機制",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=6879&year=115&mtype=F",
+   "page": "PDF第40頁"
+  }
+ },
+ "7595": {
+  "level": "已實施",
+  "basis": "代理販售Bioturing AI單細胞分析平台並引進AI分析工具（代理他廠產品）",
+  "quotes": [
+   {
+    "text": "AI 介入單細胞暨空間體學雲端分析平台與客製化抗體平台",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7595&year=115&mtype=F",
+    "page": "PDF第7頁"
+   },
+   {
+    "text": "團隊更引進生物資訊與 AI 分析工具，賦能應用端更全面的選擇",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7595&year=115&mtype=F",
+    "page": "PDF第8頁"
+   }
+  ],
+  "ri_topics": "利害關係人溝通",
+  "ri_quote": {
+   "text": "本公司設有發言人及代理發言人，作為利害關係人溝通管道",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7595&year=115&mtype=F",
+   "page": "PDF第28頁"
+  }
+ },
+ "7607": {
+  "level": "只是談論",
+  "basis": "AI Cells為產品名稱非AI；AI僅見於董事進修課程",
+  "quotes": [
+   {
+    "text": "續進修課程-AI 之應3公會用、法律與稽核",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7607&year=115&mtype=F",
+    "page": "PDF第26頁"
+   }
+  ],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "本公司對客戶隱私、行銷及標示均遵照相關法規及國際準則規定辦法",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7607&year=115&mtype=F",
+   "page": "PDF第30頁"
+  }
+ },
+ "7724": {
+  "level": "已實施",
+  "basis": "年報稱已導入人臉辨識、語音辨識與生成式AI並有AI智能服務",
+  "quotes": [
+   {
+    "text": "本公司已導入人臉辨識、語音辨識與生成式 AI等技術",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7724&year=115&mtype=F",
+    "page": "PDF第51頁"
+   },
+   {
+    "text": "諾亞克系統開發 AI 智能服務",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7724&year=115&mtype=F",
+    "page": "PDF第6頁"
+   }
+  ],
+  "ri_topics": "資料保護",
+  "ri_quote": {
+   "text": "亦強化業者管理端數據分析、應用以及資料保護的能力",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7724&year=115&mtype=F",
+   "page": "PDF第54頁"
+  }
+ },
+ "7726": {
+  "level": "只是談論",
+  "basis": "AI多為產業趨勢描述，公司僅稱設計開發深度學習等智慧醫療產品，未具體實施",
+  "quotes": [
+   {
+    "text": "設計開發多元之 IoT 整合，、深度學習技術、跨領域等智慧醫療產品",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7726&year=115&mtype=F",
+    "page": "PDF第57頁"
+   },
+   {
+    "text": "可做為未來有醫療 AI 需求的參考數據",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7726&year=115&mtype=F",
+    "page": "PDF第70頁"
+   }
+  ],
+  "ri_topics": "利害關係人溝通",
+  "ri_quote": {
+   "text": "本公司設有發言人以做為和利害關係人溝通的管道",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7726&year=115&mtype=F",
+   "page": "PDF第27頁"
+  }
+ },
+ "7729": {
+  "level": "規劃中",
+  "basis": "年報稱建立結合基因轉殖、AI的新藥開發平台，屬建置中",
+  "quotes": [
+   {
+    "text": "建立新穎新藥開發平台結合基因轉殖、AI 及 Highthroughput新藥開發",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7729&year=115&mtype=F",
+    "page": "PDF第87頁"
+   }
+  ],
+  "ri_topics": "個人資料；受試者",
+  "ri_quote": {
+   "text": "本公司依「個人資料保護管理作業」規範個人資料之蒐集、處理及利用",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7729&year=115&mtype=F",
+   "page": "PDF第51頁"
+  }
+ },
+ "7754": {
+  "level": "規劃中",
+  "basis": "年報稱將與AI公司合作、落實AI技術應用，尚屬計畫",
+  "quotes": [
+   {
+    "text": "與 AI 公司合作，篩選專屬之小分子優化平台，以縮短新藥早期開發的進程",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7754&year=114&mtype=F",
+    "page": "PDF第8頁"
+   },
+   {
+    "text": "安基將落實 AI 技術應用，尋找創新有潜力的機轉及適應症",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7754&year=114&mtype=F",
+    "page": "PDF第8頁"
+   }
+  ],
+  "ri_topics": "個人資料安全",
+  "ri_quote": {
+   "text": "個人資料安全之管理-同仁帳號、密碼與權限應善盡保管與使用責任",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7754&year=114&mtype=F",
+   "page": "PDF第95頁"
+  }
+ },
+ "7776": {
+  "level": "只是談論",
+  "basis": "AI僅為環狀肽技術的一般性描述，非公司自身應用",
+  "quotes": [
+   {
+    "text": "亦可用 AI 數據預測優化環狀構造",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7776&year=115&mtype=F",
+    "page": "PDF第53頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7784": {
+  "level": "已實施",
+  "basis": "藥物探索階段已利用AI技術篩選小分子（AI輔助研發）",
+  "quotes": [
+   {
+    "text": "ABT-202藥物探索階段利用人工智慧技術，篩選出合適的小分子藥物進而可望取得候選藥物",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7784&year=115&mtype=F",
+    "page": "PDF第5頁"
+   },
+   {
+    "text": "本公司透過結合 AI 技術與結構生物學藥物設計（SBDD），加速篩選具高結合力之 pan-KRAS 抑制劑",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7784&year=115&mtype=F",
+    "page": "PDF第58頁"
+   }
+  ],
+  "ri_topics": "個人資料；受試者保護",
+  "ri_quote": {
+   "text": "已依規向衛生福利部食藥署藥品組完成個人資料侵害事故通報",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7784&year=115&mtype=F",
+   "page": "PDF第66頁"
+  }
+ },
+ "7850": {
+  "level": "只是談論",
+  "basis": "AI僅見於董事進修課程",
+  "quotes": [
+   {
+    "text": "上市櫃董事進修課程-生成式 AI 的商業價值與數位風險洞察",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7850&year=115&mtype=F",
+    "page": "PDF第37頁"
+   }
+  ],
+  "ri_topics": "資料隱私",
+  "ri_quote": {
+   "text": "針對勞動權益、職場健康與安全、資訊隱私暨安全保護等面向進行政策推動與目標管理",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7850&year=115&mtype=F",
+   "page": "PDF第43頁"
+  }
+ },
+ "7851": {
+  "level": "已實施",
+  "basis": "AI飲食辨識、檢驗報告掃描等AI功能已上線並收費",
+  "quotes": [
+   {
+    "text": "AI 食物辨識功能已拓展至全球各市場；檢驗報告掃描與自動資料擷取功能亦於台灣與日本市場正式上線",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7851&year=115&mtype=F",
+    "page": "PDF第6頁"
+   },
+   {
+    "text": "C. AI 飲食辨識與分析：用戶只要上傳照片到智抗糖 App、，AI 就會自動辨識照片中飲食",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7851&year=115&mtype=F",
+    "page": "PDF第47頁"
+   }
+  ],
+  "ri_topics": "個人資料；資料保護",
+  "ri_quote": {
+   "text": "給予用戶個資安全最嚴格保障",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7851&year=115&mtype=F",
+   "page": "PDF第47頁"
+  }
+ },
+ "7860": {
+  "level": "只是談論",
+  "basis": "AI僅為製藥業趨勢描述，未說明公司自身應用",
+  "quotes": [
+   {
+    "text": "越來越多藥廠積極導入人工智慧（AI）技術，以強化製程開發與產線管理",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7860&year=115&mtype=F",
+    "page": "PDF第74頁"
+   }
+  ],
+  "ri_topics": "",
+  "ri_quote": null
+ },
+ "7876": {
+  "level": "只是談論",
+  "basis": "AI僅見於董事進修課程",
+  "quotes": [
+   {
+    "text": "數位科技與 AI 趨勢：企業經營的風險與機遇",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7876&year=115&mtype=F",
+    "page": "PDF第29頁"
+   }
+  ],
+  "ri_topics": "員工隱私；受試者保護",
+  "ri_quote": {
+   "text": "保護員工個人隱私等措施",
+   "src": "年報",
+   "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=7876&year=115&mtype=F",
+   "page": "PDF第33頁"
+  }
+ }
+}
