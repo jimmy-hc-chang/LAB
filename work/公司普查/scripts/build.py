@@ -5,6 +5,10 @@ from openpyxl.utils import get_column_letter
 B=sys.argv[1]; OUT=sys.argv[2]
 cs=json.load(open(B+'/companies.json')); h=json.load(open(B+'/hits.json')); picks=json.load(open(B+'/picks.json'))
 tried=json.load(open(B+'/tried.json')) if os.path.exists(B+'/tried.json') else {}
+BD={}
+for _f in sorted(glob.glob(B+'/bd_*.json')):
+    try: BD.update(json.load(open(_f)))
+    except Exception as _e: print('bad',_f,_e)
 cls={}
 OV=json.load(open(B+'/overrides.json')) if os.path.exists(B+'/overrides.json') else {}
 for f in sorted(glob.glob(B+'/cls_*.json')):
@@ -66,7 +70,7 @@ H=['股票代號','公司簡稱','公司名稱','市場別','細分類（櫃買�
    '引文1','引文1來源','引文1網址','引文1頁碼','引文2','引文2來源','引文2網址','引文2頁碼','引文3','引文3來源','引文3網址','引文3頁碼',
    '年報網址','年報網頁標示','年報PDF頁數','年報AI相關詞次數','年報每百頁次數',
    '永續報告書網址','永續報告書網頁標示','永續報告書PDF頁數','永續報告書AI相關詞次數','永續報告書每百頁次數',
-   '官網爬取頁數','官網AI段落數','負責任創新議題','負責任創新引文','負責任創新引文來源','負責任創新引文網址','負責任創新引文頁碼','櫃買中心「人工智慧」產業鏈收錄','備註']
+   '官網爬取頁數','官網AI段落數','負責任創新議題','負責任創新引文','負責任創新引文來源','負責任創新引文網址','負責任創新引文頁碼','櫃買中心「人工智慧」產業鏈收錄','備註','第二層來源類型','第二層來源證據原文','第二層來源網址','第二層來源說明']
 ws.append(H)
 def per100(n,p): return round(n*100/p,1) if (n is not None and p) else None
 for r in rows:
@@ -75,6 +79,8 @@ for r in rows:
     L+=[r['a_url'],r['a_lab'],r['a_pg'],r['a_n'],per100(r['a_n'],r['a_pg']),r['e_url'],r['e_lab'],r['e_pg'],r['e_n'],per100(r['e_n'],r['e_pg']),r['s_pages'],r['s_n'] if r['s_pages'] else None,r['ri_topics']]
     rq=r['ri_q']; L+= [rq['text'],rq.get('src',''),rq.get('url',''),rq.get('page','')] if rq else ['','','','']
     L+=[r['icai'],'AI 僅用於內部辦公或資安工具' if re.search(r'僅內部|內部辦公|內部資安|IT工具',r['basis']) else '']
+    bd=BD.get(r['code'])
+    L+=[bd.get('src_type',''),bd.get('evidence',''),bd.get('url',''),bd.get('note','')] if bd else ['','','','']
     ws.append(L)
 wn.append(['股票代號','公司簡稱','公司名稱','市場別','官網','試過的來源'])
 for c,src in nodata: wn.append([c['code'],c['abbr'],c['name'],c['market'],c['web'],src])
@@ -110,16 +116,17 @@ M=['1. 名單：證交所 OpenAPI t187ap03_L（上市公司基本資料）與櫃
  '5. AI 層級判定標準與訪談稿相同：已實施（公司自己使用、販售或部署 AI 產品或流程）、規劃中（具體計畫、試辦、研發中）、只是談論（願景、趨勢、投資 AI 公司、教育訓練）、無（文件中無與公司自身相關之 AI 內容）。智慧醫療、資訊系統、數位轉型、大數據本身不視為 AI。',
  '6. 引文：皆為 PDF 文字層或官網頁面之原文連續片段（PDF 換行已合併），每句經程式逐字比對證據文字；未通過比對的引文已刪除。頁碼為 PDF 檔案頁序（PDF第N頁），可能與印刷頁碼不同。',
  '7. 負責任創新欄：以永續報告書（無則年報）中病患參與、倫理、隱私／個資、資訊安全、受試者保護、IRB、利害關係人溝通等段落判定，附一句原文。',
+ '9. 第二層來源：對年報證據僅一句的「已實施／規劃中」公司，另查公司官網產品頁與新聞稿、食藥署醫療器材許可證、專利、法說會簡報；媒體新聞只當線索不當證據。結果列於「第二層來源」四欄，查無佐證者依此調整層級並於判定依據註明。',
  '8. 「無」＝有讀到文件或官網但未出現 AI 相關內容；「查無資料」＝未取得年報、永續報告書，且官網未出現 AI 強詞，試過的來源列於「查無資料」分頁。外部新聞媒體報導未作為證據；「官網」來源之引文包含公司官網自行發布的產品頁與新聞稿頁面。']
 for m in M: ws0.append([m])
 # formatting
 for w in (ws,wn):
     for cell in w[1]: cell.font=Font(bold=True); cell.fill=PatternFill('solid',fgColor='DDEBF7')
     w.freeze_panes='C2'
-widths={1:9,2:12,3:24,4:7,5:28,6:24,7:12,8:40,9:50,13:50,17:50,34:50}
+widths={1:9,2:12,3:24,4:7,5:28,6:24,7:12,8:40,9:50,13:50,17:50,34:50,41:50,43:40}
 for i in range(1,len(H)+1): ws.column_dimensions[get_column_letter(i)].width=widths.get(i,14)
 for row in ws.iter_rows(min_row=2):
-    for cell in row: cell.alignment=Alignment(wrap_text=cell.column in (8,9,13,17,34),vertical='top')
+    for cell in row: cell.alignment=Alignment(wrap_text=cell.column in (8,9,13,17,34,41,43),vertical='top')
 wn.column_dimensions['C'].width=28; wn.column_dimensions['E'].width=30; wn.column_dimensions['F'].width=100
 ws0.column_dimensions['A'].width=22; ws0.column_dimensions['D'].width=60
 ws0['A1'].font=Font(bold=True,size=14)
