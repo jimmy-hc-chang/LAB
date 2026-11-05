@@ -1,0 +1,17 @@
+{
+"1777":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無生泰AI製程報導，未開官網；僅年報一句"},
+"4104":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋與官網首頁皆無伊啵AI皮膚檢測；可能為第三方工具，無法證實"},
+"4128":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋與官網首頁無PMRS/AI內容，永續報告書未查；證據仍僅年報"},
+"4153":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無鈺緯AI資安資料，屬中期目標"},
+"4186":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"官網首頁僅有2026-04新聞標題『AI智慧轉型』，無AI判讀系統產品頁"},
+"4736":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋無泰博AI產品，官網503未能查；無實據"},
+"4771":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋無望隼資料，官網首頁無AI字樣，僅年報用語"},
+"6534":{"found":false,"src_type":"媒體新聞","evidence":"","url":"https://money.udn.com/money/story/5639/9306830","suggest":"維持","note":"媒體稱中興大學質譜AI中心2026-01揭牌、已建第一代AI模型；僅媒體線索，未查官網"},
+"6645":{"found":false,"src_type":"媒體新聞","evidence":"","url":"https://geneonline.news/kimforest-ai-multiomics-precision-medicine-platform-news-007-oct-2026/","suggest":"維持","note":"公司新聞稿轉載僅稱AI納入平台定位，無代謝體AI模型細節；官網無內容"},
+"6666":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無羅麗芬AI智慧工廠資料，仍為年報一句"},
+"6782":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無視陽AI檢測資料，未見上線證據"},
+"6885":{"found":true,"src_type":"官網產品頁","evidence":"BRM521已透過結合AI技術加速篩選出5個優化新胜肽","url":"https://www.brimbiotech.com/archives/product/brm521","suggest":"維持","note":"官網BRM521產品頁原文；屬研發階段AI篩選，非產品"},
+"7595":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋與官網皆無Bioturing代理佐證，且屬代理他廠產品"},
+"7799":{"found":false,"src_type":"媒體新聞","evidence":"","url":"https://udn.com/news/story/7241/9297205","suggest":"維持","note":"媒體稱與西門子簽MOU及Herizon導入AI影像演算法；官網僅GE合作新聞標題，未見實施"},
+"8279":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"官網無AI產品；VeriSee TFDA證屬宏碁智醫，生展僅疑似代理，未證實"}
+}

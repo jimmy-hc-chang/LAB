@@ -1,0 +1,17 @@
+{
+"1733":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無五鼎AI智慧製造資料；未開官網；年報規劃語句未獲佐證"},
+"3716":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無AI智能藥櫃上線資料；僅查一輪，未開官網"},
+"4126":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無太醫智慧製造AI相關資料；未開官網"},
+"4148":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無全宇AI導入資料；年報稱評估中，與規劃中一致"},
+"4175":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為規劃中","note":"搜尋僅見法說RFM/NES大數據分析未提AI；官網首頁無AI血糖計或AI會員字句"},
+"4735":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋無豪展AI資料；僅年報策略句，且為內部辦公用途"},
+"4747":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無強生化學AI自動化產線資料；年報稱規劃中"},
+"6518":{"found":true,"src_type":"官網新聞稿","evidence":"康科特攜手中英醫院導入神瑞AI 強化肺癌篩檢量能","url":"https://www.concordmed.com.tw/","suggest":"維持","note":"官網首頁新聞標題(2026.03.10，內文頁503未開)；TFDA證屬神瑞，康科特為整合方"},
+"6634":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無欣耀AI研發具體資料；未開官網"},
+"6665":{"found":true,"src_type":"官網新聞稿","evidence":"康聯生醫取得 Tempus 台灣代理權，以 AI 科技現代化癌症基因檢測","url":"https://www.healthconn.com","suggest":"維持","note":"官網首頁新聞預告句，屬代理他牌AI，非自研，無上線證據"},
+"6762":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為規劃中","note":"搜尋無達亞資料；官網首頁無AI或視覺檢驗字句"},
+"6864":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為規劃中","note":"官網首頁無AI藥物設計服務；僅媒體提2026/5與訊聯合作導入AI，屬合作規劃"},
+"7561":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為規劃中","note":"搜尋無資料；官網首頁無AI或關聯解碼引擎字句(未查產品子頁)"},
+"7784":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為規劃中","note":"搜尋無安邦AI+SBDD資料；官網英文首頁無AI字句(未查innovation頁)"},
+"7871":{"found":true,"src_type":"官網產品頁","evidence":"AI-assisted synthetic human antibody libraries combined with phage display enable high-throughput screening.","url":"https://elixiron.com","suggest":"維持","note":"官網平台頁自述，僅一句宣稱，無專利或成果佐證；是否升級需再查專利"}
+}

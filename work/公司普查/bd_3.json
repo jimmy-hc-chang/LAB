@@ -1,0 +1,17 @@
+{
+"1783":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋Deep Instinct未見和康生相關第二層來源；僅內部資安工具，本即邊界"},
+"4116":{"found":false,"src_type":"媒體新聞","evidence":"佳世達旗下明基三豐推出手術室整合系統新功能—AI手術報告，將手術室整合系統結合AI語音辨識模型與大型語言模型","url":"https://www.ctee.com.tw/news/20241206701570-430503","suggest":"維持","note":"僅工商時報展會報導(線索)，官網產品頁與TFDA未查證"},
+"4137":{"found":false,"src_type":"媒體新聞","evidence":"","url":"https://money.udn.com/money/amp/story/5607/9496905","suggest":"維持","note":"僅財經媒體轉述公司說法(花精部絡AI機器人已於核心門店推行)；官網未查"},
+"4157":{"found":false,"src_type":"媒體新聞","evidence":"","url":"https://www.drugtargetreview.com/ai-powered-ckd-drug-ism4808-licensed-for-kidney-disease-therapy/681486.article","suggest":"維持","note":"ISM4808為英矽智能AI設計、太景授權引進，媒體多篇一致；非自研AI"},
+"4195":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋僅見董事長談AI賦能定序解讀，無蛋白質體AI服務產品頁；官網未能開啟"},
+"4744":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋無果、官網首頁無AI字句，軟膠機產品頁文字未取得"},
+"5312":{"found":false,"src_type":"媒體新聞","evidence":"","url":"https://hao.cnyes.com/post/273220","suggest":"維持","note":"媒體稱門市代售Rokid等AI眼鏡(通路代售，非自研)；官網新聞稿未查證"},
+"6549":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋無任何景凱AI藥物設計來源"},
+"6659":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋無任何天明AI導入來源"},
+"6734":{"found":true,"src_type":"官網產品頁","evidence":"AI that reads your metabolic trends.","url":"https://www.ixensor.com/","suggest":"維持","note":"官網首頁明載AI代謝分析；TFDA證僅涵蓋硬體檢測非AI軟體"},
+"6848":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋無拉法生醫AI判讀相關來源"},
+"6936":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"降為只是談論","note":"搜尋無永鴻智慧AI產品來源，僅見精準用藥一般描述"},
+"7713":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"官網首頁僅列健康行動go，無AI字句；搜尋未見AI風險運算佐證"},
+"7827":{"found":false,"src_type":"媒體新聞","evidence":"","url":"https://geneonline.news/hanchorbio-fbdb-hcb101/","suggest":"維持","note":"官網首頁無AI字句；媒體稱HCB101結合AI結構建模，來自公司說法"},
+"8432":{"found":false,"src_type":"無","evidence":"","url":"","suggest":"維持","note":"搜尋僅見液態切片NGS產品，無AI或甲基化AI篩檢佐證；本即邊界"}
+}

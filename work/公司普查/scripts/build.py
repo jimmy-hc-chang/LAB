@@ -80,6 +80,10 @@ for r in rows:
     rq=r['ri_q']; L+= [rq['text'],rq.get('src',''),rq.get('url',''),rq.get('page','')] if rq else ['','','','']
     L+=[r['icai'],'AI 僅用於內部辦公或資安工具' if re.search(r'僅內部|內部辦公|內部資安|IT工具',r['basis']) else '']
     bd=BD.get(r['code'])
+    if bd and not bd.get('found') and r['level'] in ('已實施','規劃中'):
+        L[-1]=(L[-1]+'；' if L[-1] else '')+'第二層來源（官網、網路搜尋）未找到佐證，層級僅依年報單句'
+    elif bd and bd.get('found') and bd.get('src_type')=='媒體新聞' and r['level'] in ('已實施','規劃中'):
+        L[-1]=(L[-1]+'；' if L[-1] else '')+'第二層來源僅媒體新聞（線索，非證據）'
     L+=[bd.get('src_type',''),bd.get('evidence',''),bd.get('url',''),bd.get('note','')] if bd else ['','','','']
     ws.append(L)
 wn.append(['股票代號','公司簡稱','公司名稱','市場別','官網','試過的來源'])
@@ -107,6 +111,14 @@ ws0.append(['三、與 TEJ 初步數字對照'])
 ws0.append(['項目','TEJ 初步','本表','說明'])
 ws0.append(['生技醫療公司家數',201,len(lst),'本表＝證交所產業別代碼 22（上市）＋櫃買中心產業別代碼 22（上櫃）；興櫃另有 %d 家未計入'%sum(1 for r in rows if r['market']=='興櫃')])
 ws0.append(['有永續報告書家數',124,sum(1 for r in lst if r['e_pg']),'本表數字為「本次實際下載並讀到永續報告書」的上市櫃家數，非「有發行」家數'])
+ws0.append([])
+bdn=[r for r in rows if r['code'] in BD]
+ws0.append(['三之二、第二層來源查核（年報證據僅一句的已實施／規劃中公司）'])
+ws0.append(['查核家數',len(bdn)])
+ws0.append(['找到公司自身來源佐證（官網產品頁／新聞稿）',sum(1 for r in bdn if BD[r['code']].get('found') and BD[r['code']].get('src_type') not in ('媒體新聞','無'))])
+ws0.append(['僅媒體新聞線索',sum(1 for r in bdn if BD[r['code']].get('src_type')=='媒體新聞')])
+ws0.append(['官網首頁與搜尋均未找到',sum(1 for r in bdn if not BD[r['code']].get('found') and BD[r['code']].get('src_type')!='媒體新聞')])
+ws0.append(['說明','本輪每家僅做 1–4 次查詢（搜尋＋官網首頁），多家官網回 503；「未找到」不等於「沒有」，故層級維持年報判定並於備註標示，建議人工複核。'])
 ws0.append([])
 ws0.append(['四、方法說明'])
 M=['1. 名單：證交所 OpenAPI t187ap03_L（上市公司基本資料）與櫃買中心 OpenAPI mopsfin_t187ap03_O／_R（上櫃／興櫃公司基本資料），篩選產業別代碼 22（生技醫療業）。',
