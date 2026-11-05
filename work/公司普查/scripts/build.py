@@ -131,6 +131,28 @@ M=['1. 名單：證交所 OpenAPI t187ap03_L（上市公司基本資料）與櫃
  '9. 第二層來源：對年報證據僅一句的「已實施／規劃中」公司，另查公司官網產品頁與新聞稿、食藥署醫療器材許可證、專利、法說會簡報；媒體新聞只當線索不當證據。結果列於「第二層來源」四欄，查無佐證者依此調整層級並於判定依據註明。',
  '8. 「無」＝有讀到文件或官網但未出現 AI 相關內容；「查無資料」＝未取得年報、永續報告書，且官網未出現 AI 強詞，試過的來源列於「查無資料」分頁。外部新聞媒體報導未作為證據；「官網」來源之引文包含公司官網自行發布的產品頁與新聞稿頁面。']
 for m in M: ws0.append([m])
+# 對照表
+wc=wb.create_sheet('公司與訪談對照')
+wc.append(['一、層級分布對照（公司側＝上市＋上櫃 160 家；訪談側＝37 位受訪者，依 11/5 訪談稿判定）'])
+wc.append(['AI層級','公司側家數','公司側%','訪談側人數','訪談側%','說明'])
+iv={'已實施':20,'規劃中':3,'只是談論':10,'無':1,'查無資料':3}
+note={'已實施':'訪談側「已實施」含智慧照護／資訊系統，不一定是 AI；公司側已將「僅內部辦公或資安工具」另標於備註','只是談論':'創投、加速器投資 AI 新創在訪談側一律算此級；公司側投資 AI 公司亦同','查無資料':'訪談側＝逐字稿讀不到 3 位；公司側＝未取得文件或文字層亂碼'}
+lstd=[r for r in rows if r['market']!='興櫃']
+for l in ['已實施','規劃中','只是談論','無','查無資料']:
+    n=sum(1 for r in lstd if r['level']==l)
+    wc.append([l,n,round(n*100/len(lstd),1),iv[l],round(iv[l]*100/37,1),note.get(l,'')])
+wc.append(['合計',len(lstd),100,37,100,''])
+wc.append([])
+wc.append(['二、逐位受訪者對照（待填：訪談側 Excel 在另一帳號雲端，待桌機版合併）'])
+wc.append(['訪談編號','受訪者','單位','職稱','對應上市櫃代號','對應公司簡稱','訪談AI層級','訪談引文','公司AI層級','公司判定依據','一致／不一致','說明'])
+known=[('東生華','8432'),('藥華醫藥','6446'),('太景','4157'),('共信醫藥','6617'),('台灣神隆','1789'),('永昕生醫','4726'),('承鋆生醫',''),('工研院 TIBIC',''),('財團法人生物技術開發中心','')]
+byc={r['code']:r for r in rows}
+for org,code in known:
+    r=byc.get(code)
+    wc.append(['', '', org, '', code, r['abbr'] if r else '', '', '', r['level'] if r else '', r['basis'] if r else '', '', '' if r else '非上市櫃公司，無公司側對照'])
+wc.column_dimensions['A'].width=14; wc.column_dimensions['C'].width=28; wc.column_dimensions['F'].width=60; wc.column_dimensions['J'].width=50; wc.column_dimensions['L'].width=30
+for cell in wc[2]: cell.font=Font(bold=True); cell.fill=PatternFill('solid',fgColor='DDEBF7')
+for cell in wc[11]: cell.font=Font(bold=True); cell.fill=PatternFill('solid',fgColor='DDEBF7')
 # formatting
 for w in (ws,wn):
     for cell in w[1]: cell.font=Font(bold=True); cell.fill=PatternFill('solid',fgColor='DDEBF7')
