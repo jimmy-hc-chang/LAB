@@ -1,0 +1,90 @@
+{
+"pages": [
+{
+"url": "http://www.hiclearance.com.tw",
+"anchor": "home",
+"len": 4221
+},
+{
+"url": "http://www.hiclearance.com.tw/products_main.htm",
+"anchor": "Products產品介紹",
+"len": 8625
+},
+{
+"url": "http://www.hiclearance.com.tw/service.htm",
+"anchor": "Service客戶服務",
+"len": 4203
+},
+{
+"url": "http://www.hiclearance.com.tw/Financial.htm",
+"anchor": "Investor投資人專區",
+"len": 10925
+},
+{
+"url": "http://www.hiclearance.com.tw/en/products_main_en.htm",
+"anchor": "ENGLISH",
+"len": 9448
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b1_1.htm",
+"anchor": "血液透析",
+"len": 7723
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b4_1_1.htm",
+"anchor": "保健營養",
+"len": 6949
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b2_1.htm",
+"anchor": "牙科材料",
+"len": 9036
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b3_1.htm",
+"anchor": "介入性材料",
+"len": 10813
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b6_8.htm",
+"anchor": "呼吸睡眠產品",
+"len": 10265
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b7_1.htm",
+"anchor": "急救耗材/設備",
+"len": 9555
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b8_1.htm",
+"anchor": "氣道管理耗材",
+"len": 7528
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b10_1.htm",
+"anchor": "脊椎外科",
+"len": 5772
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b11_1.htm",
+"anchor": "整外材料",
+"len": 7895
+},
+{
+"url": "http://www.hiclearance.com.tw/products_b12_1.htm",
+"anchor": "傷口照護",
+"len": 8828
+},
+{
+"url": "http://www.hiclearance.com.tw/FinancialC.htm",
+"anchor": "董事會及股東會",
+"len": 13990
+},
+{
+"url": "http://www.hiclearance.com.tw/FinancialF.htm",
+"anchor": "投資人窗口",
+"len": 5017
+}
+],
+"pdfs": {}
+}

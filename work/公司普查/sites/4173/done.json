@@ -1,0 +1,50 @@
+{
+"pages": [
+{
+"url": "http://www.arich.com.tw",
+"anchor": "home",
+"len": 29316
+},
+{
+"url": "http://www.arich.com.tw/service.php",
+"anchor": "產品與服務",
+"len": 25636
+},
+{
+"url": "http://www.arich.com.tw/service/warehousing_GDP.php",
+"anchor": "倉儲物流服務",
+"len": 23010
+},
+{
+"url": "http://www.arich.com.tw/service/processing_GMP.php",
+"anchor": "醫藥加工服務",
+"len": 15830
+},
+{
+"url": "http://www.arich.com.tw/investors.php",
+"anchor": "投資人專區",
+"len": 20928
+},
+{
+"url": "http://www.arich.com.tw/service/marketing_products.php",
+"anchor": "主要產品",
+"len": 18264
+},
+{
+"url": "http://www.arich.com.tw/service/logistics_service.php",
+"anchor": "全方位服務",
+"len": 19149
+},
+{
+"url": "http://www.arich.com.tw/financialInformation.php",
+"anchor": "財務資訊",
+"len": 31772
+},
+{
+"url": "http://www.arich.com.tw/stockholder.php?type=0",
+"anchor": "股東專區",
+"len": 28712
+}
+],
+"pdfs": {}
+}

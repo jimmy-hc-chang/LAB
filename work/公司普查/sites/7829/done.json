@@ -1,0 +1,40 @@
+{
+"pages": [
+{
+"url": "https://dasherneuroscience.com",
+"anchor": "home",
+"len": 99906
+},
+{
+"url": "https://dasherneuroscience.com/services/ai-innovation/",
+"anchor": "AI-driven Innovation",
+"len": 98762
+},
+{
+"url": "https://dasherneuroscience.com/products/pipeline/",
+"anchor": "Pipeline",
+"len": 86560
+},
+{
+"url": "https://dasherneuroscience.com/page/esg/",
+"anchor": "ESG",
+"len": 113261
+},
+{
+"url": "https://dasherneuroscience.com/zh/ai-innovation/",
+"anchor": "繁體中文",
+"len": 96558
+},
+{
+"url": "https://dasherneuroscience.com/ja/ai%e9%a7%86%e5%8b%95%e3%81%ae%e3%82%a4%e3%83%8e%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/",
+"anchor": "日本語",
+"len": 99315
+},
+{
+"url": "https://dasherneuroscience.com/zh/page/esg/",
+"anchor": "繁體中文",
+"len": 111120
+}
+],
+"pdfs": {}
+}

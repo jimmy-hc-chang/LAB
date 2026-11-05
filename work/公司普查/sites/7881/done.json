@@ -1,0 +1,228 @@
+{
+"pages": [
+{
+"url": "https://www.eyecaretech.com.tw",
+"anchor": "home",
+"len": 63719
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/investor",
+"anchor": "投資人專區",
+"len": 57642
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/investor/id/5",
+"anchor": "財務資訊",
+"len": 57642
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/investor/id/4",
+"anchor": "股東專區",
+"len": 60022
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/investor/id/3",
+"anchor": "公司治理",
+"len": 64549
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/investor/id/2",
+"anchor": "永續發展",
+"len": 61306
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/investor/id/25",
+"anchor": "利害關係人專區",
+"len": 58133
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products",
+"anchor": "產品服務",
+"len": 54134
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-category2/category/1732248335001",
+"anchor": "人工水晶體",
+"len": 53860
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1792489320001",
+"anchor": "HOYA 非球面短延焦",
+"len": 75649
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1735622813001",
+"anchor": "HOYA 球面單焦點",
+"len": 74027
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248558001",
+"anchor": "HOYA 非球面單焦點",
+"len": 74099
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248579001",
+"anchor": "HOYA 非球面單焦點散光",
+"len": 74136
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248595001",
+"anchor": "HOYA 非球面三焦點",
+"len": 74219
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1763977388001",
+"anchor": "HOYA 非球面三焦點散光",
+"len": 74282
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248625001",
+"anchor": "VSY 非球面三焦點",
+"len": 74058
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1735631871001",
+"anchor": "VSY 人工玻璃體",
+"len": 74123
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1763977616001",
+"anchor": "AJL 人工玻璃體",
+"len": 74071
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1763977544001",
+"anchor": "AJL 囊袋張力環",
+"len": 74162
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-category2/category/1732248283001",
+"anchor": "家用眼壓計",
+"len": 50002
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732689516001",
+"anchor": "iCare Home2 家用眼壓計",
+"len": 78194
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-category2/category/1723184870001",
+"anchor": "檢查設備",
+"len": 52700
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1764055080001",
+"anchor": "GALILEI 光學測量儀",
+"len": 74125
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1723184920001",
+"anchor": "SL9900 裂隙燈",
+"len": 76150
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248696001",
+"anchor": "iTrace 驗光機",
+"len": 76164
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1723184908001",
+"anchor": "Antares 角膜地圖儀",
+"len": 76137
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1723184932001",
+"anchor": "Sirius+ 角膜斷層掃描儀",
+"len": 75554
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248732001",
+"anchor": "MS-39 前房光學斷層掃描儀",
+"len": 75815
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-category2/category/1591672806001",
+"anchor": "乾眼設備",
+"len": 51078
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1793333052001",
+"anchor": "IDRA 乾眼檢查儀",
+"len": 74162
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248797001",
+"anchor": "Tearlab 滲透壓檢測系統",
+"len": 74176
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1723184000001",
+"anchor": "E>Eye 光脈衝乾眼治療儀",
+"len": 76427
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-category2/category/1730883847001",
+"anchor": "屈光手術設備",
+"len": 51088
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1733127377001",
+"anchor": "Schwind 準分子雷射儀",
+"len": 74193
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248898001",
+"anchor": "Schwind 飛秒雷射手術儀",
+"len": 74183
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1732248866001",
+"anchor": "Z8 飛梭眼科雷射手術儀",
+"len": 74162
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-category2/category/1730883806001",
+"anchor": "白內障手術設備",
+"len": 50005
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/products-details/no/1740368803001",
+"anchor": "Z8 飛梭眼科雷射手術儀",
+"len": 74155
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/news-details/id/57",
+"anchor": "會員登錄",
+"len": 48408
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/news-details/id/65",
+"anchor": "了解更多",
+"len": 55123
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/news-details/id/64",
+"anchor": "了解更多",
+"len": 55368
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/news-details/id/63",
+"anchor": "了解更多",
+"len": 55535
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/news-details/id/62",
+"anchor": "了解更多",
+"len": 56292
+},
+{
+"url": "https://www.eyecaretech.com.tw/zh_TW/news-details/id/58",
+"anchor": "了解更多",
+"len": 57596
+}
+],
+"pdfs": {
+"https://www.eyecaretech.com.tw/web/upload/ckfinder/files/0625%20%E7%A7%91%E6%98%8E%E5%84%80%E5%99%A8%E5%B9%B4%E5%A0%B1(%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88).pdf": "",
+"https://www.eyecaretech.com.tw/web/upload/ckfinder/files/EC-OC-035%20%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E5%AF%A6%E5%8B%99%E5%AE%88%E5%89%87(1).pdf": ""
+}
+}

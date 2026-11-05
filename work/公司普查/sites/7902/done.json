@@ -1,0 +1,107 @@
+{
+"pages": [
+{
+"url": "http://www.uwell.com.tw/",
+"anchor": "home",
+"len": 52352
+},
+{
+"url": "http://www.uwell.com.tw/tech_tw_1.php",
+"anchor": "核心技術",
+"len": 45305
+},
+{
+"url": "http://www.uwell.com.tw/pipeline_tw_1.php",
+"anchor": "產品開發進度",
+"len": 39624
+},
+{
+"url": "http://www.uwell.com.tw/invest_tw_3.php",
+"anchor": "投資人專區",
+"len": 45158
+},
+{
+"url": "http://www.uwell.com.tw/shareholder_tw.php?id=7519",
+"anchor": "股東服務",
+"len": 53384
+},
+{
+"url": "http://www.uwell.com.tw/esg_tw.php",
+"anchor": "永續專區",
+"len": 51099
+},
+{
+"url": "http://www.uwell.com.tw/esg_tw.php?id=3",
+"anchor": "永續政策",
+"len": 51099
+},
+{
+"url": "http://www.uwell.com.tw/esg_tw.php?id=6",
+"anchor": "環境永續",
+"len": 44205
+},
+{
+"url": "http://www.uwell.com.tw/esg_tw.php?id=7",
+"anchor": "社會責任",
+"len": 44023
+},
+{
+"url": "http://www.uwell.com.tw/esg_tw.php?id=8",
+"anchor": "執行成效",
+"len": 68661
+},
+{
+"url": "http://www.uwell.com.tw/productinquiry_tw.php",
+"anchor": "詢問車",
+"len": 338
+},
+{
+"url": "http://www.uwell.com.tw/newsdetail_tw.php?id=7523",
+"anchor": "媒體報導 2026/07/06 宇越生醫榮獲新加坡IMAPAC 2026亞太細胞與基因治療卓越獎(2026 Asia-Pacific Cell & Gene T",
+"len": 43902
+},
+{
+"url": "http://www.uwell.com.tw/newsdetail_tw.php?id=7320",
+"anchor": "媒體報導 2026/03/23 宇越生醫加速CAR-T療法臨床布局",
+"len": 39967
+},
+{
+"url": "http://www.uwell.com.tw/recruit_tw_1.php",
+"anchor": "人才招募 我們公司提供各種職缺，包括技術職位和非技術職位",
+"len": 43856
+},
+{
+"url": "http://www.uwell.com.tw/shareholder_tw.php?id=5301",
+"anchor": "投資人專區 了解更多財務資訊",
+"len": 43392
+},
+{
+"url": "https://www.uwell.com.tw/esg_tw.php?id=6",
+"anchor": "查看更多 →",
+"len": 44205
+},
+{
+"url": "https://www.uwell.com.tw/esg_tw.php?id=7",
+"anchor": "查看更多 →",
+"len": 44023
+},
+{
+"url": "https://www.uwell.com.tw/esg_tw.php?id=8",
+"anchor": "ESG ACTIVITY 查看完整 活動紀實 →",
+"len": 68661
+},
+{
+"url": "https://www.uwell.com.tw/esg_tw.php",
+"anchor": "ESG專區",
+"len": 51099
+},
+{
+"url": "http://www.uwell.com.tw/newsdetail_tw.php?id=7322",
+"anchor": "Next",
+"len": 39357
+}
+],
+"pdfs": {
+"http://www.uwell.com.tw/_i/assets/upload/files/114%E5%B9%B4%E5%BA%A6%E5%B9%B4%E5%A0%B1(1).pdf": "2026 股東會年報 PDF"
+}
+}

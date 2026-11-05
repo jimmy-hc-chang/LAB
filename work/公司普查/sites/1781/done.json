@@ -1,0 +1,19 @@
+{
+"pages": [
+{
+"url": "http://www.healthandlife.com.tw",
+"anchor": "home",
+"len": 118803
+},
+{
+"url": "https://www.healthandlife.com.tw/esg_report/",
+"anchor": "ESG Report",
+"len": 112469
+}
+],
+"pdfs": {
+"https://www.healthandlife.com.tw/wp-content/uploads/2025/08/2024_ESG.pdf": ")",
+"https://www.healthandlife.com.tw/wp-content/uploads/2026/08/2025_合世ESG報告書英文.pdf": "Download",
+"https://www.healthandlife.com.tw/wp-content/uploads/2025/08/2024_ESG_EN.pdf": "Download"
+}
+}

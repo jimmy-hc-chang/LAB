@@ -1,0 +1,136 @@
+{
+"pages": [
+{
+"url": "http://www.syngen.com.tw",
+"anchor": "home",
+"len": 23361
+},
+{
+"url": "https://www.syngen.com.tw/./index.php?temp=rd1&lang=cht",
+"anchor": "研發技術",
+"len": 18513
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=rd1&lang=cht",
+"anchor": "核心技術",
+"len": 18513
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=rd2&lang=cht",
+"anchor": "產品技術",
+"len": 20985
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=rd4&lang=cht",
+"anchor": "研發設備",
+"len": 27979
+},
+{
+"url": "https://www.syngen.com.tw/./index.php?temp=service1&lang=cht",
+"anchor": "服務項目",
+"len": 37117
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=service2&lang=cht",
+"anchor": "產品開發服務",
+"len": 23101
+},
+{
+"url": "https://www.syngen.com.tw/./index.php?temp=investors&lang=cht",
+"anchor": "投資人專區",
+"len": 22436
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=61&index=1",
+"anchor": "財務資訊",
+"len": 22463
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=63&index=3",
+"anchor": "股東服務",
+"len": 21763
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=64&index=4",
+"anchor": "企業永續",
+"len": 21310
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=672&index=5",
+"anchor": "永續報告書",
+"len": 20869
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=38&index=1",
+"anchor": "發酵原料Functional Ingredients 先進深層發酵、萃取製程設備與專業研發及量產技術團隊。 Learn More",
+"len": 23415
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=51&index=2",
+"anchor": "成品製劑Dosage Forms 符合國際標準製藥級生產及研發。 Learn More",
+"len": 25622
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=246&index=3",
+"anchor": "粉劑及顆粒劑Powders & Granules 專業的研發團隊與完善的粉包生產線，多種粉體型態可依產品功能性作變化 Learn More",
+"len": 20799
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=247&index=4",
+"anchor": "液態包及機能性飲品 機能性保健飲品，獨家滅菌技術不需防腐劑 More Info",
+"len": 20167
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=service1&lang=cht",
+"anchor": "服務項目",
+"len": 37117
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=intro&lang=cht",
+"anchor": "札實的研發生產經驗 多年的豐富經驗，擁有獨特醱酵原料及特殊劑型，提供垂直整合一條龍服務。",
+"len": 21505
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=contact&lang=cht",
+"anchor": "專業化客製服務 針對客戶的需求，從配方設計到選料 、打樣、 試製、 生產，提供專屬量身訂做的OEM ODM產品服務。",
+"len": 22254
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=rd3&lang=cht",
+"anchor": "製藥級生產及研發 高規格的廠房通過 ISO 9001 及 ISO22000 驗證、原料藥通過 PIC/S GMP驗證 ，以藥品級生產的嚴謹態度進行生產及研發。",
+"len": 19420
+},
+{
+"url": "https://www.syngen.com.tw/index.php?temp=investors&lang=cht",
+"anchor": "投資人專區",
+"len": 22436
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=81&index=1",
+"anchor": "股東會資訊",
+"len": 21771
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=63",
+"anchor": "股東服務",
+"len": 21763
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=pageinfo&id=712&index=1",
+"anchor": "股東會錄影檔",
+"len": 18898
+},
+{
+"url": "https://www.syngen.com.tw/index.php?option=module&lang=cht&task=showlist&id=64",
+"anchor": "企業永續",
+"len": 21310
+}
+],
+"pdfs": {
+"https://www.syngen.com.tw/userfiles/ESG/生展生物科技股份有限公司2025年永續報告書_CH.pdf": "",
+"https://www.syngen.com.tw/userfiles/生展生物科技2025%20ESG報告書-EN_compressed.pdf": "",
+"https://www.syngen.com.tw/userfiles/ESG/生展生物科技_2024永續報告書.pdf": "",
+"https://www.syngen.com.tw/userfiles/ESG/2024 生展生物科技股份有限公司_永續報告書-EN_compressed.pdf": "",
+"https://www.syngen.com.tw/userfiles/ESG/113.0828_CCD_生展生物科技股份有限公司_永續報告書-已壓縮.pdf": ""
+}
+}

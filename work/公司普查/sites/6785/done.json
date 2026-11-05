@@ -1,0 +1,64 @@
+{
+"pages": [
+{
+"url": "http://www.alarpharm.com",
+"anchor": "home",
+"len": 139194
+},
+{
+"url": "https://alarpharm.com/service/",
+"anchor": "R&D",
+"len": 117659
+},
+{
+"url": "https://alarpharm.com/investors/",
+"anchor": "Investors",
+"len": 117775
+},
+{
+"url": "https://alarpharm.com/investors/stockinfo/",
+"anchor": "Investor Profile",
+"len": 136517
+},
+{
+"url": "https://alarpharm.com/investors/financials/",
+"anchor": "Financials",
+"len": 141214
+},
+{
+"url": "https://alarpharm.com/2026-09-17-alar-pharmaceuticals-inc-receives-notice-of-allowance-for-the-patent%e3%80%8cnaltrexone-injectable-sustained-release-formulation%e3%80%8din-malaysia/",
+"anchor": "Read More",
+"len": 127786
+},
+{
+"url": "https://alarpharm.com/service/focus-area/",
+"anchor": "Product Pipeline",
+"len": 137569
+},
+{
+"url": "https://alarpharm.com/zh/%e6%8a%95%e8%b3%87%e4%ba%ba%e5%b0%88%e5%8d%80/",
+"anchor": "繁體中文",
+"len": 126536
+},
+{
+"url": "https://alarpharm.com/zh/%e6%8a%95%e8%b3%87%e4%ba%ba%e5%b0%88%e5%8d%80/%e8%82%a1%e6%9d%b1%e5%b0%88%e5%8d%80/",
+"anchor": "繁體中文",
+"len": 155450
+},
+{
+"url": "https://alarpharm.com/zh/%e6%8a%95%e8%b3%87%e4%ba%ba%e5%b0%88%e5%8d%80/%e8%b2%a1%e5%8b%99%e8%b3%87%e8%a8%8a/",
+"anchor": "繁體中文",
+"len": 151232
+},
+{
+"url": "https://alarpharm.com/2024-10-01-ala-3000-has-received-notice-of-allowance-from-taiwan-intellectual-property-office-tipo-patent-application-no-109145042/",
+"anchor": "2024/10/01 ALA-3000 has received notice of allowance from Taiwan Intellectual Pr",
+"len": 127550
+}
+],
+"pdfs": {
+"https://alarpharm.com/wp-content/uploads/115%E5%B9%B4%E8%82%A1%E6%9D%B1%E6%9C%83%E9%96%8B%E6%9C%83%E9%80%9A%E7%9F%A5%E8%8B%B1.pdf": "Notice of 2026 Annual Shareholders’ Meeting",
+"https://alarpharm.com/wp-content/uploads/115%E5%B9%B4%E8%82%A1%E6%9D%B1%E5%B8%B8%E6%9C%83%E8%AD%B0%E4%BA%8B%E6%89%8B%E5%86%8A-%E8%8B%B1.pdf": "Annual Shareholders Meeting Handbook",
+"https://alarpharm.com/wp-content/uploads/114%E5%B9%B4%E5%A0%B1%E8%8B%B1-1.pdf": "Annual Repot"
+}
+}

@@ -1,0 +1,65 @@
+{
+"pages": [
+{
+"url": "http://www.gialens.com.tw",
+"anchor": "home",
+"len": 23996
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=CSR",
+"anchor": "",
+"len": 134502
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=PROD&menu=0",
+"anchor": "公司產品",
+"len": 14643
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=CSR&menu=INFO03",
+"anchor": "公司治理",
+"len": 134502
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=CSR&menu=INFO07",
+"anchor": "風險管理",
+"len": 13464
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=CSR&menu=CSR02",
+"anchor": "利害關係人專區",
+"len": 10539
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=CSR&menu=CSR03",
+"anchor": "永續報告",
+"len": 10149
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=INFO&menu=INFO04",
+"anchor": "投資人關係/內部稽核",
+"len": 13425
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=INFO&menu=INFO02",
+"anchor": "下載財務年報",
+"len": 26865
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=PROD&menu=16",
+"anchor": "鍍膜技術與特性",
+"len": 15810
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=PROD&Menu=29",
+"anchor": "產品說明",
+"len": 15276
+},
+{
+"url": "http://www.gialens.com.tw/index.asp?area=PROD&Menu=40",
+"anchor": "產品特色及規格",
+"len": 15731
+}
+],
+"pdfs": {}
+}

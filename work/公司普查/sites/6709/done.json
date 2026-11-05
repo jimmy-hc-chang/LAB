@@ -1,0 +1,32 @@
+{
+"pages": [
+{
+"url": "http://www.advagene.com.tw",
+"anchor": "home",
+"len": 41870
+},
+{
+"url": "http://www.advagene.com.tw/investors",
+"anchor": "投資人專區",
+"len": 23309
+},
+{
+"url": "http://www.advagene.com.tw/rd-pipeline",
+"anchor": "探索研發進度",
+"len": 35800
+},
+{
+"url": "http://www.advagene.com.tw/financial-reports",
+"anchor": "歷年財務報告",
+"len": 29785
+},
+{
+"url": "http://www.advagene.com.tw/investor-presentations",
+"anchor": "歷年資訊",
+"len": 24280
+}
+],
+"pdfs": {
+"https://cdn.prod.website-files.com/6964bf97ac8ccf5c6cd0cfda/6a38f56ca228486a7cca225e_114%E5%B9%B4%E5%BA%A6%E6%98%B1%E5%8E%9A%E5%B9%B4%E5%A0%B1.pdf": ""
+}
+}

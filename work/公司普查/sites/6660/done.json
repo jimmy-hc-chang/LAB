@@ -1,0 +1,220 @@
+{
+"pages": [
+{
+"url": "http://www.hmdbio.com",
+"anchor": "home",
+"len": 45621
+},
+{
+"url": "http://www.hmdbio.com/products",
+"anchor": "產品與技術",
+"len": 23743
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines",
+"anchor": "糖尿病照護",
+"len": 30886
+},
+{
+"url": "http://www.hmdbio.com/products/services",
+"anchor": "客製與技轉",
+"len": 48243
+},
+{
+"url": "http://www.hmdbio.com/products/patents",
+"anchor": "核心技術",
+"len": 160121
+},
+{
+"url": "http://www.hmdbio.com/investor",
+"anchor": "投資人關係",
+"len": 24979
+},
+{
+"url": "http://www.hmdbio.com/investor/announcements",
+"anchor": "重大訊息",
+"len": 28113
+},
+{
+"url": "http://www.hmdbio.com/investor/governance",
+"anchor": "治理文件",
+"len": 28891
+},
+{
+"url": "http://www.hmdbio.com/investor/financials",
+"anchor": "財務資訊",
+"len": 28871
+},
+{
+"url": "http://www.hmdbio.com/investor/shareholders",
+"anchor": "股東專欄",
+"len": 30024
+},
+{
+"url": "http://www.hmdbio.com/investor/shareholder-services",
+"anchor": "股務窗口",
+"len": 30753
+},
+{
+"url": "http://www.hmdbio.com/investor/investor-conference",
+"anchor": "法說會",
+"len": 26936
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/blood-glucose-monitoring-systems",
+"anchor": "血糖監測系統 採用電化學生物感測原理與一體化電路設計，有效降低環境溫度與血比容（HCT）干擾，為居家與機構提供高精度數據。",
+"len": 28227
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/blood-glucose-test-strips",
+"anchor": "血糖試片 厚美德核心耗材，結合穩定生化酵素與印刷碳電極（CPE）結構，具備極高批次一致性。提供 OBM / ODM 代工與專屬 ONE CODE 免調校技術。",
+"len": 28336
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/diabetic-supplies-accessories",
+"anchor": "糖尿病照護耗材 整合優質供應鏈，提供採血筆、採血針與安全採血針。 主打三面精研針尖與微痛減痛設計，讓每日量測更輕鬆、更容易持之以恆。",
+"len": 29355
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/foot-wellness",
+"anchor": "足部健康照護 機能型護理延伸系列。防護襪於紗線階段複合導入銅離子，具備實驗室證實的持久抗菌防黴效能，提供無痕舒適的全日體驗。",
+"len": 26790
+},
+{
+"url": "http://www.hmdbio.com/news/hmd-2026-Medicare%20PDAC-6660-",
+"anchor": "最新消息 2026/10/14 厚美德核心產品通過美國 Medicare PDAC 給付編碼核可，全面升級北美市場佈局",
+"len": 24700
+},
+{
+"url": "http://www.hmdbio.com/news/hmd-first-mdsap-certified-taiwan",
+"anchor": "最新消息 2017/03/09 引領台灣醫療器材產業，成為首家 MDSAP 認證企業 厚美德通過 TÜV SÜD 稽核，取得台灣首張 MDSAP 證書，引領產業",
+"len": 24569
+},
+{
+"url": "http://www.hmdbio.com/terms",
+"anchor": "服務條款",
+"len": 23663
+},
+{
+"url": "http://www.hmdbio.com/en/products",
+"anchor": "EN",
+"len": 25106
+},
+{
+"url": "http://www.hmdbio.com/en/products/product-lines",
+"anchor": "EN",
+"len": 33386
+},
+{
+"url": "http://www.hmdbio.com/en/products/services",
+"anchor": "EN",
+"len": 54163
+},
+{
+"url": "http://www.hmdbio.com/en/products/patents",
+"anchor": "EN",
+"len": 162571
+},
+{
+"url": "http://www.hmdbio.com/en/investor",
+"anchor": "EN",
+"len": 26274
+},
+{
+"url": "http://www.hmdbio.com/en/investor/announcements",
+"anchor": "EN",
+"len": 29571
+},
+{
+"url": "http://www.hmdbio.com/en/investor/governance",
+"anchor": "EN",
+"len": 31437
+},
+{
+"url": "http://www.hmdbio.com/en/investor/financials",
+"anchor": "EN",
+"len": 30496
+},
+{
+"url": "http://www.hmdbio.com/en/investor/shareholders",
+"anchor": "EN",
+"len": 31906
+},
+{
+"url": "http://www.hmdbio.com/en/investor/shareholder-services",
+"anchor": "EN",
+"len": 32531
+},
+{
+"url": "http://www.hmdbio.com/en/investor/investor-conference",
+"anchor": "EN",
+"len": 28469
+},
+{
+"url": "http://www.hmdbio.com/en/products/product-lines/blood-glucose-monitoring-systems",
+"anchor": "EN",
+"len": 30912
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/blood-glucose-monitoring-systems/41",
+"anchor": "血糖監測系統 測利得 Enhance 血糖系統",
+"len": 34117
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/blood-glucose-monitoring-systems/42",
+"anchor": "血糖監測系統 測利得 GV01 血糖系統",
+"len": 34293
+},
+{
+"url": "http://www.hmdbio.com/en/products/product-lines/blood-glucose-test-strips",
+"anchor": "EN",
+"len": 30938
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/blood-glucose-test-strips/43",
+"anchor": "血糖試片 測利得 Enhance 血糖試片",
+"len": 32638
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/blood-glucose-test-strips/44",
+"anchor": "血糖試片 測利得 GV01 血糖試片",
+"len": 32678
+},
+{
+"url": "http://www.hmdbio.com/en/products/product-lines/diabetic-supplies-accessories",
+"anchor": "EN",
+"len": 32128
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/diabetic-supplies-accessories/45",
+"anchor": "糖尿病照護耗材 測利得採血筆",
+"len": 32815
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/diabetic-supplies-accessories/46",
+"anchor": "糖尿病照護耗材 測利得採血針",
+"len": 32017
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/diabetic-supplies-accessories/47",
+"anchor": "糖尿病照護耗材 測利得安全採血針",
+"len": 31220
+},
+{
+"url": "http://www.hmdbio.com/en/products/product-lines/foot-wellness",
+"anchor": "EN",
+"len": 29200
+},
+{
+"url": "http://www.hmdbio.com/products/product-lines/foot-wellness/48",
+"anchor": "足部健康照護 GL 好生活-同生活醫用輔助襪",
+"len": 32129
+},
+{
+"url": "http://www.hmdbio.com/en/news/hmd-first-mdsap-certified-taiwan",
+"anchor": "EN",
+"len": 27008
+}
+],
+"pdfs": {}
+}

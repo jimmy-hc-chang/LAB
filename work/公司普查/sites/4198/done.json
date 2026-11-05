@@ -1,0 +1,76 @@
+{
+"pages": [
+{
+"url": "http://www.swissray.com",
+"anchor": "home",
+"len": 60803
+},
+{
+"url": "http://www.swissray.com/investors/stock-dividend-info",
+"anchor": "股價股利資訊",
+"len": 56226
+},
+{
+"url": "http://www.swissray.com/investors/shareholder-meetings",
+"anchor": "股東會訊息",
+"len": 111210
+},
+{
+"url": "http://www.swissray.com/investors/financial-reports",
+"anchor": "財報資訊",
+"len": 92018
+},
+{
+"url": "http://www.swissray.com/investors/major-announcements",
+"anchor": "重大訊息",
+"len": 61068
+},
+{
+"url": "http://www.swissray.com/investors/stakeholder-contacts",
+"anchor": "利害關係人聯絡資訊",
+"len": 64621
+},
+{
+"url": "http://www.swissray.com/investors/investor-conferences",
+"anchor": "法人說明會",
+"len": 85619
+},
+{
+"url": "http://www.swissray.com/investors/stock-transfer-agent",
+"anchor": "股務代理機構",
+"len": 55818
+},
+{
+"url": "http://www.swissray.com/investors/major-shareholders",
+"anchor": "主要股東名單",
+"len": 58137
+},
+{
+"url": "http://www.swissray.com/esg-sustainability/sustainability-philosophy",
+"anchor": "永續發展理念",
+"len": 60713
+},
+{
+"url": "http://www.swissray.com/esg-sustainability/esg-operations",
+"anchor": "ESG 運作情形",
+"len": 58775
+},
+{
+"url": "http://www.swissray.com/esg-sustainability/inclusive-workplace",
+"anchor": "友善職場",
+"len": 69183
+},
+{
+"url": "http://www.swissray.com/esg-sustainability/sustainability-reports",
+"anchor": "永續報告書",
+"len": 56825
+}
+],
+"pdfs": {
+"https://swissray-s3.s3.ap-southeast-1.amazonaws.com/pdfUpload/1769393615016-99k4174m1av.pdf": "2024年度股東會年報",
+"https://swissray-s3.s3.ap-southeast-1.amazonaws.com/pdfUpload/1769393360721-kepe12m7nh.pdf": "2022年度股東會年報",
+"https://swissray-s3.s3.ap-southeast-1.amazonaws.com/pdfUpload/1769393224662-sngu1vtnh6.pdf": "2021年度股東會年報",
+"https://swissray-s3.s3.ap-southeast-1.amazonaws.com/pdfUpload/1769393035011-nhfyrhucjsl.pdf": "2020年度股東會年報",
+"https://swissray-s3.s3.ap-southeast-1.amazonaws.com/pdfUpload/1769392983459-tz3xpiaoxoi.pdf": "2019年度股東會年報"
+}
+}

@@ -1,0 +1,163 @@
+{
+"pages": [
+{
+"url": "http://www.viscovision.com.tw",
+"anchor": "home",
+"len": 24879
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_company.html",
+"anchor": "公司治理",
+"len": 15726
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_finance.html",
+"anchor": "財務資訊",
+"len": 15408
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_stock.html",
+"anchor": "股務資訊",
+"len": 15893
+},
+{
+"url": "http://www.viscovision.com.tw/tw/csr_principles.html",
+"anchor": "社會責任",
+"len": 26917
+},
+{
+"url": "http://www.viscovision.com.tw/tw/csr_employee.html",
+"anchor": "利害關係人",
+"len": 19990
+},
+{
+"url": "http://www.viscovision.com.tw/tw/csr_risk.html",
+"anchor": "風險管理",
+"len": 26169
+},
+{
+"url": "http://www.viscovision.com.tw/tw/csr_green.html",
+"anchor": "綠色營運",
+"len": 22435
+},
+{
+"url": "http://www.viscovision.com.tw/tw/csr_report.html",
+"anchor": "永續報告書",
+"len": 17873
+},
+{
+"url": "http://www.viscovision.com.tw/tw/products_list.html",
+"anchor": "更多產品介紹",
+"len": 61348
+},
+{
+"url": "http://www.viscovision.com.tw/tw/rnd.html",
+"anchor": "更多技術能力",
+"len": 16608
+},
+{
+"url": "http://www.viscovision.com.tw/en/investors_company.html",
+"anchor": "ENGLISH",
+"len": 14930
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_company_rule.html",
+"anchor": "",
+"len": 25524
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_company_layer.html",
+"anchor": "",
+"len": 14203
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_company_board.html",
+"anchor": "",
+"len": 56366
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_shareholders.html",
+"anchor": "",
+"len": 21316
+},
+{
+"url": "http://www.viscovision.com.tw/en/investors_finance.html",
+"anchor": "ENGLISH",
+"len": 15291
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_revenue.html",
+"anchor": "",
+"len": 25562
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_report.html",
+"anchor": "",
+"len": 23814
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_info.html",
+"anchor": "",
+"len": 68942
+},
+{
+"url": "http://www.viscovision.com.tw/en/investors_stock.html",
+"anchor": "ENGLISH",
+"len": 15749
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_data.html",
+"anchor": "",
+"len": 26623
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_corporate.html",
+"anchor": "",
+"len": 29552
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_dividend.html",
+"anchor": "",
+"len": 22072
+},
+{
+"url": "http://www.viscovision.com.tw/tw/investors_changes.html",
+"anchor": "",
+"len": 51740
+},
+{
+"url": "http://www.viscovision.com.tw/en/csr_principles.html",
+"anchor": "ENGLISH",
+"len": 31929
+},
+{
+"url": "http://www.viscovision.com.tw/en/csr_employee.html",
+"anchor": "ENGLISH",
+"len": 20756
+},
+{
+"url": "http://www.viscovision.com.tw/en/csr_risk.html",
+"anchor": "ENGLISH",
+"len": 24855
+},
+{
+"url": "http://www.viscovision.com.tw/en/csr_green.html",
+"anchor": "ENGLISH",
+"len": 28030
+},
+{
+"url": "http://www.viscovision.com.tw/en/products_list.html",
+"anchor": "ENGLISH",
+"len": 68449
+},
+{
+"url": "http://www.viscovision.com.tw/tw/products_cer.html",
+"anchor": "產品證照",
+"len": 13885
+}
+],
+"pdfs": {
+"http://www.viscovision.com.tw/pdf/csr/2025_csr_report.pdf": "2025永續報告書",
+"http://www.viscovision.com.tw/pdf/csr/2024_csr_report.pdf": "2024永續報告書"
+}
+}

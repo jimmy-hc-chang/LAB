@@ -1,0 +1,34 @@
+{
+"pages": [
+{
+"url": "http://www.fcbiotech.com.tw",
+"anchor": "home",
+"len": 93011
+},
+{
+"url": "https://www.fcbiotech.com.tw/our-service/",
+"anchor": "檢測服務",
+"len": 69343
+},
+{
+"url": "https://www.fcbiotech.com.tw/investor-relations/",
+"anchor": "投資人專區",
+"len": 1274263
+},
+{
+"url": "https://www.fcbiotech.com.tw/shareholder/",
+"anchor": "股東專區",
+"len": 70976
+},
+{
+"url": "https://www.fcbiotech.com.tw/financial-information/",
+"anchor": "財務資訊",
+"len": 66678
+}
+],
+"pdfs": {
+"https://www.fcbiotech.com.tw/wp-content/uploads/2024/06/附檔一年報113.pdf": "下載",
+"https://www.fcbiotech.com.tw/wp-content/uploads/2025/07/附檔一年報114.pdf": "下載",
+"https://www.fcbiotech.com.tw/wp-content/uploads/2026/09/附檔一年報115.pdf": "下載"
+}
+}

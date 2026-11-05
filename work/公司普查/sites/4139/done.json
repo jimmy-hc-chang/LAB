@@ -1,0 +1,40 @@
+{
+"pages": [
+{
+"url": "https://mk-healthcare.com/",
+"anchor": "home",
+"len": 47793
+},
+{
+"url": "https://mk-healthcare.com/finance",
+"anchor": "財務專區",
+"len": 42060
+},
+{
+"url": "https://mk-healthcare.com/shareholder",
+"anchor": "股東專區",
+"len": 39846
+},
+{
+"url": "https://mk-healthcare.com/contacts",
+"anchor": "投資人服務",
+"len": 42428
+},
+{
+"url": "https://mk-healthcare.com/sustainability",
+"anchor": "企業永續",
+"len": 33897
+},
+{
+"url": "https://mk-healthcare.com/sustainabilitydownload",
+"anchor": "永續報告書",
+"len": 33214
+}
+],
+"pdfs": {
+"https://mk-healthcare.com/storage/Sustainability/20260127/a66DZvWcjK2NuoEsKEbwPRmb6Bp5cA4ErPsEoEcP.pdf": "永續發展推動情形",
+"https://mk-healthcare.com/storage/Sustainability/20260127/YujmpeWizfS2veaLHx3ui3zei6L9JQ1CxpJet2vI.pdf": "永續發展策略",
+"https://mk-healthcare.com/storage/SustainabilityDownload/20260828/WW5tKjnojfDlgEGOEVDTcdkDmjGAvS5UfGIxIrNd.pdf": "2025年度",
+"https://mk-healthcare.com/storage/SustainabilityDownload/20260127/bpL7buzOKtCMex2TzGFDrzs1Y9kkPs48jdq9g68w.pdf": "2024年度"
+}
+}

@@ -1,0 +1,75 @@
+{
+"pages": [
+{
+"url": "https://www.tci-gene.com/",
+"anchor": "home",
+"len": 307003
+},
+{
+"url": "https://www.tci-gene.com/collections/all-products",
+"anchor": "所有商品",
+"len": 265861
+},
+{
+"url": "https://www.tci-gene.com/pages/clinical-research-organization",
+"anchor": "產品功效驗證服務",
+"len": 320662
+},
+{
+"url": "https://www.tci-gene.com/pages/esg",
+"anchor": "企業永續ESG",
+"len": 236869
+},
+{
+"url": "https://www.tci-gene.com/pages/shareholder-info-20250118232854",
+"anchor": "投資人關係",
+"len": 233955
+},
+{
+"url": "https://www.tci-gene.com/pages/financial-information",
+"anchor": "財務資料",
+"len": 234113
+},
+{
+"url": "https://www.tci-gene.com/products/microbiome-test",
+"anchor": "",
+"len": 341622
+},
+{
+"url": "https://www.tci-gene.com/zh-TW/products/microbiome-test",
+"anchor": "胖瘦腸道菌相檢測",
+"len": 341622
+},
+{
+"url": "https://www.tci-gene.com/products/salesPage.path",
+"anchor": "${ salesPage.title }",
+"len": 174953
+},
+{
+"url": "https://www.tci-gene.com/products/discount.url",
+"anchor": "${ discount.title }",
+"len": 174953
+},
+{
+"url": "https://www.tci-gene.com/zh-TW/products/ad",
+"anchor": "",
+"len": 342285
+},
+{
+"url": "https://www.tci-gene.com/zh-TW/products/tcigenehealth",
+"anchor": "",
+"len": 341901
+},
+{
+"url": "https://www.tci-gene.com/zh-TW/products/4microbiome-test",
+"anchor": "",
+"len": 343902
+},
+{
+"url": "https://www.tci-gene.com/products/block.settings.dict_link",
+"anchor": "",
+"len": 174953
+}
+],
+"pdfs": {}
+}

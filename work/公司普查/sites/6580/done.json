@@ -1,0 +1,50 @@
+{
+"pages": [
+{
+"url": "https://www.trx.com.tw/",
+"anchor": "home",
+"len": 123597
+},
+{
+"url": "https://www.trx.com.tw/index.php/medicine/",
+"anchor": "新藥研發",
+"len": 147399
+},
+{
+"url": "https://www.trx.com.tw/index.php/product",
+"anchor": "上市產品",
+"len": 127837
+},
+{
+"url": "https://www.trx.com.tw/index.php/investor/",
+"anchor": "投資人專區",
+"len": 110245
+},
+{
+"url": "https://www.trx.com.tw/2025-11-27/",
+"anchor": "本公司抗癌口服研發中新藥 CVM-1118用於治療中期肝癌，獲中國國家藥品監督管理局核准執行第二期臨床試驗。",
+"len": 105018
+},
+{
+"url": "https://www.trx.com.tw/en/product/",
+"anchor": "English",
+"len": 134660
+},
+{
+"url": "https://www.trx.com.tw/en/investor/",
+"anchor": "English",
+"len": 110800
+},
+{
+"url": "https://www.trx.com.tw/index.php/investor/directors/",
+"anchor": "董事會",
+"len": 133083
+},
+{
+"url": "https://www.trx.com.tw/index.php/investor/governance/",
+"anchor": "公司治理",
+"len": 141613
+}
+],
+"pdfs": {}
+}

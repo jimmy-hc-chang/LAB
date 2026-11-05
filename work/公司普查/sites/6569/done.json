@@ -1,0 +1,210 @@
+{
+"pages": [
+{
+"url": "http://www.onyx-healthcare.com/",
+"anchor": "home",
+"len": 118956
+},
+{
+"url": "https://www.onyx-healthcare.com/en/product/medical-ai/ACCEL-A3210",
+"anchor": "",
+"len": 104885
+},
+{
+"url": "https://www.onyx-healthcare.com/en-US/product/medical-panel-pc/Venus-224P",
+"anchor": "",
+"len": 104897
+},
+{
+"url": "https://www.onyx-healthcare.com/en-US/product/medical-tablet/MD102N",
+"anchor": "",
+"len": 101478
+},
+{
+"url": "https://www.onyx-healthcare.com/en/product/medical-ai/ACCEL-A2203",
+"anchor": "",
+"len": 107108
+},
+{
+"url": "https://www.onyx-healthcare.com/en-US/product/medical-panel-pc/MATE2-2215",
+"anchor": "",
+"len": 100619
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/ACCEL_JS1500",
+"anchor": "ACCEL-JS1500NVIDIA® Jetson T5000™ platform for Medical AI imaging application",
+"len": 100469
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/MD102N",
+"anchor": "MD102N",
+"len": 101533
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/Venus-244P",
+"anchor": "Venus-244P",
+"len": 111031
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/ACCEL-A3210",
+"anchor": "ACCEL-A3210",
+"len": 104885
+},
+{
+"url": "http://www.onyx-healthcare.com/en/news/Intel_Onyx",
+"anchor": "March 27, 2026Onyx and Intel Advance Medical AI from Edge Computing to Clinical ",
+"len": 96674
+},
+{
+"url": "http://www.onyx-healthcare.com/en/news/ACCEL-3210-2710",
+"anchor": "January 07, 2026【4K Medical AIO for Modern OR & Imaging】ACCEL-A3210 / A2710 Medi",
+"len": 97862
+},
+{
+"url": "http://www.onyx-healthcare.com/en/news/ACCEL-A2203",
+"anchor": "November 05, 2025【Smarter Medical Infrastructure】ACCEL-A2203 Medical AI All-in-O",
+"len": 94953
+},
+{
+"url": "http://www.onyx-healthcare.com/en/news/Venus-plus-eNews",
+"anchor": "October 14, 2025Intel Arrow Lake Medical AI Platform｜Venus-224 / 244 Plus Redefi",
+"len": 94576
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/all",
+"anchor": "Products & Services",
+"len": 252592
+},
+{
+"url": "http://www.onyx-healthcare.com/en/company/profile_onyxmedicalAIexpert",
+"anchor": "About",
+"len": 128685
+},
+{
+"url": "https://www.onyx-healthcare.com/en/product/all",
+"anchor": "Products & Services",
+"len": 252592
+},
+{
+"url": "https://www.onyx-healthcare.com/en/company/profile_onyxmedicalAIexpert",
+"anchor": "About",
+"len": 128685
+},
+{
+"url": "https://www.onyx-healthcare.com/en/product/medical-ai",
+"anchor": "Medical AI Computer",
+"len": 180827
+},
+{
+"url": "https://www.onyx-healthcare.com/en-US/product/all",
+"anchor": "Products & Services",
+"len": 252969
+},
+{
+"url": "https://www.onyx-healthcare.com/en-US/company/profile_onyxmedicalAIexpert",
+"anchor": "About",
+"len": 133872
+},
+{
+"url": "https://www.onyx-healthcare.com/en-US/product/medical-panel-pc",
+"anchor": "Medical Panel PC",
+"len": 177527
+},
+{
+"url": "https://www.onyx-healthcare.com/en-US/product/medical-tablet",
+"anchor": "Medical Tablet",
+"len": 149812
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-ai",
+"anchor": "Medical AI Computer",
+"len": 180827
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-ai/ACCEL_JS1500",
+"anchor": "ACCEL-JS1500",
+"len": 100469
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-tablet",
+"anchor": "Medical Tablet",
+"len": 149825
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-tablet/MD102N",
+"anchor": "MD102N",
+"len": 101533
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-panel-pc",
+"anchor": "Medical Panel PC",
+"len": 177150
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-panel-pc/Venus-244P",
+"anchor": "Venus-244P",
+"len": 111031
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-panel-pc/Venus-224P",
+"anchor": "Venus-224PIntel Arrow Lake Core Ultra 5 (15th Gen)Medical AI Cart ComputerCompar",
+"len": 104952
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-ai/ACCEL-A3210",
+"anchor": "ACCEL-A3210",
+"len": 104885
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-box-pc",
+"anchor": "Medical Box PC",
+"len": 155438
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-display",
+"anchor": "Medical Display",
+"len": 156922
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-power-bank",
+"anchor": "Medical Power Bank",
+"len": 149000
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/accessories",
+"anchor": "Accessories",
+"len": 146787
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/Motherboard",
+"anchor": "MotherBoard",
+"len": 149484
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-ai/ACCEL-JS3000",
+"anchor": "ACCEL-JS3000 (Preliminary)NVIDIA IGX Thor T7000 Blackwell Platform, 14-Core Arm ",
+"len": 108219
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-box-pc/MEDPC-9400",
+"anchor": "MEDPC-9400 (Preliminary)Intel® Panther Lake Core Ultra series 3 Processor DDR5 5",
+"len": 99268
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-power-bank/OPM-P08T",
+"anchor": "OPM-P08T1 Years 500 cycle warranty91Wh battery capacityCompareConsult",
+"len": 96370
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-display/MEDDP-727",
+"anchor": "MEDDP-72727\" LCD Panel with 3840 x 2160 resolutionHigh Brigtness 500nitsCompareC",
+"len": 103024
+},
+{
+"url": "http://www.onyx-healthcare.com/en/product/medical-tablet/MD116E",
+"anchor": "MD116EIntel® ELKhart Lake Pentium N6415Dual hot-swappable batteries for 24/7 ope",
+"len": 111190
+}
+],
+"pdfs": {}
+}

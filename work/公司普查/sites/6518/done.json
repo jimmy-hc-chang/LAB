@@ -1,0 +1,100 @@
+{
+"pages": [
+{
+"url": "http://www.concordmed.com.tw",
+"anchor": "home",
+"len": 25389
+},
+{
+"url": "http://www.concordmed.com.tw/server.asp?sv_id=2&ii=3",
+"anchor": "採購服務",
+"len": 17461
+},
+{
+"url": "http://www.concordmed.com.tw/investor.asp",
+"anchor": "",
+"len": 29099
+},
+{
+"url": "http://www.concordmed.com.tw/investor02.asp",
+"anchor": "財務報告",
+"len": 44521
+},
+{
+"url": "http://www.concordmed.com.tw/investor03.asp",
+"anchor": "股東會相關資訊",
+"len": 34336
+},
+{
+"url": "http://www.concordmed.com.tw/investor04.asp",
+"anchor": "股利及股價",
+"len": 17549
+},
+{
+"url": "http://www.concordmed.com.tw/investor05.asp",
+"anchor": "重大訊息",
+"len": 31107
+},
+{
+"url": "http://www.concordmed.com.tw/investor06.asp",
+"anchor": "公司治理及社會責任",
+"len": 36597
+},
+{
+"url": "http://www.concordmed.com.tw/investor09.asp",
+"anchor": "投資人服務",
+"len": 20645
+},
+{
+"url": "http://www.concordmed.com.tw/news_main.asp?newsid=10114",
+"anchor": "康科特及在地醫療團隊深入魚池偏鄉義診送..",
+"len": 2513526
+},
+{
+"url": "http://www.concordmed.com.tw/news_main.asp?newsid=10107",
+"anchor": "康科特攜手中英醫院導入神瑞AI 強化肺..",
+"len": 834763
+},
+{
+"url": "http://www.concordmed.com.tw/news_main.asp?newsid=10106",
+"anchor": "康科特攜手郵政醫院拓展智慧骨科",
+"len": 892649
+},
+{
+"url": "http://www.concordmed.com.tw/news_main2.asp?newsid2=6",
+"anchor": "尿道感染",
+"len": 17785
+},
+{
+"url": "http://www.concordmed.com.tw/news_main2.asp?newsid2=4",
+"anchor": "尿路結石",
+"len": 17080
+},
+{
+"url": "http://www.concordmed.com.tw/news_main2.asp?newsid2=2",
+"anchor": "乳房的構造與乳癌的發生",
+"len": 16933
+},
+{
+"url": "http://www.concordmed.com.tw/news_main.asp?newsid=10056",
+"anchor": "",
+"len": 16935
+},
+{
+"url": "http://www.concordmed.com.tw/server05.asp?sv_id=2&ii=3",
+"anchor": "採購服務",
+"len": 17461
+},
+{
+"url": "http://www.concordmed.com.tw/server0403.asp?sv_id=1&ii=1",
+"anchor": "商品服務",
+"len": 4301
+},
+{
+"url": "http://www.concordmed.com.tw/server.asp?sv_id=1&ii=1",
+"anchor": "醫管服務",
+"len": 17193
+}
+],
+"pdfs": {}
+}

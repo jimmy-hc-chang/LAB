@@ -1,0 +1,207 @@
+{
+"pages": [
+{
+"url": "https://www.ams-bioteq.com/",
+"anchor": "home",
+"len": 16350
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php",
+"anchor": "技術與產品",
+"len": 13953
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?act=list&id=1",
+"anchor": "小分子藥物研發",
+"len": 13953
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?act=list&id=4",
+"anchor": "SIPSIP®",
+"len": 20203
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?act=list&id=6",
+"anchor": "肌膚保養：Lumière d'Art",
+"len": 19908
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?act=list&id=8",
+"anchor": "栽培介質：SeepPlug",
+"len": 21960
+},
+{
+"url": "https://www.ams-bioteq.com/tw/csr.php",
+"anchor": "投資人專區",
+"len": 15965
+},
+{
+"url": "https://www.ams-bioteq.com/tw/investor_finance.php",
+"anchor": "財務資訊",
+"len": 11828
+},
+{
+"url": "https://www.ams-bioteq.com/tw/investor_service.php",
+"anchor": "投資人服務",
+"len": 12259
+},
+{
+"url": "https://www.ams-bioteq.com/tw/about_us.php",
+"anchor": "View details",
+"len": 11360
+},
+{
+"url": "https://www.ams-bioteq.com/tw/news.php?act=view&id=131",
+"anchor": "元樟生技攜 SeepPlug™ 參展 2026 臺灣智慧農漁週",
+"len": 14422
+},
+{
+"url": "https://www.ams-bioteq.com/tw/news.php?act=view&id=130",
+"anchor": "公告本公司115年股東常會重要決議事項",
+"len": 12554
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/technology.php",
+"anchor": "技術與產品",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/technology.php?act=list&id=1",
+"anchor": "小分子藥物研發",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/technology.php?act=list&id=4",
+"anchor": "SIPSIP®",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/technology.php?act=list&id=6",
+"anchor": "肌膚保養：Lumière d'Art",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/technology.php?act=list&id=8",
+"anchor": "栽培介質：SeepPlug",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/csr.php",
+"anchor": "投資人專區",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/investor_finance.php",
+"anchor": "財務資訊",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/investor_service.php",
+"anchor": "投資人服務",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/en/technology.php?act=list&id=1",
+"anchor": "ENGLISH",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/jp/technology.php?act=list&id=1",
+"anchor": "日本語",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?id=1",
+"anchor": "小分子藥物研發",
+"len": 13905
+},
+{
+"url": "https://www.ams-bioteq.com/tw/en/technology.php?act=list&id=4",
+"anchor": "ENGLISH",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/jp/technology.php?act=list&id=4",
+"anchor": "日本語",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?id=4",
+"anchor": "SIPSIP®",
+"len": 20155
+},
+{
+"url": "https://www.ams-bioteq.com/tw/en/technology.php?act=list&id=6",
+"anchor": "ENGLISH",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/jp/technology.php?act=list&id=6",
+"anchor": "日本語",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?id=6",
+"anchor": "肌膚保養：Lumière d&#039;Art",
+"len": 19860
+},
+{
+"url": "https://www.ams-bioteq.com/tw/en/technology.php?act=list&id=8",
+"anchor": "ENGLISH",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/jp/technology.php?act=list&id=8",
+"anchor": "日本語",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/technology.php?id=8",
+"anchor": "栽培介質：SeepPlug",
+"len": 21912
+},
+{
+"url": "https://www.ams-bioteq.com/tw/en/csr.php",
+"anchor": "ENGLISH",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/jp/csr.php",
+"anchor": "日本語",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/en/investor_finance.php",
+"anchor": "ENGLISH",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/jp/investor_finance.php",
+"anchor": "日本語",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/en/investor_service.php",
+"anchor": "ENGLISH",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/jp/investor_service.php",
+"anchor": "日本語",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/news.php?act=view&id=130",
+"anchor": "下一則公告本公司115年股東常會重要決議事項",
+"len": 8165
+},
+{
+"url": "https://www.ams-bioteq.com/tw/tw/news.php?act=view&id=131",
+"anchor": "上一則元樟生技攜 SeepPlug™ 參展 2026 臺灣智慧農漁週",
+"len": 8165
+}
+],
+"pdfs": {
+"https://www.ams-bioteq.com/tw/data/investor/rule/file/1737340473341525090.pdf": "永續發展實務守則"
+}
+}

@@ -1,0 +1,50 @@
+{
+"pages": [
+{
+"url": "https://www.saviorlifetec.com.tw/",
+"anchor": "home",
+"len": 41530
+},
+{
+"url": "https://www.saviorlifetec.com.tw/products/product-info",
+"anchor": "產品資訊",
+"len": 35957
+},
+{
+"url": "https://www.saviorlifetec.com.tw/products/contract-manufacturing",
+"anchor": "委託生產&開發與製造",
+"len": 38154
+},
+{
+"url": "https://www.saviorlifetec.com.tw/products/analytical-development",
+"anchor": "分析方法開發研究及檢驗",
+"len": 41321
+},
+{
+"url": "https://www.saviorlifetec.com.tw/products/product-development",
+"anchor": "新產品的共同開發合作",
+"len": 38657
+},
+{
+"url": "https://www.saviorlifetec.com.tw/investor/financials",
+"anchor": "財務報表",
+"len": 31505
+},
+{
+"url": "https://www.saviorlifetec.com.tw/investor/annual-reports",
+"anchor": "公司年報",
+"len": 29859
+},
+{
+"url": "https://www.saviorlifetec.com.tw/investor/shareholders",
+"anchor": "股東專區",
+"len": 28420
+},
+{
+"url": "https://www.saviorlifetec.com.tw/disclaimer",
+"anchor": "免責聲明",
+"len": 32714
+}
+],
+"pdfs": {}
+}

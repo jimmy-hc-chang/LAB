@@ -1,0 +1,230 @@
+{
+"pages": [
+{
+"url": "http://www.acrobiomedical.com",
+"anchor": "home",
+"len": 94162
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=module&lang=cht&task=pageinfo&id=33&index=4",
+"anchor": "科技技術顧問團隊",
+"len": 53089
+},
+{
+"url": "https://www.acrobiomedical.com/./index.php?temp=tech&lang=cht",
+"anchor": "技術研發",
+"len": 54147
+},
+{
+"url": "https://www.acrobiomedical.com/./index.php?option=product&lang=cht",
+"anchor": "產品介紹",
+"len": 60335
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=37&index=1",
+"anchor": "亞比斯 · 可拉 傷口照護",
+"len": 58830
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=206&belongid=37&index=1",
+"anchor": "膠原蛋白止血敷料",
+"len": 65343
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=207&belongid=37&index=2",
+"anchor": "去細胞真皮止血微粒",
+"len": 65963
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=208&belongid=37&index=3",
+"anchor": "去細胞真皮止血凝膠",
+"len": 60995
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=146&belongid=37&index=4",
+"anchor": "膠原蛋白敷料",
+"len": 66953
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=202&belongid=37&index=5",
+"anchor": "去細胞真皮補片",
+"len": 63198
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=203&belongid=37&index=6",
+"anchor": "膠原美粒",
+"len": 63678
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=204&belongid=37&index=7",
+"anchor": "去細胞膠原基質",
+"len": 59757
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=205&belongid=37&index=8",
+"anchor": "第二型膠原蛋白粉",
+"len": 62763
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=209&index=2",
+"anchor": "亞比斯 · 可拉 疤痕護理系列 (一類醫材)",
+"len": 56286
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=227&belongid=209&index=1",
+"anchor": "體外美容用修復彌補物",
+"len": 61011
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=223&belongid=209&index=2",
+"anchor": "疤痕護理噴劑",
+"len": 60942
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=224&belongid=209&index=3",
+"anchor": "疤痕護理凝膠",
+"len": 60277
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=225&belongid=209&index=4",
+"anchor": "疤痕貼片",
+"len": 60624
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=14&index=3",
+"anchor": "亞比斯 · 可拉 骨科產品",
+"len": 55701
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=137&belongid=14&index=1",
+"anchor": "膠原蛋白骨填料",
+"len": 72256
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=179&belongid=14&index=2",
+"anchor": "膠原蛋白骨基質",
+"len": 64806
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=200&belongid=14&index=3",
+"anchor": "易塑家膠原蛋白骨填料(可塑型)",
+"len": 61018
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=13&index=4",
+"anchor": "亞比斯 · 可拉 牙科產品",
+"len": 55017
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=42&belongid=13&index=1",
+"anchor": "膠原蛋白生物膜",
+"len": 63234
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=138&belongid=13&index=2",
+"anchor": "膠原蛋白牙科骨填料",
+"len": 70632
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=15&index=5",
+"anchor": "亞比斯 · 可拉 眼科產品",
+"len": 55027
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=217&belongid=15&index=1",
+"anchor": "角膜基質 (外銷許可)",
+"len": 66164
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=231&belongid=15&index=2",
+"anchor": "膠原蛋白眼角膜基質",
+"len": 59746
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=211&index=6",
+"anchor": "ACRO 牙科",
+"len": 56279
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=212&belongid=211&index=1",
+"anchor": "ACRO 膠原蛋白敷料",
+"len": 58940
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=213&belongid=211&index=2",
+"anchor": "ACRO 膠原蛋白牙科骨填料",
+"len": 59526
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=214&belongid=211&index=3",
+"anchor": "ACRO 膠原蛋白生物膜",
+"len": 61017
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=215&belongid=211&index=4",
+"anchor": "ACRO 易塑骨",
+"len": 61573
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=39&index=7",
+"anchor": "組織工程再生醫學",
+"len": 55740
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=63&belongid=39&index=1",
+"anchor": "亞比斯• 可拉® 生醫級膠原蛋白溶液",
+"len": 64807
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=127&belongid=39&index=2",
+"anchor": "ACROTERM™組織工程膠原蛋白支架",
+"len": 61666
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=180&belongid=39&index=3",
+"anchor": "ACROTERM™組織工程膠原蛋白支架粉",
+"len": 61590
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=showlist&id=40&index=8",
+"anchor": "ACRODERM 美容保養品",
+"len": 60164
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=54&belongid=40&index=1",
+"anchor": "煥白洗顏乳",
+"len": 63182
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=56&belongid=40&index=2",
+"anchor": "膠原蛋白煥白角質調理液",
+"len": 63221
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=57&belongid=40&index=3",
+"anchor": "膠原蛋白煥白化妝水",
+"len": 63801
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=58&belongid=40&index=4",
+"anchor": "膠原蛋白煥白精華液",
+"len": 63028
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=59&belongid=40&index=5",
+"anchor": "膠原蛋白煥白乳",
+"len": 63274
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=60&belongid=40&index=6",
+"anchor": "膠原蛋白毛孔緊緻霜",
+"len": 62672
+},
+{
+"url": "https://www.acrobiomedical.com/index.php?option=product&lang=cht&task=pageinfo&id=61&belongid=40&index=7",
+"anchor": "膠原蛋白修護眼霜",
+"len": 62702
+}
+],
+"pdfs": {}
+}

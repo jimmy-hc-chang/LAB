@@ -1,0 +1,215 @@
+{
+"pages": [
+{
+"url": "http://www.oep.com.tw",
+"anchor": "home",
+"len": 40818
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/index",
+"anchor": "產品總覽",
+"len": 36476
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelOne/prescription_medicine",
+"anchor": "處方用藥",
+"len": 34979
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelOne/innovative_medical",
+"anchor": "創新醫療",
+"len": 32921
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelOne/baby_healthcare",
+"anchor": "嬰幼兒保健",
+"len": 31625
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelOne/adult_healthcare",
+"anchor": "成人保健",
+"len": 36844
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelOne/dermo_cosmetics",
+"anchor": "醫學美容",
+"len": 34908
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/new_drog/index",
+"anchor": "研發中新藥",
+"len": 34558
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/investor_news/index",
+"anchor": "訊息公告",
+"len": 30282
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/finance/index",
+"anchor": "財務資訊",
+"len": 32202
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/csr/promote",
+"anchor": "推動理念",
+"len": 32198
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/csr/environmental_protection",
+"anchor": "環境保護",
+"len": 33422
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/csr/workplace",
+"anchor": "友善職場",
+"len": 33262
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/news/detail/20261001_OEPADMC_01",
+"anchor": "最新消息 01 Oct. 2026 友華生技擴大日本 Maruho 藥品授權版圖 新增東協十國、布局亞洲多汗症治療市場 MORE",
+"len": 31054
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/news/detail/20260505_Pharma_01",
+"anchor": "最新消息 05 May. 2026 友華生技醫藥取得急性骨髓性白血病創新療法 Olutasidenib 台灣開發與商業化權利 MORE",
+"len": 30756
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/news/detail/20260415_Nutri_01",
+"anchor": "最新消息 15 Apr. 2026 卡洛塔妮35週年進軍樂天球場，強化品牌與全家庭營養市場的策略布局 MORE",
+"len": 30263
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/cardiovascular",
+"anchor": "處方用藥 MORE",
+"len": 38898
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/TissueTech",
+"anchor": "創新醫療 MORE",
+"len": 32921
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/Babecare",
+"anchor": "嬰幼兒保健 MORE",
+"len": 28907
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/ISISPHARMA",
+"anchor": "醫學美容 MORE",
+"len": 46576
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/nutrifuel",
+"anchor": "成人保健 MORE",
+"len": 36844
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/development_office/index",
+"anchor": "事業發展 持續引進創新多元化的產品及拓展 海外市場",
+"len": 43539
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/charity/index",
+"anchor": "企業社會責任 友華生技以實際行動落實企業社會責任，創造社會更美好的環境",
+"len": 36938
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/Dermatology",
+"anchor": "皮膚科用藥",
+"len": 34979
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/weight_management",
+"anchor": "體重管理用藥",
+"len": 35049
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/andrology",
+"anchor": "男性用藥",
+"len": 35874
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/respiratory_immunity",
+"anchor": "呼吸道用藥",
+"len": 37734
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/Neurology",
+"anchor": "神經科用藥",
+"len": 36161
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/metabolism",
+"anchor": "新陳代謝科用藥",
+"len": 35868
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/gynecology",
+"anchor": "婦科用藥",
+"len": 35017
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/antibiotic",
+"anchor": "感染用藥",
+"len": 34999
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/Immunology",
+"anchor": "免疫科用藥",
+"len": 35012
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/anti_cancer_drugs",
+"anchor": "癌症治療",
+"len": 39387
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/safety",
+"anchor": "不良事件通報",
+"len": 34505
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/safety1",
+"anchor": "不良事件通報",
+"len": 30984
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/karihome",
+"anchor": "卡洛塔妮",
+"len": 31625
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/injections",
+"anchor": "醫美治療",
+"len": 34908
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/Cumlaude_Lab",
+"anchor": "珂瑈",
+"len": 42460
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/AGLab",
+"anchor": "恆妍肌",
+"len": 33981
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/product/levelTwo/bio_oil",
+"anchor": "百洛",
+"len": 35934
+},
+{
+"url": "http://www.oep.com.tw/upload/media/product/Innovative_medical/TissueTech/PROKERA_Slim_License.png",
+"anchor": "仿單",
+"len": 1102935
+},
+{
+"url": "http://www.oep.com.tw/zh-TW/csr/index",
+"anchor": "企業社會責任",
+"len": 32198
+}
+],
+"pdfs": {}
+}

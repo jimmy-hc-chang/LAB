@@ -1,0 +1,230 @@
+{
+"pages": [
+{
+"url": "https://www.everfortuneai.com.tw/",
+"anchor": "home",
+"len": 127386
+},
+{
+"url": "https://www.everfortuneai.com.tw/about/founder",
+"anchor": "創辦人與企業使命",
+"len": 70480
+},
+{
+"url": "https://www.everfortuneai.com.tw/about/profile",
+"anchor": "企業概要",
+"len": 76703
+},
+{
+"url": "https://www.everfortuneai.com.tw/about/leader",
+"anchor": "菁英人才管理團隊",
+"len": 85666
+},
+{
+"url": "https://www.everfortuneai.com.tw/about/partners",
+"anchor": "合作夥伴",
+"len": 76191
+},
+{
+"url": "https://www.everfortuneai.com.tw/about/milestone1",
+"anchor": "公司里程碑",
+"len": 87065
+},
+{
+"url": "https://www.everfortuneai.com.tw/product/medical_ai?medical_ai_product_id=019e257d-42db-7ec2-b384-a5b550f00f57",
+"anchor": "骨閃爍顯像電腦輔助偵測平台",
+"len": 90675
+},
+{
+"url": "https://www.everfortuneai.com.tw/product/medical_ai?medical_ai_product_id=019e39dc-ffb2-737d-bfd4-8241a62ebfd2",
+"anchor": "心肌灌流影像分析報告系統",
+"len": 86333
+},
+{
+"url": "https://www.everfortuneai.com.tw/product/cloud_medical_list",
+"anchor": "雲端生醫平台總覽",
+"len": 74421
+},
+{
+"url": "https://www.everfortuneai.com.tw/product/genomic_testing",
+"anchor": "基因檢測結果AI分析平台",
+"len": 105578
+},
+{
+"url": "https://www.everfortuneai.com.tw/product/health_check",
+"anchor": "智能化健檢排程系統",
+"len": 88390
+},
+{
+"url": "https://www.everfortuneai.com.tw/product/hair_growth",
+"anchor": "AI頭皮養護管理平台",
+"len": 86471
+},
+{
+"url": "https://www.everfortuneai.com.tw/product/imaging_recognition",
+"anchor": "AI醫療影像辨識管理平台",
+"len": 81153
+},
+{
+"url": "https://www.everfortuneai.com.tw/news/event",
+"anchor": "活動消息",
+"len": 79124
+},
+{
+"url": "https://www.everfortuneai.com.tw/news/company",
+"anchor": "公司消息",
+"len": 79151
+},
+{
+"url": "https://www.everfortuneai.com.tw/news/financial",
+"anchor": "財務消息",
+"len": 79193
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/development",
+"anchor": "ESG永續發展首頁",
+"len": 73954
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/csr",
+"anchor": "社會共好",
+"len": 78476
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/report",
+"anchor": "永續報告書",
+"len": 73753
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier1",
+"anchor": "供應商管理政策",
+"len": 68940
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier2",
+"anchor": "永續供應鏈管理",
+"len": 71540
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier3",
+"anchor": "環境管理",
+"len": 71138
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier4",
+"anchor": "溫室氣體管理",
+"len": 73622
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier5",
+"anchor": "水資源及能源管理",
+"len": 70879
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier6",
+"anchor": "廢棄物管理",
+"len": 72292
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier7",
+"anchor": "環保支出",
+"len": 70111
+},
+{
+"url": "https://www.everfortuneai.com.tw/esg/supplier8",
+"anchor": "產品品質與客戶服務",
+"len": 71939
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance1",
+"anchor": "組織架構",
+"len": 72042
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance2",
+"anchor": "公司治理相關辦法",
+"len": 84714
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance3",
+"anchor": "公司治理主管",
+"len": 76066
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance4",
+"anchor": "風險管理",
+"len": 70820
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance5",
+"anchor": "智慧財產權管理計畫",
+"len": 72493
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/human_right",
+"anchor": "人權政策與具體管理方案",
+"len": 79915
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance6",
+"anchor": "內部稽核組織與運作",
+"len": 75662
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance7",
+"anchor": "違反職業道德之申訴管理",
+"len": 69562
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance8",
+"anchor": "禁止內線交易規定",
+"len": 69772
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/careers",
+"anchor": "各項員工福利措施",
+"len": 75569
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance9",
+"anchor": "員工工作環境與人身安全",
+"len": 77412
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance10",
+"anchor": "企業誠信經營專職單位運作及落實誠信經營情形",
+"len": 81711
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance11",
+"anchor": "高階經理人薪酬與ESG績效連結政策",
+"len": 69116
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/governance12",
+"anchor": "資訊安全政策",
+"len": 73063
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/committee_audit",
+"anchor": "審計委員會",
+"len": 76958
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/committee_remuneration",
+"anchor": "薪資報酬委員會",
+"len": 74571
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/committee_sustainability",
+"anchor": "提名及風險管理暨永續發展委員會",
+"len": 71501
+},
+{
+"url": "https://www.everfortuneai.com.tw/investors/board_of_directors1",
+"anchor": "董事資訊",
+"len": 81733
+}
+],
+"pdfs": {}
+}

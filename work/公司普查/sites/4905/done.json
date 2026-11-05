@@ -1,0 +1,239 @@
+{
+"pages": [
+{
+"url": "http://www.tainet.com.tw",
+"anchor": "home",
+"len": 87481
+},
+{
+"url": "https://www.tainet.com.tw",
+"anchor": "",
+"len": 87481
+},
+{
+"url": "https://www.tainet.com.tw/",
+"anchor": "首頁",
+"len": 87481
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/",
+"anchor": "關於台聯▾",
+"len": 59279
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/milestone/",
+"anchor": "公司沿革",
+"len": 75694
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/organization/",
+"anchor": "組織架構",
+"len": 59443
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/management/",
+"anchor": "經營團隊",
+"len": 57623
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/philosophies/",
+"anchor": "經營理念",
+"len": 57773
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/declaration/",
+"anchor": "人權宣言",
+"len": 57818
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/certifications/",
+"anchor": "公司認證",
+"len": 57187
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/activities/",
+"anchor": "公司活動",
+"len": 66802
+},
+{
+"url": "https://www.tainet.com.tw/about-tainet/visions/",
+"anchor": "公司展望",
+"len": 58176
+},
+{
+"url": "https://www.tainet.com.tw/products/",
+"anchor": "產品▾",
+"len": 99272
+},
+{
+"url": "https://www.tainet.com.tw/products/wireless-router/",
+"anchor": "無線網路路由器",
+"len": 59171
+},
+{
+"url": "https://www.tainet.com.tw/products/voip-gateway/",
+"anchor": "VoIP 網路語音閘道器",
+"len": 65416
+},
+{
+"url": "https://www.tainet.com.tw/products/analog-modem/",
+"anchor": "專線式類比數據機",
+"len": 59163
+},
+{
+"url": "https://www.tainet.com.tw/products/ethernet-access/",
+"anchor": "乙太網路接取設備",
+"len": 63148
+},
+{
+"url": "https://www.tainet.com.tw/products/fiber-optic/",
+"anchor": "光纖網路轉換設備",
+"len": 61508
+},
+{
+"url": "https://www.tainet.com.tw/products/xdsl-modem/",
+"anchor": "xDSL 網路延伸器",
+"len": 65544
+},
+{
+"url": "https://www.tainet.com.tw/products/tdm-over-ip/",
+"anchor": "E1 應用設備",
+"len": 61451
+},
+{
+"url": "https://www.tainet.com.tw/products/smart_home_smart_care/",
+"anchor": "複合式智慧家庭及智慧照護整合系統平台",
+"len": 67565
+},
+{
+"url": "https://www.tainet.com.tw/solutions/",
+"anchor": "應用▾",
+"len": 82094
+},
+{
+"url": "https://www.tainet.com.tw/solutions/smart-city-transportation/",
+"anchor": "智慧城市交通應用",
+"len": 62667
+},
+{
+"url": "https://www.tainet.com.tw/solutions/smart-home-and-smart-care/",
+"anchor": "智慧家庭及智慧照護應用",
+"len": 58171
+},
+{
+"url": "https://www.tainet.com.tw/solutions/power-and-public-utility/",
+"anchor": "電力和公用事業應用",
+"len": 60222
+},
+{
+"url": "https://www.tainet.com.tw/solutions/industry-4-0-smart-manufacturing/",
+"anchor": "工業4.0智慧製造應用",
+"len": 57555
+},
+{
+"url": "https://www.tainet.com.tw/solutions/fiber-and-last-mile/",
+"anchor": "光纖和最後一哩路應用",
+"len": 58096
+},
+{
+"url": "https://www.tainet.com.tw/recruitment/",
+"anchor": "人力資源▾",
+"len": 55343
+},
+{
+"url": "https://www.tainet.com.tw/recruitment/benefit/",
+"anchor": "福利制度",
+"len": 56576
+},
+{
+"url": "https://www.tainet.com.tw/recruitment/training/",
+"anchor": "教育訓練",
+"len": 64662
+},
+{
+"url": "https://www.tainet.com.tw/news/",
+"anchor": "新聞訊息▾",
+"len": 64054
+},
+{
+"url": "https://www.tainet.com.tw/news/eol/",
+"anchor": "EOL 訊息",
+"len": 63656
+},
+{
+"url": "https://www.tainet.com.tw/stakeholder/",
+"anchor": "利害關係人▾",
+"len": 58157
+},
+{
+"url": "https://www.tainet.com.tw/stakeholder/engagement-and-communication/",
+"anchor": "鑑別與溝通",
+"len": 62444
+},
+{
+"url": "https://www.tainet.com.tw/stakeholder/financial-statements/",
+"anchor": "財務報表",
+"len": 65297
+},
+{
+"url": "https://www.tainet.com.tw/stakeholder/stock-affairs/",
+"anchor": "股務資訊",
+"len": 63056
+},
+{
+"url": "https://www.tainet.com.tw/stakeholder/whistleblower-system/",
+"anchor": "檢舉制度",
+"len": 60836
+},
+{
+"url": "https://www.tainet.com.tw/stakeholder/spokesman-and-stock-agency/",
+"anchor": "發言人及股務代理機構",
+"len": 58017
+},
+{
+"url": "https://www.tainet.com.tw/stakeholder/investor-conference/",
+"anchor": "法人說明會",
+"len": 58799
+},
+{
+"url": "https://www.tainet.com.tw/esg/",
+"anchor": "永續治理▾",
+"len": 58214
+},
+{
+"url": "https://www.tainet.com.tw/esg/corporate-governance-practices/",
+"anchor": "公司治理運作情形",
+"len": 66006
+},
+{
+"url": "https://www.tainet.com.tw/esg/best-practice-principles/",
+"anchor": "公司治理相關規章",
+"len": 65422
+},
+{
+"url": "https://www.tainet.com.tw/esg/board-of-directors/",
+"anchor": "董事會",
+"len": 63606
+},
+{
+"url": "https://www.tainet.com.tw/esg/functional-committee/",
+"anchor": "功能性委員會",
+"len": 70061
+},
+{
+"url": "https://www.tainet.com.tw/esg/internal-auditing/",
+"anchor": "內部稽核組織及運作",
+"len": 58381
+}
+],
+"pdfs": {
+"https://www.tainet.com.tw/wp-content/uploads/1150612%E5%8F%B0%E8%81%AF%E5%B9%B4%E5%A0%B1.pdf": "民國 114 年度公司年報",
+"https://www.tainet.com.tw/wp-content/uploads/1140520-%E5%8F%B0%E8%81%AF%E5%B9%B4%E5%A0%B1-V3%E5%82%B3.pdf": "民國 113 年度公司年報",
+"https://www.tainet.com.tw/wp-content/uploads/1130531-%E5%8F%B0%E8%81%AF%E5%B9%B4%E5%A0%B1V2%E5%82%B3.pdf": "民國 112 年度公司年報",
+"https://www.tainet.com.tw/wp-content/uploads/4.2_1130621_%E8%AA%A0%E4%BF%A1%E7%B6%93%E7%87%9F%E6%94%BF%E7%AD%96-%E5%B9%B4%E5%A0%B1%E5%B1%A5%E8%A1%8C%E8%AA%A0%E4%BF%A1%E7%B6%93%E7%87%9F%E6%83%85%E5%BD%A2.pdf": "113 年度公司履行誠信經營情形",
+"http://www.tainet.com.tw/wp-content/uploads/永續發展實務守則_1120322.pdf": "永續發展實務守則",
+"http://www.tainet.com.tw/wp-content/uploads/永續發展委員會組織規程.pdf": "永續發展委員會組織規程",
+"http://www.tainet.com.tw/wp-content/uploads/4.1_1130621推動永續發展執行情形.pdf": "113 年推動永續發展執行情形",
+"http://www.tainet.com.tw/wp-content/uploads/2.14_113年永續發展委員會運作情形Q4.pdf": "113 年永續發展委員會運作情形"
+}
+}

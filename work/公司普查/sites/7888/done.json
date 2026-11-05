@@ -1,0 +1,42 @@
+{
+"pages": [
+{
+"url": "https://libopharma.com/",
+"anchor": "home",
+"len": 84332
+},
+{
+"url": "https://libopharma.com/research-and-development-progress-zh/",
+"anchor": "研發進展",
+"len": 54448
+},
+{
+"url": "https://libopharma.com/technological-advantages-zh/",
+"anchor": "技術優勢",
+"len": 68942
+},
+{
+"url": "https://libopharma.com/finance2025/",
+"anchor": "財務資訊",
+"len": 65452
+},
+{
+"url": "https://libopharma.com/shareholder/",
+"anchor": "股東專區",
+"len": 80372
+},
+{
+"url": "https://libopharma.com/research-archives/development-preclinical-and-experimental-surgery-solution/",
+"anchor": "",
+"len": 61656
+},
+{
+"url": "https://libopharma.com/jp/%e7%a0%94%e7%99%bc%e9%80%b2%e5%b1%95-rd-progress/",
+"anchor": "日本語",
+"len": 55284
+}
+],
+"pdfs": {
+"https://libopharma.com/wp-content/uploads/2026/06/114年股東會-股東會年報.pdf": ""
+}
+}

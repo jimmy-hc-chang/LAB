@@ -1,0 +1,268 @@
+{
+"pages": [
+{
+"url": "http://www.grapeking.com.tw",
+"anchor": "home",
+"len": 457732
+},
+{
+"url": "https://www.grapeking.com.tw/product",
+"anchor": "產品資訊",
+"len": 193681
+},
+{
+"url": "https://www.grapeking.com.tw/product/625667e0ac105",
+"anchor": "漢方保養",
+"len": 205737
+},
+{
+"url": "https://www.grapeking.com.tw/product/62566b4f868ef",
+"anchor": "健康調節",
+"len": 208012
+},
+{
+"url": "https://www.grapeking.com.tw/product/62566c8799e02",
+"anchor": "女性美妍",
+"len": 197277
+},
+{
+"url": "https://www.grapeking.com.tw/product/62566cd06af8b",
+"anchor": "學齡保健",
+"len": 192759
+},
+{
+"url": "https://www.grapeking.com.tw/product/62566d0b28f65",
+"anchor": "機能飲品",
+"len": 202961
+},
+{
+"url": "https://www.grapeking.com.tw/rd/62578d7b7978b",
+"anchor": "創新研發中心",
+"len": 191120
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258cf1f9e021",
+"anchor": "公司基本資料",
+"len": 200662
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258cedcbcc7a",
+"anchor": "經理人資訊",
+"len": 201447
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/major-policies",
+"anchor": "公司重要規章",
+"len": 222151
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258cbb809920",
+"anchor": "稽核組織",
+"len": 199117
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258cb3bde900",
+"anchor": "公司治理運作情形",
+"len": 228342
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258c9e85c7ed",
+"anchor": "履行誠信經營情形",
+"len": 212258
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258c98709796",
+"anchor": "推動永續發展執行情形",
+"len": 267787
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258c8ff7a244",
+"anchor": "員工福利與環境安全",
+"len": 208061
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/6258c8b07ec85",
+"anchor": "資通安全治理",
+"len": 203990
+},
+{
+"url": "https://www.grapeking.com.tw/investor/governance/taxpolicy",
+"anchor": "稅務政策",
+"len": 205970
+},
+{
+"url": "https://www.grapeking.com.tw/investor/board-of-directors/6258d7183d1bf",
+"anchor": "董事會介紹",
+"len": 212126
+},
+{
+"url": "https://www.grapeking.com.tw/investor/board-of-directors/directors",
+"anchor": "董事會成員",
+"len": 235660
+},
+{
+"url": "https://www.grapeking.com.tw/investor/board-of-directors/board-meeting",
+"anchor": "董事會決議",
+"len": 208984
+},
+{
+"url": "https://www.grapeking.com.tw/investor/6258d7e9f0f6d/auditcommittee",
+"anchor": "審計委員會",
+"len": 224613
+},
+{
+"url": "https://www.grapeking.com.tw/investor/6258d7e9f0f6d/6258d97648f63",
+"anchor": "薪酬委員會",
+"len": 210804
+},
+{
+"url": "https://www.grapeking.com.tw/investor/6258d7e9f0f6d/6920354a421d1",
+"anchor": "永續發展暨ESG指導委員會",
+"len": 205697
+},
+{
+"url": "https://www.grapeking.com.tw/investor/6258d7e9f0f6d/6920364456512",
+"anchor": "風險管理委員會",
+"len": 202100
+},
+{
+"url": "https://www.grapeking.com.tw/investor/financial/monthly-revenues",
+"anchor": "每月營收",
+"len": 223298
+},
+{
+"url": "https://www.grapeking.com.tw/investor/financial/financial-statements",
+"anchor": "財務報表",
+"len": 206601
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/shareholders-meeting",
+"anchor": "股東會",
+"len": 208786
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/6259008fabbeb",
+"anchor": "公司簡報",
+"len": 198641
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/annual-reports",
+"anchor": "公司年報",
+"len": 212954
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/6258ffc5d91f8",
+"anchor": "歷年股利分派與發放日程",
+"len": 205492
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/6258ff4bcd4e7",
+"anchor": "主要股東名單",
+"len": 199378
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/6a3cdedf046d7",
+"anchor": "投資人議合",
+"len": 199165
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/6258fee1f1940",
+"anchor": "股價資訊",
+"len": 200569
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/6258fe877b374",
+"anchor": "重大訊息公告",
+"len": 198739
+},
+{
+"url": "https://www.grapeking.com.tw/investor/shareholder/6258fdc743e14",
+"anchor": "股務服務聯絡",
+"len": 199054
+},
+{
+"url": "https://www.grapeking.com.tw/investor/conference",
+"anchor": "法人說明會",
+"len": 207980
+},
+{
+"url": "https://www.grapeking.com.tw/csr",
+"anchor": "ESG",
+"len": 298471
+},
+{
+"url": "https://www.grapeking.com.tw/csr/sustainable/625925b2ece0c",
+"anchor": "董事長的話",
+"len": 216803
+},
+{
+"url": "https://www.grapeking.com.tw/csr/sustainable/6259255b64522",
+"anchor": "利害關係人議和",
+"len": 226920
+},
+{
+"url": "https://www.grapeking.com.tw/csr/sustainable/62592511694b0",
+"anchor": "永續策略",
+"len": 247724
+},
+{
+"url": "https://www.grapeking.com.tw/csr/sustainable/625924dd32e5a",
+"anchor": "永續管理",
+"len": 218507
+},
+{
+"url": "https://www.grapeking.com.tw/csr/sustainable/achievement",
+"anchor": "永續績效",
+"len": 219779
+},
+{
+"url": "https://www.grapeking.com.tw/csr/sustainable/62592444625ca",
+"anchor": "氣候相關財務揭露",
+"len": 218047
+},
+{
+"url": "https://www.grapeking.com.tw/csr/sustainable/6296fecadad61",
+"anchor": "永續會計準則",
+"len": 223978
+}
+],
+"pdfs": {
+"https://www.grapeking.com.tw/investor/governance/major-policies/8NEYpYobzGJd/%E8%91%A1%E8%90%84%E7%8E%8B%E7%94%9F%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E6%9A%A8ESG%E6%8C%87%E5%B0%8E%E5%A7%94%E5%93%A1%E6%9C%83%E7%B5%84%E7%B9%94%E8%A6%8F%E7%A8%8B-1141112.pdf": "永續發展暨ESG指導委員會組織規程 PDF 92.39 KB",
+"https://www.grapeking.com.tw/investor/governance/major-policies/n4mK7KlpNw0e/1141112%E8%91%A1%E8%90%84%E7%8E%8B%E7%94%9F%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E5%AF%A6%E5%8B%99%E5%AE%88%E5%89%87-%E4%BF%AE%E8%A8%82.pdf": "永續發展實務守則 PDF 139.95 KB",
+"https://www.grapeking.com.tw/uploads/files/shares/6920360750505.pdf": "永續發展暨ESG指導委員會組織規程 PDF 96 KB",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/q90rprvpl2kV/%E8%91%A1%E8%90%84%E7%8E%8B_114%E5%B9%B4%E4%B8%AD%E6%96%87%E5%B9%B4%E5%A0%B1.pdf": "114年 114年",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/xV0Dbaeb3KRd/20250430_%E5%B9%B4%E5%A0%B1_%E6%95%B4%E5%90%88ALL_%E5%A3%93%E7%B8%AE.pdf": "113年 113年",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/RVYG1QE1j2KD/2023_1707_20240530F04_20240510_154339-CN.pdf": "112年 112年",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/EADvbo3bgo23/2022%20Annual%20report-tw.pdf": "111年 111年",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/yExk1GE7Q2Nz/2021TW.pdf": "110年 110年",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/KRYkb5n7VN4d/2020TW.pdf": "109年 109年",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/n4mK7KlpNw0e/2019TW.pdf": "108年 108年",
+"https://www.grapeking.com.tw/investor/shareholder/annual-reports/download/MgDw7PKbNWyG/2018TW.pdf": "107年 107年",
+"https://www.grapeking.com.tw/csr/interactive/report/file/n4mK7KlpNw0e/2025_ESG%20report_CH_0624.pdf": "完整報告書",
+"https://www.grapeking.com.tw/csr/interactive/report/download/ARm8pgRR7oyD/00%E5%89%8D%E8%A8%80.pdf": "前言",
+"https://www.grapeking.com.tw/csr/interactive/report/download/8eqYbZrMbPoQ/01.pdf": "誠信治理",
+"https://www.grapeking.com.tw/csr/interactive/report/download/9ErdpmWb0yWQ/02.pdf": "產品責任",
+"https://www.grapeking.com.tw/csr/interactive/report/download/5MRV1wK1PDnX/03.pdf": "研發創新",
+"https://www.grapeking.com.tw/csr/interactive/report/download/gm9W7JL1QM35/04.pdf": "幸福職場",
+"https://www.grapeking.com.tw/csr/interactive/report/download/ayqjpXDpWALk/05.pdf": "社會共榮",
+"https://www.grapeking.com.tw/csr/interactive/report/download/ykw01jV124Bg/06.pdf": "綠色環境",
+"https://www.grapeking.com.tw/csr/interactive/report/download/ELr2bDm7wReX/07%E9%99%84%E9%8C%84.pdf": "附錄",
+"https://www.grapeking.com.tw/csr/interactive/report/download/L5OVb0YB7evx/%E8%91%A1%E8%90%84%E7%8E%8B%E6%B0%B8%E7%BA%8C%E7%A2%BA%E4%BF%A1%E5%A0%B1%E5%91%8A-%E4%B8%AD%E6%96%87.pdf": "會計師有限確信報告",
+"https://www.grapeking.com.tw/csr/interactive/report/file/MgDw7PKbNWyG/2024_ESGReport_0710-compressedH.pdf": "2024",
+"https://www.grapeking.com.tw/csr/interactive/report/file/V6wEpNxbQGdz/20240403_ESGreport_all4.pdf": "2023",
+"https://www.grapeking.com.tw/csr/interactive/report/file/zwEl1xqbBDP6/20230605_ESG%20Report_all_compressed.pdf": "2022",
+"https://www.grapeking.com.tw/csr/interactive/report/file/ARm8pgR7oyD4/2021%20%E8%91%A1%E8%90%84%E7%8E%8BESG%E5%A0%B1%E5%91%8A%E6%9B%B8_0602.pdf": "2021",
+"https://www.grapeking.com.tw/csr/interactive/report/file/L5OVb0BpevxW/20210512164040_44.pdf": "2020",
+"https://www.grapeking.com.tw/csr/interactive/report/file/kyxZbWMpAvag/20200522164117_87.pdf": "2019",
+"https://www.grapeking.com.tw/csr/interactive/download/file/yExk1GE7Q2Nz/%E7%92%B0%E5%AE%89%E8%A1%9B%E6%9A%A8%E8%83%BD%E6%BA%90%E6%94%BF%E7%AD%96%2820250617%29%28%E5%B7%B2%E7%94%A8%E5%8D%B0%29.pdf": "環境安全衛生暨能源政策",
+"https://www.grapeking.com.tw/csr/interactive/download/file/xV0Dbaeb3KRd/Grape%20King%20Bio%27s%20Biodiversity%20and%20No%20Deforestation%20Commitment-CH%20-%201130910.pdf": "生物多樣性暨無毀林承諾",
+"https://www.grapeking.com.tw/csr/interactive/download/file/ZPWop4Q1VlAN/CDP%202026%20questionnaire-Grape%20King%20Bio%20LTD-31-08-2026-CORPORATE-10-54.pdf": "2026 CDP Climate Change",
+"https://www.grapeking.com.tw/csr/interactive/download/file/DaonplE1KB94/Grape%20King%20Bio%20LTD-06-11-2025-CORPORATE-11-12.pdf": "2025 CDP Climate Change",
+"https://www.grapeking.com.tw/csr/interactive/download/file/PgjQpLvbamwZ/2024%20CDP%20Climate%20Change.pdf": "2024 CDP Climate Change",
+"https://www.grapeking.com.tw/csr/interactive/download/file/NoakpM47xGKX/2023%20CDP%20Climate%20Change.pdf": "2023 CDP Climate Change",
+"https://www.grapeking.com.tw/csr/interactive/download/file/JYMGb3ObdEkm/IPR_%E8%91%A1%E8%90%84%E7%8E%8B_2025%E5%B9%B4%E6%B0%A3%E5%80%99%E7%9B%B8%E9%97%9C%E8%B2%A1%E5%8B%99%E6%8F%AD%E9%9C%B2%E5%A0%B1%E5%91%8A%E6%9B%B8_20260730FIN.pdf": "2025年氣候相關財務揭露報告書",
+"https://www.grapeking.com.tw/csr/interactive/download/file/MgDw7PKbNWyG/%E5%85%AC%E5%8F%B8%E6%B2%BB%E7%90%86%E5%AF%A6%E5%8B%99%E5%AE%88%E5%89%87-%E4%BF%AE%E8%A8%821131111.pdf": "公司治理實務守則",
+"https://www.grapeking.com.tw/csr/interactive/download/file/kyxZbWMpAvag/2023%E5%B9%B4%E8%81%B7%E5%AE%89%E8%A1%9B%E7%B3%BB%E7%B5%B1ISO14001%E8%AD%89%E6%9B%B8%E8%8B%B1%E6%96%87%E7%89%88%28%E5%B9%B3%E9%8E%AE1%29.pdf": "GrapeKing ISO 14001-2015 Certificate",
+"https://www.grapeking.com.tw/csr/interactive/download/file/yeEo7V41ZrAj/112%E5%B9%B4%E8%91%A1%E8%90%84%E7%8E%8B%E9%BE%8D%E6%BD%AD%E5%9C%92%E5%8D%80%E5%BB%A0-ISO%2014001%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%E8%AD%89%E6%9B%B8.pdf": "GrapeKing ISO 14001-2015 Certificate(Longtan Branch)"
+}
+}

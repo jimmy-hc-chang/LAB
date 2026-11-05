@@ -1,0 +1,230 @@
+{
+"pages": [
+{
+"url": "http://www.plexbio.com/tw/",
+"anchor": "home",
+"len": 88623
+},
+{
+"url": "https://www.plexbio.com/tw/products/",
+"anchor": "產品介紹",
+"len": 58197
+},
+{
+"url": "https://www.plexbio.com/tw/products/ASP/",
+"anchor": "全自動核酸萃取系統",
+"len": 60644
+},
+{
+"url": "https://www.plexbio.com/tw/products/IntelliplexPlatform/",
+"anchor": "IntelliPlex 多元檢測平台",
+"len": 58146
+},
+{
+"url": "https://www.plexbio.com/tw/products/OncologyAssays/",
+"anchor": "癌症基因檢測",
+"len": 65237
+},
+{
+"url": "https://www.plexbio.com/tw/products/CustomizedpiCODE/",
+"anchor": "πCode試劑配件",
+"len": 57131
+},
+{
+"url": "https://www.plexbio.com/tw/service/",
+"anchor": "服務項目",
+"len": 70279
+},
+{
+"url": "https://www.plexbio.com/tw/service/39/",
+"anchor": "客製化服務",
+"len": 70279
+},
+{
+"url": "https://www.plexbio.com/tw/service_contact/",
+"anchor": "技術授權合作",
+"len": 72932
+},
+{
+"url": "https://www.plexbio.com/pi_code/",
+"anchor": "πCODE多元檢測專利技術",
+"len": 98201
+},
+{
+"url": "https://www.plexbio.com/technology/39/",
+"anchor": "",
+"len": 78651
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2091/",
+"anchor": "博錸生技IntelliPrep TRIO 240 接連取得美韓歐法規認證 推進國際檢體製備自動化導入與應用驗證",
+"len": 55775
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2090/",
+"anchor": "IntelliPrep TRIO 240 全自動檢體製備系統與多款核酸萃取試劑組正式通過歐盟 CE-IVDR 認證",
+"len": 55526
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2080__1/",
+"anchor": "博錸生技攜手金萬林企業股份有限公司 推動 TRIO 240 全自動檢體製備系統於台上市",
+"len": 55492
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2080/",
+"anchor": "博錸生技IntelliPrep TRIO檢體製備系統取得 FDA 認證 攜手韓國推動分子檢測高效自動化",
+"len": 56100
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2024Medlab/",
+"anchor": "博錸生技重返中東市場，亮相杜拜Medlab展",
+"len": 54984
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2023Medica/",
+"anchor": "博錸生技閃耀德國MEDICA國際醫療器材展",
+"len": 54778
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2069/",
+"anchor": "經濟部工業局助力 生醫領航產業交流 跨部會合作助產業升級轉型",
+"len": 55590
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/BIO2023/",
+"anchor": "博錸生技於2023北美生物展完美演繹Multiplexing Diagnostics 多元檢測診斷平台",
+"len": 55219
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/IP1000_PB100_CE_IVDR/",
+"anchor": "博錸PlexBio™100 螢光分析儀和 IntelliPlex™ 1000 πCode 處理器獲得IVDR認證",
+"len": 54949
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/conferencenews2023/",
+"anchor": "博錸、Denka事業戰略成果發表記者會",
+"len": 56906
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/medica2022/",
+"anchor": "2022德國杜塞道夫國際醫療展完美展出",
+"len": 54751
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/bioasiaSilveraward/",
+"anchor": "博錸生技榮獲2022臺北生技獎「創新技術類-銀獎」殊榮",
+"len": 56957
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/BIOAsiaTaiwan2022/",
+"anchor": "博錸創新科技產品 受邀於台北生技展展出",
+"len": 54866
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2029/",
+"anchor": "Denka之流行傳染病檢測突破性發展，將於日本國際傳染疾病會議中發表",
+"len": 55189
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/COVID19/",
+"anchor": "3Hr 測出COVID-19病毒",
+"len": 57099
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/BIOAsiaTaiwan/",
+"anchor": "亞洲生技大會 BIO Asia-Taiwan 2021 Live",
+"len": 57516
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/BIOAsiaTaiwan2021/",
+"anchor": "亞洲生技大會 BIO Asia-Taiwan 2021 Online",
+"len": 56295
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/3hr/",
+"anchor": "日台聯手防堵疫情！博錸生技變異株試劑 3小時檢測出爐",
+"len": 54820
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/Japenlaunched/",
+"anchor": "博錸新冠肺炎變異株試劑於日本上市",
+"len": 55336
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/JapanCollaboration/",
+"anchor": "博錸生技與日商電化Denka 聯手共同開發 一站式新冠肺炎變異株試劑",
+"len": 56167
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/CEIVD/",
+"anchor": "重大訊息：博錸新型冠狀病毒暨流感病毒核酸檢測試劑取得歐盟CE認證",
+"len": 55506
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/ProjectGrant/",
+"anchor": "重大訊息：博錸生技獲經濟部產業升級創新平台輔導計畫補助",
+"len": 55082
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/Reagentcomeout/",
+"anchor": "博錸生技瞄準第2波疫情 新冠+流感三合一檢驗試劑問世",
+"len": 55307
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/FDAEUA/",
+"anchor": "博錸新冠檢測試劑獲美FDA緊急使用授權",
+"len": 55274
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2040/",
+"anchor": "博錸C型肝炎病毒基因分型檢測試劑套組通過衛福部查驗登記審核",
+"len": 55012
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/DeloitteTechnologyFast500AsiaPacific/",
+"anchor": "博錸榮列Financial Times亞太區500大高成長型公司",
+"len": 55198
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/2042/",
+"anchor": "博錸新型冠狀病毒核酸檢測試劑提出CE-IVD申請",
+"len": 55222
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/MolecularMedTriCon/",
+"anchor": "Molecular Med Tri-Con 2020",
+"len": 55084
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/startupcompany/",
+"anchor": "博錸榮登亞太區域十大新創生技企業",
+"len": 54842
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/Denka/",
+"anchor": "博錸私募引資 Denka持股33.4％",
+"len": 55038
+},
+{
+"url": "https://www.plexbio.com/tw/news-detail/Menarini/",
+"anchor": "博錸生技與義大利Menarini簽訂獨家經銷合約",
+"len": 55306
+},
+{
+"url": "https://www.plexbio.com/products/",
+"anchor": "立即探索",
+"len": 61398
+},
+{
+"url": "https://www.plexbio.com/tw/products/InfectiousDisease/",
+"anchor": "傳染性疾病檢測",
+"len": 49894
+},
+{
+"url": "https://www.plexbio.com/service_contact/",
+"anchor": "關於技術授權",
+"len": 77174
+}
+],
+"pdfs": {}
+}

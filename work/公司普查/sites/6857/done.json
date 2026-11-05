@@ -1,0 +1,70 @@
+{
+"pages": [
+{
+"url": "https://www.acer-medical.com/",
+"anchor": "home",
+"len": 66599
+},
+{
+"url": "https://www.acer-medical.com/company/investor-relations/",
+"anchor": "Investor Relations",
+"len": 40560
+},
+{
+"url": "https://www.acer-medical.com/solutions/verisee-dr/",
+"anchor": "VeriSee DR",
+"len": 66183
+},
+{
+"url": "https://www.acer-medical.com/solutions/verisee-amd/",
+"anchor": "VeriSee AMD",
+"len": 53151
+},
+{
+"url": "https://www.acer-medical.com/solutions/verisee-glc/",
+"anchor": "VeriSee GLC",
+"len": 51867
+},
+{
+"url": "https://www.acer-medical.com/solutions/veriosteo-op/",
+"anchor": "VeriOsteo OP",
+"len": 53830
+},
+{
+"url": "https://www.acer-medical.com/solutions/aimed/",
+"anchor": "aiMed",
+"len": 59397
+},
+{
+"url": "https://www.acer-medical.com/solutions/aigait/",
+"anchor": "aiGait",
+"len": 52544
+},
+{
+"url": "https://www.acer-medical.com/solutions/arc-1000/",
+"anchor": "ARC-1000",
+"len": 40449
+},
+{
+"url": "https://www.acer-medical.com/solutions/vericompact/",
+"anchor": "VeriCompact",
+"len": 50523
+},
+{
+"url": "https://www.acer-medical.com/solutions/verisee-dr/terms-of-use/",
+"anchor": "Terms of Use",
+"len": 41100
+},
+{
+"url": "https://www.acer-medical.com/solutions/verisee-dr/end-user-licensing-agreement/",
+"anchor": "End User Licensing Agreement",
+"len": 54795
+},
+{
+"url": "https://www.acer-medical.com/solutions/aimed/terms-of-use-and-privacy-policy/",
+"anchor": "Terms of Use and Privacy Policy",
+"len": 69739
+}
+],
+"pdfs": {}
+}

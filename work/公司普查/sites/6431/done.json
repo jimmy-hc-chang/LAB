@@ -1,0 +1,52 @@
+{
+"pages": [
+{
+"url": "http://www.kl-holdings.com/",
+"anchor": "home",
+"len": 15825
+},
+{
+"url": "http://www.kl-holdings.com/finance/list",
+"anchor": "財務資訊",
+"len": 20982
+},
+{
+"url": "http://www.kl-holdings.com/yearReport/list",
+"anchor": "公司年報",
+"len": 26055
+},
+{
+"url": "http://www.kl-holdings.com/shareholder/msg",
+"anchor": "股東資訊",
+"len": 23931
+},
+{
+"url": "http://www.kl-holdings.com/csr/esg",
+"anchor": "企業永續策略",
+"len": 20073
+},
+{
+"url": "http://www.kl-holdings.com/page/csr/csr-6.html",
+"anchor": "員工關懷",
+"len": 22579
+},
+{
+"url": "http://www.kl-holdings.com/yearReport/contact.html",
+"anchor": "聯絡我們",
+"len": 1111
+},
+{
+"url": "http://www.kl-holdings.com/csr/contact.html",
+"anchor": "聯絡我們",
+"len": 1111
+},
+{
+"url": "http://www.kl-holdings.com/page/csr/contact.html",
+"anchor": "聯絡我們",
+"len": 1111
+}
+],
+"pdfs": {
+"http://www.kl-holdings.com/yearReport/pdf/annualreport/2021年報0613合併FIN.pdf": ""
+}
+}

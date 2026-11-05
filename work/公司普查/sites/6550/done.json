@@ -1,0 +1,134 @@
+{
+"pages": [
+{
+"url": "http://www.polarispharma.com",
+"anchor": "home",
+"len": 240410
+},
+{
+"url": "https://polarispharma.com/investors/",
+"anchor": "投資人專區",
+"len": 198987
+},
+{
+"url": "https://polarispharma.com/esg/",
+"anchor": "ESG",
+"len": 186728
+},
+{
+"url": "https://polarispharma.com/investors/?lang=en",
+"anchor": "EN",
+"len": 201014
+},
+{
+"url": "https://polarispharma.com/investors/company-overview/",
+"anchor": "集團架構",
+"len": 200376
+},
+{
+"url": "https://polarispharma.com/investors/organization-chart/",
+"anchor": "組織圖",
+"len": 200089
+},
+{
+"url": "https://polarispharma.com/investors/monthly-revenue/",
+"anchor": "每月營業收入",
+"len": 198419
+},
+{
+"url": "https://polarispharma.com/investors/financial-reports/",
+"anchor": "財務報告",
+"len": 198426
+},
+{
+"url": "https://polarispharma.com/investors/annual-report/",
+"anchor": "公司年報",
+"len": 199357
+},
+{
+"url": "https://polarispharma.com/investors/board-of-directors/",
+"anchor": "董事會",
+"len": 210979
+},
+{
+"url": "https://polarispharma.com/investors/functional-committee/",
+"anchor": "審計委員會",
+"len": 203667
+},
+{
+"url": "https://polarispharma.com/investors/compensation-committee/",
+"anchor": "薪酬委員會",
+"len": 201053
+},
+{
+"url": "https://polarispharma.com/investors/director-of-corporate-governance/",
+"anchor": "公司治理主管",
+"len": 199235
+},
+{
+"url": "https://polarispharma.com/investors/internal-audit/",
+"anchor": "內部稽核",
+"len": 199502
+},
+{
+"url": "https://polarispharma.com/investors/corporate-policy/",
+"anchor": "公司制度規章",
+"len": 201343
+},
+{
+"url": "https://polarispharma.com/investors/insider-trading/",
+"anchor": "防範內線交易管理",
+"len": 199003
+},
+{
+"url": "https://polarispharma.com/investors/integrity/",
+"anchor": "誠信經營",
+"len": 199486
+},
+{
+"url": "https://polarispharma.com/investors/information-security/",
+"anchor": "資訊安全",
+"len": 198973
+},
+{
+"url": "https://polarispharma.com/investors/major-shareholders/",
+"anchor": "主要股東名單",
+"len": 200732
+},
+{
+"url": "https://polarispharma.com/investors/shareholders-meeting/",
+"anchor": "股東會資訊",
+"len": 204175
+},
+{
+"url": "https://polarispharma.com/investors/investor-conference/",
+"anchor": "法人說明會",
+"len": 200737
+},
+{
+"url": "https://polarispharma.com/investors/mops/",
+"anchor": "公開資訊觀測站",
+"len": 199877
+},
+{
+"url": "https://polarispharma.com/investors/stakeholder-contact/",
+"anchor": "利害關係人聯絡",
+"len": 205719
+},
+{
+"url": "https://polarispharma.com/investors/csr/",
+"anchor": "永續發展政策",
+"len": 198929
+},
+{
+"url": "https://polarispharma.com/investors/happinessworkplace/",
+"anchor": "幸福職場",
+"len": 203026
+}
+],
+"pdfs": {
+"https://polarispharma.com/wp-content/uploads/2023/09/PolarisGroup-2022ESG-CH-final.pdf": "請按此下載報告書",
+"https://polarispharma.com/wp-content/uploads/2024/ESG/Polaris-2023ESG-CH-20240822.pdf": "請按此下載報告書",
+"https://polarispharma.com/wp-content/uploads/2026/08/北極星-2025ESG-CH.pdf": "請按此下載報告書"
+}
+}

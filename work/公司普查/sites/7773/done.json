@@ -1,0 +1,195 @@
+{
+"pages": [
+{
+"url": "http://www.fhb.com.tw",
+"anchor": "home",
+"len": 142658
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/",
+"anchor": "服務項目與對象",
+"len": 103080
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e5%85%8d%e7%96%ab%e7%b3%bb%e7%b5%b1%e5%88%86%e6%9e%90/",
+"anchor": "免疫功能分析",
+"len": 104576
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e5%be%aa%e7%92%b0%e8%85%ab%e7%98%a4%e7%b4%b0%e8%83%9e%e5%88%86%e6%9e%90/",
+"anchor": "循環腫瘤細胞分析",
+"len": 99119
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e5%85%8d%e7%96%ab%e7%b4%b0%e8%83%9e%e7%99%82%e6%b3%95/",
+"anchor": "特管辦法",
+"len": 98411
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e7%b4%b0%e8%83%9e%e8%a3%bd%e7%a8%8b%e4%bb%a3%e5%b7%a5/",
+"anchor": "細胞製程代工",
+"len": 97939
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e5%85%8d%e7%96%ab%e7%b4%b0%e8%83%9e%e5%84%b2%e5%ad%98/",
+"anchor": "免疫細胞儲存",
+"len": 97563
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e5%a7%94%e8%a8%97%e5%88%86%e6%9e%90%e6%9c%8d%e5%8b%99/",
+"anchor": "委託分析服務",
+"len": 97784
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e5%85%a7%e6%af%92%e7%b4%a0%e5%8f%8a%e9%bb%b4%e6%bc%bf%e8%8f%8c%e6%b8%ac%e8%a9%a6%e6%9c%8d%e5%8b%99/",
+"anchor": "內毒素及黴漿菌測試服務",
+"len": 104529
+},
+{
+"url": "https://www.fhb.com.tw/%e7%94%a2%e5%93%81%e9%96%8b%e7%99%bc/",
+"anchor": "產品開發",
+"len": 97538
+},
+{
+"url": "https://www.fhb.com.tw/%e7%94%a2%e5%93%81%e9%96%8b%e7%99%bc/%e7%a0%94%e7%99%bc%e6%8a%80%e8%a1%93/",
+"anchor": "診斷工具",
+"len": 96081
+},
+{
+"url": "https://www.fhb.com.tw/%e7%94%a2%e5%93%81%e9%96%8b%e7%99%bc/%e8%87%a8%e5%ba%8a%e8%a9%a6%e9%a9%97/",
+"anchor": "免疫細胞療法",
+"len": 97446
+},
+{
+"url": "https://www.fhb.com.tw/%e7%94%a2%e5%93%81%e9%96%8b%e7%99%bc/%e5%b0%88%e5%88%a9/",
+"anchor": "專利",
+"len": 100288
+},
+{
+"url": "http://www.fhb.com.tw/每月營業額報告/",
+"anchor": "投資人專區",
+"len": 95881
+},
+{
+"url": "https://www.fhb.com.tw/%e6%af%8f%e6%9c%88%e7%87%9f%e6%a5%ad%e9%a1%8d%e5%a0%b1%e5%91%8a/",
+"anchor": "財務資訊",
+"len": 95881
+},
+{
+"url": "http://www.fhb.com.tw/服務項目與對象/免疫功能分析/",
+"anchor": "",
+"len": 92657
+},
+{
+"url": "http://www.fhb.com.tw/服務項目與對象/免疫系統分析/",
+"anchor": "",
+"len": 104576
+},
+{
+"url": "http://www.fhb.com.tw/服務項目與對象/特管辦法/",
+"anchor": "",
+"len": 92603
+},
+{
+"url": "http://www.fhb.com.tw/服務項目與對象/免疫細胞療法/",
+"anchor": "",
+"len": 98411
+},
+{
+"url": "http://www.fhb.com.tw/服務項目與對象/委託分析服務/",
+"anchor": "",
+"len": 97784
+},
+{
+"url": "http://www.fhb.com.tw/服務項目與對象/循環腫瘤細胞分析/",
+"anchor": "",
+"len": 99119
+},
+{
+"url": "http://www.fhb.com.tw/服務項目與對象/細胞製劑代工/",
+"anchor": "",
+"len": 92657
+},
+{
+"url": "https://www.fhb.com.tw/2026/09/22/%e6%90%b6%e6%94%bb%e7%99%8c%e7%97%87%e7%b2%be%e6%ba%96%e6%b2%bb%e7%99%82%ef%bc%81%e5%af%8c%e7%a6%be%e7%94%9f%e9%86%ab%e5%9b%9b%e5%a4%a7%e5%86%8d%e7%94%9f%e9%86%ab%e7%99%82%e6%8a%80%e8%a1%93%e3%80%81/",
+"anchor": "",
+"len": 114864
+},
+{
+"url": "https://www.fhb.com.tw/2026/08/28/%e5%af%8c%e7%a6%be%e7%94%9f%e9%86%ab%e5%be%9e%e8%87%a8%e5%ba%8a%e9%9c%80%e6%b1%82%e6%89%93%e9%80%a0%e7%b2%be%e6%ba%96%e6%aa%a2%e6%b8%ac%e5%b9%b3%e5%8f%b0%e3%80%80ctc%e3%80%81%e5%85%8d%e7%96%ab/",
+"anchor": "富禾生醫從臨床需求打造精準檢測平台 CTC、免疫功能分析攜AI推進個人化醫療",
+"len": 112546
+},
+{
+"url": "https://www.fhb.com.tw/每月營業額報告/",
+"anchor": "投資人專區",
+"len": 95881
+},
+{
+"url": "https://www.fhb.com.tw/服務項目與對象/免疫系統分析/",
+"anchor": "READ MORE",
+"len": 104576
+},
+{
+"url": "https://www.fhb.com.tw/服務項目與對象/循環腫瘤細胞分析/",
+"anchor": "READ MORE",
+"len": 99119
+},
+{
+"url": "https://www.fhb.com.tw/服務項目與對象/免疫細胞療法/",
+"anchor": "READ MORE",
+"len": 98411
+},
+{
+"url": "https://www.fhb.com.tw/服務項目與對象/細胞製程代工/",
+"anchor": "READ MORE",
+"len": 97939
+},
+{
+"url": "https://www.fhb.com.tw/服務項目與對象/免疫細胞儲存/",
+"anchor": "READ MORE",
+"len": 97563
+},
+{
+"url": "https://www.fhb.com.tw/服務項目與對象/委託分析服務/",
+"anchor": "READ MORE",
+"len": 97784
+},
+{
+"url": "https://www.fhb.com.tw/產品開發/研發技術/",
+"anchor": "READ MORE",
+"len": 96081
+},
+{
+"url": "https://www.fhb.com.tw/產品開發/臨床試驗/",
+"anchor": "READ MORE",
+"len": 97446
+},
+{
+"url": "https://www.fhb.com.tw/產品開發/專利/",
+"anchor": "READ MORE",
+"len": 100288
+},
+{
+"url": "https://www.fhb.com.tw/%e8%82%a1%e6%9d%b1%e5%b8%b8%e6%9c%83/",
+"anchor": "股東常會",
+"len": 95877
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e5%85%8d%e7%96%ab%e5%8a%9f%e8%83%bd%e5%88%86%e6%9e%90/",
+"anchor": "繁體中文",
+"len": 92657
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e7%89%b9%e7%ae%a1%e8%be%a6%e6%b3%95/",
+"anchor": "繁體中文",
+"len": 92603
+},
+{
+"url": "https://www.fhb.com.tw/%e6%9c%8d%e5%8b%99%e9%a0%85%e7%9b%ae%e8%88%87%e5%b0%8d%e8%b1%a1/%e7%b4%b0%e8%83%9e%e8%a3%bd%e5%8a%91%e4%bb%a3%e5%b7%a5/",
+"anchor": "繁體中文",
+"len": 92657
+}
+],
+"pdfs": {}
+}

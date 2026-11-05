@@ -1,0 +1,234 @@
+{
+"pages": [
+{
+"url": "http://www.sinphar.com",
+"anchor": "home",
+"len": 16553
+},
+{
+"url": "http://www.sinphar.com/training",
+"anchor": "人才訓練中心",
+"len": 19612
+},
+{
+"url": "http://www.sinphar.com/csr?id=1",
+"anchor": "永續發展專區",
+"len": 16249
+},
+{
+"url": "http://www.sinphar.com/csr?id=2",
+"anchor": "社會關懷",
+"len": 17240
+},
+{
+"url": "http://www.sinphar.com/csr?id=3",
+"anchor": "節能減碳",
+"len": 16897
+},
+{
+"url": "http://www.sinphar.com/csr?id=4",
+"anchor": "環境安全",
+"len": 16992
+},
+{
+"url": "http://www.sinphar.com/csr?id=6",
+"anchor": "員工關懷",
+"len": 17767
+},
+{
+"url": "http://www.sinphar.com/csr?id=7",
+"anchor": "公司誠信經營",
+"len": 15730
+},
+{
+"url": "http://www.sinphar.com/csr?id=5",
+"anchor": "永續發展報告",
+"len": 18749
+},
+{
+"url": "http://www.sinphar.com/tech?id=1",
+"anchor": "技研與服務",
+"len": 17297
+},
+{
+"url": "http://www.sinphar.com/tech?id=2",
+"anchor": "研發核心",
+"len": 21254
+},
+{
+"url": "http://www.sinphar.com/tech?id=6",
+"anchor": "客戶服務",
+"len": 15708
+},
+{
+"url": "http://www.sinphar.com/products",
+"anchor": "商品資訊",
+"len": 22047
+},
+{
+"url": "http://www.sinphar.com/investors",
+"anchor": "投資人專區",
+"len": 20412
+},
+{
+"url": "http://www.sinphar.com/financial-report",
+"anchor": "財務報告",
+"len": 18602
+},
+{
+"url": "http://www.sinphar.com/shareholder",
+"anchor": "股東會專區",
+"len": 17693
+},
+{
+"url": "http://www.sinphar.com/connection",
+"anchor": "投資人聯絡",
+"len": 17531
+},
+{
+"url": "http://www.sinphar.com/csr",
+"anchor": "永續發展專區",
+"len": 16189
+},
+{
+"url": "http://www.sinphar.com/news-type?page=1&cls=2",
+"anchor": "財務資訊",
+"len": 20285
+},
+{
+"url": "http://www.sinphar.com/tech",
+"anchor": "技研與服務",
+"len": 17237
+},
+{
+"url": "http://www.sinphar.com/products-path",
+"anchor": "通路",
+"len": 315
+},
+{
+"url": "http://www.sinphar.com/products-subsidiary",
+"anchor": "子公司產品",
+"len": 315
+},
+{
+"url": "http://www.sinphar.com/products?id=1",
+"anchor": "產品 Products",
+"len": 22047
+},
+{
+"url": "http://www.sinphar.com/products?id=2",
+"anchor": "通路 Distributors",
+"len": 22047
+},
+{
+"url": "http://www.sinphar.com/products?id=3",
+"anchor": "子公司 Affiliates",
+"len": 22047
+},
+{
+"url": "http://www.sinphar.com/cn/training",
+"anchor": "简",
+"len": 15754
+},
+{
+"url": "http://www.sinphar.com/en/training",
+"anchor": "En",
+"len": 18016
+},
+{
+"url": "http://www.sinphar.com/training-environment?id=1",
+"anchor": "更多照片 職訓中心",
+"len": 4529
+},
+{
+"url": "http://www.sinphar.com/training-environment?id=2",
+"anchor": "更多照片 休憩區",
+"len": 3969
+},
+{
+"url": "http://www.sinphar.com/training-environment?id=3",
+"anchor": "更多照片 住宿區（家庭式套房）",
+"len": 3813
+},
+{
+"url": "http://www.sinphar.com/training-environment?id=5",
+"anchor": "更多照片 住宿區（雅仕&精緻套房）",
+"len": 3959
+},
+{
+"url": "http://www.sinphar.com/training-environment?id=4",
+"anchor": "更多照片 住宿區（尊榮套房）",
+"len": 3859
+},
+{
+"url": "http://www.sinphar.com/training-environment?id=6",
+"anchor": "更多照片 住宿區（總統套房）",
+"len": 3653
+},
+{
+"url": "http://www.sinphar.com/cn/csr?id=1",
+"anchor": "简",
+"len": 14865
+},
+{
+"url": "http://www.sinphar.com/en/csr?id=1",
+"anchor": "En",
+"len": 17319
+},
+{
+"url": "http://www.sinphar.com/cn/csr?id=2",
+"anchor": "简",
+"len": 15536
+},
+{
+"url": "http://www.sinphar.com/en/csr?id=2",
+"anchor": "En",
+"len": 19851
+},
+{
+"url": "http://www.sinphar.com/cn/csr?id=3",
+"anchor": "简",
+"len": 15327
+},
+{
+"url": "http://www.sinphar.com/en/csr?id=3",
+"anchor": "En",
+"len": 18513
+},
+{
+"url": "http://www.sinphar.com/cn/csr?id=4",
+"anchor": "简",
+"len": 15621
+},
+{
+"url": "http://www.sinphar.com/en/csr?id=4",
+"anchor": "En",
+"len": 18505
+},
+{
+"url": "http://www.sinphar.com/cn/csr?id=6",
+"anchor": "简",
+"len": 16199
+},
+{
+"url": "http://www.sinphar.com/en/csr?id=6",
+"anchor": "En",
+"len": 22470
+},
+{
+"url": "http://www.sinphar.com/cn/csr?id=7",
+"anchor": "简",
+"len": 13543
+},
+{
+"url": "http://www.sinphar.com/en/csr?id=7",
+"anchor": "En",
+"len": 16702
+}
+],
+"pdfs": {
+"http://www.sinphar.com/_upload/files/2025%E5%B9%B4%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8(%E4%B8%AD)%E6%9D%8F%E8%BC%9D1734.pdf": "2025年永續報告書",
+"http://www.sinphar.com/_upload/files/2024%E5%B9%B4%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8(%E4%B8%AD)%E6%9D%8F%E8%BC%9D1734_%E4%BF%AE%E6%AD%A3%E7%89%88.pdf": "2024年永續報告書",
+"http://www.sinphar.com/_upload/images/2606121325370.pdf": "2025年度年報"
+}
+}

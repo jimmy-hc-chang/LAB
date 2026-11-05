@@ -1,0 +1,50 @@
+{
+"pages": [
+{
+"url": "https://puriblood.com",
+"anchor": "home",
+"len": 143610
+},
+{
+"url": "https://puriblood.com/en/about/technology/",
+"anchor": "Technology",
+"len": 78508
+},
+{
+"url": "https://puriblood.com/en/leukoreduction/",
+"anchor": "Products",
+"len": 76917
+},
+{
+"url": "https://puriblood.com/zh/pipeline/",
+"anchor": "R&D Pipeline",
+"len": 62974
+},
+{
+"url": "https://puriblood.com/en/p-tex/",
+"anchor": "P-Tex Technology",
+"len": 76845
+},
+{
+"url": "https://puriblood.com/en/product-registration-for-malaysia-2/",
+"anchor": "Product Registration for Malaysia",
+"len": 77085
+},
+{
+"url": "https://puriblood.com/en/product-registration-for-malaysia/",
+"anchor": "Product Registration for Singapore",
+"len": 77069
+},
+{
+"url": "https://puriblood.com/en/product-registration-in-phase-process/",
+"anchor": "Product Registration in Phase (Process)",
+"len": 77101
+},
+{
+"url": "https://puriblood.com/en/investor-relations/",
+"anchor": "",
+"len": 76949
+}
+],
+"pdfs": {}
+}

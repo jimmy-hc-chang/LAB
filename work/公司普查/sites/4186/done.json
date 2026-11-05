@@ -1,0 +1,55 @@
+{
+"pages": [
+{
+"url": "http://www.biotest.com.tw",
+"anchor": "home",
+"len": 151945
+},
+{
+"url": "http://www.biotest.com.tw/certification",
+"anchor": "技術與認證",
+"len": 160676
+},
+{
+"url": "http://www.biotest.com.tw/drugs-rapid-tests",
+"anchor": "快篩試劑產品",
+"len": 110828
+},
+{
+"url": "http://www.biotest.com.tw/financial-report",
+"anchor": "財務報告",
+"len": 132252
+},
+{
+"url": "http://www.biotest.com.tw/Shareholders-meeting",
+"anchor": "股東會",
+"len": 163689
+},
+{
+"url": "http://www.biotest.com.tw/board-resolution",
+"anchor": "董事會重要決議",
+"len": 234891
+},
+{
+"url": "http://www.biotest.com.tw/corporate-social-responsibility",
+"anchor": "企業社會責任",
+"len": 77845
+},
+{
+"url": "http://www.biotest.com.tw/20260518news",
+"anchor": "尖端醫布局馬鈴薯「龍葵鹼」檢測快篩技術 搶攻新興食安檢測商機",
+"len": 102348
+},
+{
+"url": "http://www.biotest.com.tw/news260416-2",
+"anchor": "尖端醫「一體化技術」與「AI智慧轉型」征服南亞與東協市場",
+"len": 105878
+}
+],
+"pdfs": {
+"https://irp-cdn.multiscreensite.com/910a7028/files/uploaded/1130620-annualreport.pdf": "PDF",
+"https://irp-cdn.multiscreensite.com/910a7028/files/uploaded/108-Annual-Shareholders-Meeting-Minutes.pdf": "PDF",
+"https://irp-cdn.multiscreensite.com/910a7028/files/uploaded/108-4186handbook-for-Annual-Meeting.pdf": "PDF",
+"https://irp-cdn.multiscreensite.com/910a7028/files/uploaded/107-4186annualreport.pdf": "PDF"
+}
+}

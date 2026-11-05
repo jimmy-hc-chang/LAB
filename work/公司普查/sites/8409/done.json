@@ -1,0 +1,70 @@
+{
+"pages": [
+{
+"url": "https://www.ebmtech.com/tw",
+"anchor": "home",
+"len": 12366
+},
+{
+"url": "https://www.ebmtech.com/tw/enterprise/solipacs-report",
+"anchor": "SoliPACS® Report",
+"len": 11110
+},
+{
+"url": "https://www.ebmtech.com/tw/product/telemedicine",
+"anchor": "遠距醫療",
+"len": 10553
+},
+{
+"url": "https://www.ebmtech.com/tw/product/mobihis-app",
+"anchor": "MobiHIS App",
+"len": 10507
+},
+{
+"url": "https://www.ebmtech.com/tw/product/ude-app",
+"anchor": "UDE® App",
+"len": 10798
+},
+{
+"url": "https://www.ebmtech.com/tw/product/mobipacs",
+"anchor": "MobiPACS®",
+"len": 10897
+},
+{
+"url": "https://www.ebmtech.com/tw/product/fhr-app",
+"anchor": "FHR® App",
+"len": 10189
+},
+{
+"url": "https://www.ebmtech.com/tw/product/eps-pi",
+"anchor": "EPS Pi®",
+"len": 10399
+},
+{
+"url": "https://www.ebmtech.com/tw/product/agileris-app",
+"anchor": "AgileRIS App",
+"len": 10411
+},
+{
+"url": "https://www.ebmtech.com/tw/product/unigate-i-ugi-app",
+"anchor": "UniGate_i® (UGI) App",
+"len": 10596
+},
+{
+"url": "https://www.ebmtech.com/tw/product/xannotation-app",
+"anchor": "XAnnotation App",
+"len": 10452
+},
+{
+"url": "https://www.ebmtech.com/tw/product/pixdx-app",
+"anchor": "PixDx App",
+"len": 10197
+},
+{
+"url": "https://www.ebmtech.com/tw/product/excd",
+"anchor": "ExCD",
+"len": 10060
+}
+],
+"pdfs": {}
+}

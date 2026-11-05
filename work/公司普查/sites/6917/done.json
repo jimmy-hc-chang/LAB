@@ -1,0 +1,50 @@
+{
+"pages": [
+{
+"url": "http://www.androspharma.com",
+"anchor": "home",
+"len": 14000
+},
+{
+"url": "http://www.androspharma.com/en/technology_en.htm",
+"anchor": "Technology/Product",
+"len": 10544
+},
+{
+"url": "http://www.androspharma.com/en/technology-1_en.htm",
+"anchor": "Super Generics",
+"len": 7596
+},
+{
+"url": "http://www.androspharma.com/en/technology-2_en.htm",
+"anchor": "High-End Cosmetic Ingredient",
+"len": 7889
+},
+{
+"url": "http://www.androspharma.com/en/technology-3_en.htm",
+"anchor": "Gene Delivery System",
+"len": 8031
+},
+{
+"url": "http://www.androspharma.com/technology.htm",
+"anchor": "繁體中文",
+"len": 7249
+},
+{
+"url": "http://www.androspharma.com/technology-2.htm",
+"anchor": "繁體中文",
+"len": 6364
+},
+{
+"url": "http://www.androspharma.com/technology-1.htm",
+"anchor": "繁體中文",
+"len": 6278
+},
+{
+"url": "http://www.androspharma.com/technology-3.htm",
+"anchor": "繁體中文",
+"len": 5838
+}
+],
+"pdfs": {}
+}

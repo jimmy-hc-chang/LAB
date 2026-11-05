@@ -1,0 +1,230 @@
+{
+"pages": [
+{
+"url": "https://www.rbcbioscience.com/",
+"anchor": "home",
+"len": 52288
+},
+{
+"url": "https://www.rbcbioscience.com/investors.htm",
+"anchor": "Investors",
+"len": 39177
+},
+{
+"url": "https://www.rbcbioscience.com/product-all.htm",
+"anchor": "Products",
+"len": 37720
+},
+{
+"url": "https://www.rbcbioscience.com/product8-0-0.htm",
+"anchor": "Instruments",
+"len": 42083
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-0.htm",
+"anchor": "Kits",
+"len": 84162
+},
+{
+"url": "https://www.rbcbioscience.com/product51-0-0.htm",
+"anchor": "Large Volume Kits",
+"len": 42948
+},
+{
+"url": "https://www.rbcbioscience.com/investors-detail1-0-0.htm",
+"anchor": "財務資訊",
+"len": 48626
+},
+{
+"url": "https://www.rbcbioscience.com/investors-list-19-0-0.htm",
+"anchor": "公司治理",
+"len": 49944
+},
+{
+"url": "https://www.rbcbioscience.com/investors-list-29-0-0.htm",
+"anchor": "企業社會責任",
+"len": 49531
+},
+{
+"url": "https://www.rbcbioscience.com/investors-detail96-0-0.htm",
+"anchor": "利害關係人服務中心",
+"len": 48354
+},
+{
+"url": "https://www.rbcbioscience.com/product-detail105.htm",
+"anchor": "Giga Cat.No.:MCA0802 MagCore® Giga Automated Nucleic Acid Extractor Large-volume",
+"len": 54927
+},
+{
+"url": "https://www.rbcbioscience.com/product-detail7.htm",
+"anchor": "Plus II Cat.No.:MCA1605 MagCore® Plus II Automated Nucleic Acid Extractor Full t",
+"len": 55434
+},
+{
+"url": "https://www.rbcbioscience.com/product-detail2.htm",
+"anchor": "EDA Cat.No.:MDA4802 MagCore® EDA Automatic Extraction and Smart PCR Setup NA Ext",
+"len": 56837
+},
+{
+"url": "https://www.rbcbioscience.com/newsroom-detail80.htm",
+"anchor": "03 2026 Aug Exhibition RBC Bioscience in ESMO Expo 2026",
+"len": 39155
+},
+{
+"url": "https://www.rbcbioscience.com/newsroom-detail79.htm",
+"anchor": "09 2026 Jun Exhibition RBC Bioscience in Meditech Expo 2026",
+"len": 39189
+},
+{
+"url": "https://www.rbcbioscience.com/newsroom-detail76.htm",
+"anchor": "11 2024 Dec News RBC Bioscience wishing you a Merry Christmas.",
+"len": 39063
+},
+{
+"url": "https://www.rbcbioscience.com/newsroom-detail78.htm",
+"anchor": "11 2024 Nov Exhibition RBC Bioscience in Medica 2024",
+"len": 39829
+},
+{
+"url": "https://www.rbcbioscience.com/newsroom-detail12.htm",
+"anchor": "17 2023 Oct Exhibition RBC Bioscience in Medica 2023",
+"len": 39824
+},
+{
+"url": "https://www.rbcbioscience.com/newsroom-detail70.htm",
+"anchor": "15 2023 Jun Exhibition RBC Bioscience in AACC 2023",
+"len": 39748
+},
+{
+"url": "https://www.rbcbioscience.com/product.htm",
+"anchor": "Products",
+"len": 42058
+},
+{
+"url": "https://www.rbcbioscience.com/en/investors.htm",
+"anchor": "EN",
+"len": 39177
+},
+{
+"url": "https://www.rbcbioscience.com/en/product-all.htm",
+"anchor": "EN",
+"len": 37720
+},
+{
+"url": "https://www.rbcbioscience.com/en/product8-0-0.htm",
+"anchor": "EN",
+"len": 42083
+},
+{
+"url": "https://www.rbcbioscience.com/product-detail10.htm",
+"anchor": "Super MagCore® Super Automated Nucleic Acid Extractor The first instrument with ",
+"len": 56683
+},
+{
+"url": "https://www.rbcbioscience.com/en/product9-0-0.htm",
+"anchor": "EN",
+"len": 84162
+},
+{
+"url": "https://www.rbcbioscience.com/product9-1-0.htm",
+"anchor": "NGS",
+"len": 38712
+},
+{
+"url": "https://www.rbcbioscience.com/product9-2-0.htm",
+"anchor": "Genomic DNA",
+"len": 67397
+},
+{
+"url": "https://www.rbcbioscience.com/product9-3-0.htm",
+"anchor": "Viral Nucleic Acids",
+"len": 43425
+},
+{
+"url": "https://www.rbcbioscience.com/product9-4-0.htm",
+"anchor": "Total RNA",
+"len": 45484
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-1.htm",
+"anchor": "PCR Product",
+"len": 84596
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-2.htm",
+"anchor": "Whole Blood",
+"len": 84496
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-3.htm",
+"anchor": "Buffy Coat",
+"len": 84576
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-4.htm",
+"anchor": "Plasma/Serum",
+"len": 84496
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-5.htm",
+"anchor": "Cell-free body fluids",
+"len": 84496
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-6.htm",
+"anchor": "Urine",
+"len": 84556
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-7.htm",
+"anchor": "Free circulating DNA",
+"len": 84576
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-8.htm",
+"anchor": "FFPE",
+"len": 84556
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-9.htm",
+"anchor": "Amniotic Fluid",
+"len": 84596
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-10.htm",
+"anchor": "Cultured Cells",
+"len": 84561
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-11.htm",
+"anchor": "Animal Tissue",
+"len": 84581
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-12.htm",
+"anchor": "Plant Tissue",
+"len": 84581
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-13.htm",
+"anchor": "Bacteria/Sputum",
+"len": 84581
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-14.htm",
+"anchor": "Swab",
+"len": 84581
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-15.htm",
+"anchor": "Stool",
+"len": 84581
+},
+{
+"url": "https://www.rbcbioscience.com/product9-0-16.htm",
+"anchor": "Forensic Specimens",
+"len": 84581
+}
+],
+"pdfs": {}
+}

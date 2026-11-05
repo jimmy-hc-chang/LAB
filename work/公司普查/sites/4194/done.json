@@ -1,0 +1,80 @@
+{
+"pages": [
+{
+"url": "http://www.hshc.com.tw",
+"anchor": "home",
+"len": 15971
+},
+{
+"url": "http://www.hshc.com.tw/en/hdd_main.php",
+"anchor": "Platform",
+"len": 10392
+},
+{
+"url": "http://www.hshc.com.tw/en/investor.php",
+"anchor": "Investors",
+"len": 10558
+},
+{
+"url": "https://www.hshc.com.tw/en/hdd_main.php",
+"anchor": "",
+"len": 10392
+},
+{
+"url": "https://www.hshc.com.tw/en/hdd_main.php?-d+allow_url_include=1+-d+auto_prepend_file=php://input",
+"anchor": "HylX drug delivery platform",
+"len": 10392
+},
+{
+"url": "http://www.hshc.com.tw/en/en/hdd_main.php",
+"anchor": "EN",
+"len": 12321
+},
+{
+"url": "http://www.hshc.com.tw/en/zh-tw/hdd_main.php",
+"anchor": "繁中",
+"len": 12321
+},
+{
+"url": "http://www.hshc.com.tw/en/jp/hdd_main.php",
+"anchor": "JP",
+"len": 12321
+},
+{
+"url": "http://www.hshc.com.tw/en/en/investor.php",
+"anchor": "Investors",
+"len": 12321
+},
+{
+"url": "http://www.hshc.com.tw/en/zh-tw/investor.php",
+"anchor": "繁中",
+"len": 12321
+},
+{
+"url": "http://www.hshc.com.tw/en/jp/investor.php",
+"anchor": "JP",
+"len": 12321
+},
+{
+"url": "https://www.hshc.com.tw/en/en/hdd_main.php",
+"anchor": "EN",
+"len": 12321
+},
+{
+"url": "https://www.hshc.com.tw/en/zh-tw/hdd_main.php",
+"anchor": "繁中",
+"len": 12321
+},
+{
+"url": "https://www.hshc.com.tw/en/jp/hdd_main.php",
+"anchor": "JP",
+"len": 12321
+},
+{
+"url": "https://www.hshc.com.tw/en/en/investor.php",
+"anchor": "Investors",
+"len": 12321
+}
+],
+"pdfs": {}
+}

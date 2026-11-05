@@ -1,0 +1,230 @@
+{
+"pages": [
+{
+"url": "http://www.meribank.com.tw",
+"anchor": "home",
+"len": 120855
+},
+{
+"url": "https://www.meribank.com.tw/project/",
+"anchor": "專案與產品",
+"len": 79602
+},
+{
+"url": "https://www.meribank.com.tw/about/11/",
+"anchor": "企業社會責任",
+"len": 86109
+},
+{
+"url": "https://www.meribank.com.tw/quality/",
+"anchor": "技術與認證",
+"len": 97390
+},
+{
+"url": "https://www.meribank.com.tw/qa/product_faq/",
+"anchor": "產品問題",
+"len": 78682
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass/Keelung-taipei/",
+"anchor": "北北基",
+"len": 135327
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass/taichung-nantou/",
+"anchor": "中區",
+"len": 135934
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass/yilan-taitung/",
+"anchor": "宜花東",
+"len": 116659
+},
+{
+"url": "https://www.meribank.com.tw/investor/",
+"anchor": "投資人專區",
+"len": 80886
+},
+{
+"url": "https://www.meribank.com.tw/investor/Monthly-Revenue/",
+"anchor": "財務資訊",
+"len": 80938
+},
+{
+"url": "https://www.meribank.com.tw/investor/40/",
+"anchor": "股東專欄",
+"len": 84082
+},
+{
+"url": "https://www.meribank.com.tw/news-detail/NEWS20250605/",
+"anchor": "詳閱報導",
+"len": 82303
+},
+{
+"url": "https://www.meribank.com.tw/news-detail/meribankshh/",
+"anchor": "詳閱報導",
+"len": 81045
+},
+{
+"url": "https://www.meribank.com.tw/news-detail/NEWS20250909-CTWANT/",
+"anchor": "詳閱報導",
+"len": 82145
+},
+{
+"url": "https://www.meribank.com.tw/news-detail/NEWS20250402/",
+"anchor": "金孕獎",
+"len": 81565
+},
+{
+"url": "https://www.meribank.com.tw/news-detail/NEWS20241227/",
+"anchor": "抗癌國家隊",
+"len": 81107
+},
+{
+"url": "https://www.meribank.com.tw/news-detail/68__5/",
+"anchor": "【存戶活動】宣捷特輯_2027 羊溢幸福 守護初生 開募啦!!!",
+"len": 80195
+},
+{
+"url": "https://www.meribank.com.tw/news-detail/160/",
+"anchor": "宣捷組NK細胞治療盟軍 揪2大咖拚今年底落地",
+"len": 81706
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2818/",
+"anchor": "",
+"len": 118200
+},
+{
+"url": "https://www.meribank.com.tw/project-detail/msc/",
+"anchor": "",
+"len": 83922
+},
+{
+"url": "https://www.meribank.com.tw/project-detail/blood/",
+"anchor": "",
+"len": 83532
+},
+{
+"url": "https://www.meribank.com.tw/project-detail/immunocyte/",
+"anchor": "",
+"len": 82264
+},
+{
+"url": "https://www.meribank.com.tw/quality/quality/",
+"anchor": "技術與認證",
+"len": 97390
+},
+{
+"url": "https://www.meribank.com.tw/member/login/?refererUrl=https%3A%2F%2Fwww.meribank.com.tw%2Fqa%2Fproduct_faq%2F",
+"anchor": "",
+"len": 83151
+},
+{
+"url": "https://www.meribank.com.tw/member/login/?refererUrl=https%3A%2F%2Fwww.meribank.com.tw%2FparentsClass%2FKeelung-taipei%2F",
+"anchor": "",
+"len": 83203
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2859/",
+"anchor": "",
+"len": 121852
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2703/",
+"anchor": "",
+"len": 122148
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2847/",
+"anchor": "",
+"len": 121983
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2720/",
+"anchor": "",
+"len": 121974
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2830/",
+"anchor": "",
+"len": 121840
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2897/",
+"anchor": "",
+"len": 121832
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2860/",
+"anchor": "",
+"len": 121784
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2848/",
+"anchor": "",
+"len": 121862
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2861/",
+"anchor": "",
+"len": 121835
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass/Keelung-taipei/?page=2",
+"anchor": "2",
+"len": 135178
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass/Keelung-taipei/?page=3",
+"anchor": "3",
+"len": 135692
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass/Keelung-taipei/?page=4",
+"anchor": "4",
+"len": 135806
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass/Keelung-taipei/?page=5",
+"anchor": "5",
+"len": 119536
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2905/",
+"anchor": "",
+"len": 121793
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2904/",
+"anchor": "",
+"len": 121879
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2903/",
+"anchor": "",
+"len": 94515
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2902/",
+"anchor": "",
+"len": 121796
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2901/",
+"anchor": "",
+"len": 121776
+},
+{
+"url": "https://www.meribank.com.tw/member/login/?refererUrl=https%3A%2F%2Fwww.meribank.com.tw%2FparentsClass%2Ftaichung-nantou%2F",
+"anchor": "",
+"len": 83207
+},
+{
+"url": "https://www.meribank.com.tw/parentsClass-detail/2799/",
+"anchor": "",
+"len": 122187
+}
+],
+"pdfs": {}
+}

@@ -1,0 +1,175 @@
+{
+"pages": [
+{
+"url": "https://tw.smobio.com",
+"anchor": "home",
+"len": 54240
+},
+{
+"url": "https://tw.smobio.com/shop",
+"anchor": "全部產品",
+"len": 190656
+},
+{
+"url": "https://tw.smobio.com/shop/category/protein-stains-32",
+"anchor": "蛋白質染色",
+"len": 102400
+},
+{
+"url": "https://tw.smobio.com/-2",
+"anchor": "財務資訊",
+"len": 41426
+},
+{
+"url": "https://tw.smobio.com/-3",
+"anchor": "股東服務",
+"len": 51687
+},
+{
+"url": "https://tw.smobio.com/-4",
+"anchor": "投資人關係",
+"len": 39849
+},
+{
+"url": "https://tw.smobio.com/faq",
+"anchor": "技術支援",
+"len": 45408
+},
+{
+"url": "https://tw.smobio.com/innovative-r-d-1",
+"anchor": "RNA 新創技術",
+"len": 40757
+},
+{
+"url": "https://tw.smobio.com/shop/category/nucleic-acid-dntp-single-solutions-36",
+"anchor": "",
+"len": 118289
+},
+{
+"url": "https://tw.smobio.com/shop/product/ck1000-ck1000-championtm-e-coli-transformation-kit-200-rxn-217?category=29",
+"anchor": "",
+"len": 122756
+},
+{
+"url": "https://tw.smobio.com/shop/category/核酸-dntp-single-solutions-36",
+"anchor": "dNTP Single Solutions",
+"len": 118289
+},
+{
+"url": "https://tw.smobio.com/shop/category/蛋白質染色-protein-fluorescent-staining-dyes-15",
+"anchor": "Protein Fluorescent Staining Dyes",
+"len": 103349
+},
+{
+"url": "https://tw.smobio.com/shop/category/dna染劑-dna-fluorescent-staining-dyes-9",
+"anchor": "DNA Fluorescent Staining Dyes",
+"len": 114372
+},
+{
+"url": "https://tw.smobio.com/shop/ps1001-fluorostaintm-sds-page蛋白質專用紅色螢光染劑-1-ml-x-5-468",
+"anchor": "",
+"len": 85668
+},
+{
+"url": "https://tw.smobio.com/shop/ds1001-fluorostaintm藍光-紫外光雙用萬倍螢光dna無毒安全染料-500-μl-x-5-466",
+"anchor": "",
+"len": 102303
+},
+{
+"url": "https://tw.smobio.com/shop/蛋白質染色-32/ps1001-fluorostaintm-sds-page蛋白質專用紅色螢光染劑-1-ml-x-5-468",
+"anchor": "",
+"len": 84864
+},
+{
+"url": "https://tw.smobio.com/shop/蛋白質染色-32/ps1000-ps1000-fluorostaintm-sds-page蛋白質專用紅色螢光染劑-1-ml-340",
+"anchor": "",
+"len": 88234
+},
+{
+"url": "https://tw.smobio.com/shop/category/核酸-dntp-single-solutions-36?order=website_sequence+asc",
+"anchor": "精選",
+"len": 120922
+},
+{
+"url": "https://tw.smobio.com/shop/category/核酸-dntp-single-solutions-36?order=publish_date+desc",
+"anchor": "最新到貨",
+"len": 120630
+},
+{
+"url": "https://tw.smobio.com/shop/category/核酸-dntp-single-solutions-36?order=name+asc",
+"anchor": "名稱 (A-Z)",
+"len": 119752
+},
+{
+"url": "https://tw.smobio.com/shop/category/核酸-dntp-single-solutions-36?order=list_price+asc",
+"anchor": "價格 － 低至高",
+"len": 120340
+},
+{
+"url": "https://tw.smobio.com/shop/category/核酸-dntp-single-solutions-36?order=list_price+desc",
+"anchor": "價格 － 高至低",
+"len": 120438
+},
+{
+"url": "https://tw.smobio.com/shop/核酸-dntp-single-solutions-36/cd7000-cd7000-smochemtm去氧尿苷三磷酸溶液-dutp-鈉鹽-100-mm-25-ml-421",
+"anchor": "",
+"len": 102590
+},
+{
+"url": "https://tw.smobio.com/shop/核酸-dntp-single-solutions-36/cd4000-cd4000-smochemtm去氧胸苷三磷酸溶液-dttp-鈉鹽-100-mm-25-ml-386",
+"anchor": "",
+"len": 105695
+},
+{
+"url": "https://tw.smobio.com/shop/核酸-dntp-single-solutions-36/cd6000-cd6000-smochemtm去氧鳥苷三磷酸溶液-dgtp-鈉鹽-100-mm-25-ml-383",
+"anchor": "",
+"len": 104164
+},
+{
+"url": "https://tw.smobio.com/shop/核酸-dntp-single-solutions-36/cd5000-cd5000-smochemtm去氧胞苷三磷酸溶液-dctp-鈉鹽-100-mm-25-ml-374",
+"anchor": "",
+"len": 103926
+},
+{
+"url": "https://tw.smobio.com/shop/核酸-dntp-single-solutions-36/cd3000-cd3000-smochemtm去氧腺苷三磷酸溶液-datp-鈉鹽-100-mm-25-ml-371",
+"anchor": "",
+"len": 110067
+},
+{
+"url": "https://tw.smobio.com/shop/product/tf1000-tf1000-smo-hifitm-dna-polymerase-1-u-l-100-u-389?category=16",
+"anchor": "[TF1000] SMO-HiFi™ DNA Polymerase, (1 U/μl, 100 U)",
+"len": 121181
+},
+{
+"url": "https://tw.smobio.com/shop/product/tf3000-tf3000-g-hifitm-dna-polymerase-1-u-l-100-u-387?category=16",
+"anchor": "[TF3000] G-HiFi™ DNA Polymerase, (1 U/μl, 100 U)",
+"len": 121978
+},
+{
+"url": "https://tw.smobio.com/shop/product/ns1000-ns1000-fluorovuetm-nucleic-acid-gel-stain-10-000x-500-l-342?category=33",
+"anchor": "[NS1000] FluoroVue™ Nucleic Acid Gel Stain (10,000X), 500 μl",
+"len": 105998
+},
+{
+"url": "https://tw.smobio.com/shop/product/ds1000-ds1000-fluorostaintm-dna-fluorescent-staining-dye-green-10-000x-500-l-334?category=33",
+"anchor": "[DS1000] FluoroStain™ DNA Fluorescent Staining Dye (Green, 10,000X), 500 μl",
+"len": 106877
+},
+{
+"url": "https://tw.smobio.com/shop/product/dl5000-dl5000-fluorodyetm-dna-fluorescent-loading-dye-green-6x-1-ml-331?category=33",
+"anchor": "[DL5000] FluoroDye™ DNA Fluorescent Loading Dye (Green, 6X), 1 ml",
+"len": 84961
+},
+{
+"url": "https://tw.smobio.com/shop/product/tp1100-tp1100-exceltaqtm-5x-pcr-master-mix-200-rxn-302?category=17",
+"anchor": "[TP1100] ExcelTaq™ 5X PCR Master Mix, 200 Rxn",
+"len": 101169
+},
+{
+"url": "https://tw.smobio.com/shop/product/tp1200-tp1200-exceltaqtm-5x-pcr-master-dye-mix-200-rxn-300?category=17",
+"anchor": "[TP1200] ExcelTaq™ 5X PCR Master Dye Mix, 200 Rxn",
+"len": 86173
+}
+],
+"pdfs": {}
+}

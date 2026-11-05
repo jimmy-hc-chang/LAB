@@ -1,0 +1,75 @@
+{
+"pages": [
+{
+"url": "http://www.innopharmax.com.tw",
+"anchor": "home",
+"len": 16890
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_Pipeline.asp",
+"anchor": "R&D",
+"len": 25396
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_Technology.asp?hidTechnologyID=2",
+"anchor": "D07001 GemOral",
+"len": 17460
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_Technology.asp?hidTechnologyID=3",
+"anchor": "D0191801 Oral Insulin",
+"len": 17294
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_Technology.asp?hidTechnologyID=4",
+"anchor": "D0282102 Bendamustine RTD",
+"len": 16566
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_ShowroomItem.asp",
+"anchor": "Products",
+"len": 25187
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_Finance.asp",
+"anchor": "Investors",
+"len": 23898
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_Shareholder.asp?hidShareholderCatID=1",
+"anchor": "Annual Reports",
+"len": 21510
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_News_Detail.asp?hidNewsID=82",
+"anchor": "2026/10/14 InnoPharmax Invites You to Follow BIO-Europe 2026 in Cologne from Nov",
+"len": 19627
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_News_Detail.asp?hidNewsID=81",
+"anchor": "2026/09/08 InnoPharmax Invites You to Follow CPHI 2026 in Milan from October 6 t",
+"len": 19801
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_News_Detail.asp?hidNewsID=80",
+"anchor": "2026/08/17 InnoPharmax Licensed Product Receives Marketing Authorization in Spai",
+"len": 18912
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_News_Detail.asp?hidNewsID=79",
+"anchor": "2026/07/29 InnoPharmax Announces First Patient In for Global Phase 3 Trial of Ge",
+"len": 19992
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_News_Detail.asp?hidNewsID=78",
+"anchor": "2026/06/11 InnoPharmax’s official Linkedin page is now live",
+"len": 17817
+},
+{
+"url": "http://www.innopharmax.com.tw/ugC_Technology.asp",
+"anchor": "",
+"len": 17460
+}
+],
+"pdfs": {}
+}

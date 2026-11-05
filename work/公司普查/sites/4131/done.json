@@ -1,0 +1,63 @@
+{
+"pages": [
+{
+"url": "http://www.neocore.com.tw",
+"anchor": "home",
+"len": 333608
+},
+{
+"url": "https://www.neocore.com.tw/product/",
+"anchor": "產品服務",
+"len": 205267
+},
+{
+"url": "https://www.neocore.com.tw/core-skill/",
+"anchor": "核心技術",
+"len": 220682
+},
+{
+"url": "https://www.neocore.com.tw/finance-inforamation/",
+"anchor": "投資人專區",
+"len": 223430
+},
+{
+"url": "https://www.neocore.com.tw/shareholder/",
+"anchor": "股東會",
+"len": 215836
+},
+{
+"url": "https://www.neocore.com.tw/institutional-investor/",
+"anchor": "法說會",
+"len": 223902
+},
+{
+"url": "https://www.neocore.com.tw/en/product/",
+"anchor": "EN",
+"len": 214321
+},
+{
+"url": "https://www.neocore.com.tw/product/itemDataObject.url",
+"anchor": "{{ itemDataObject.badgeText }}",
+"len": 191078
+},
+{
+"url": "https://www.neocore.com.tw/en/core-technology/",
+"anchor": "EN",
+"len": 218733
+},
+{
+"url": "https://www.neocore.com.tw/institutional-investor/itemDataObject.url",
+"anchor": "{{ itemDataObject.badgeText }}",
+"len": 191078
+}
+],
+"pdfs": {
+"https://neocore.com.tw/wp-content/uploads/110年報.pdf": "",
+"https://neocore.com.tw/wp-content/uploads/111年報.pdf": "",
+"https://www.neocore.com.tw/wp-content/uploads/浩泰_112年度年報.pdf": "",
+"https://www.neocore.com.tw/wp-content/uploads/113年年報議事手冊.pdf": "",
+"https://www.neocore.com.tw/wp-content/uploads/113年股東會年報-1.pdf": "",
+"https://www.neocore.com.tw/wp-content/uploads/113年股東會年報.pdf": "",
+"https://www.neocore.com.tw/wp-content/uploads/115年股東會年報.pdf": ""
+}
+}

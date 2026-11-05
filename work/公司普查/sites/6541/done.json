@@ -1,0 +1,44 @@
+{
+"pages": [
+{
+"url": "http://www.tanvex.com",
+"anchor": "home",
+"len": 12645
+},
+{
+"url": "http://www.tanvex.com/development.php",
+"anchor": "Products",
+"len": 14750
+},
+{
+"url": "http://www.tanvex.com/investor.php",
+"anchor": "Investors",
+"len": 43340
+}
+],
+"pdfs": {
+"http://www.tanvex.com/PDF/Investor/2022CSR_EN_C7.pdf": "2022",
+"http://www.tanvex.com/PDF/Investor/泰福生技_2024永續報告書_英文_FINAL.pdf": "2024",
+"http://www.tanvex.com/PDF/Investor/泰福ESG手冊_英文版_出8校_0917.pdf": "2025",
+"http://www.tanvex.com/PDF/Financial/2015 General Annual Meeting - Meeting Announcement.pdf": "2016",
+"http://www.tanvex.com/PDF/Financial/2016 General Annual Meeting - Meeting Announcement.pdf": "2017",
+"http://www.tanvex.com/PDF/Financial/2017 General Annual Meeting - Meeting Announcement.pdf": "2018",
+"http://www.tanvex.com/PDF/Financial/2019 General Annual Meeting1.pdf": "2019",
+"http://www.tanvex.com/PDF/Financial/2020 General Annual Meeting1 en.pdf": "2020",
+"http://www.tanvex.com/PDF/Investor/2021 General Annual Meeting1 en.pdf": "2021",
+"http://www.tanvex.com/PDF/Financial/2015 General Annual Meeting - Meeting Agenda and Materials.pdf": "2016",
+"http://www.tanvex.com/PDF/Financial/2019 General Annual Meeting4.pdf": "2019",
+"http://www.tanvex.com/PDF/Financial/2020 General Annual Meeting2 en.pdf": "2020",
+"http://www.tanvex.com/PDF/Financial/2015 Annual Report (EN).pdf": "2015",
+"http://www.tanvex.com/PDF/Financial/2016 Annual Report (EN).pdf": "2016",
+"http://www.tanvex.com/PDF/Financial/2017 Annual Report (EN).pdf": "2017",
+"http://www.tanvex.com/PDF/Financial/2018 Annual Report (EN).pdf": "2018",
+"http://www.tanvex.com/PDF/Financial/2019 Annual Report (EN).pdf": "2019",
+"http://www.tanvex.com/PDF/Financial/2020 Annual Report (EN).pdf": "2020",
+"http://www.tanvex.com/PDF/Investor/2021 Annual report.pdf": "2021",
+"http://www.tanvex.com/PDF/Investor/Tanvex 2022 Annual Report.pdf": "2022",
+"http://www.tanvex.com/PDF/Investor/Tanvex 2023 Annual Report.pdf": "2023",
+"http://www.tanvex.com/PDF/Investor/Tanvex 2024 Annual Report.pdf": "2024",
+"http://www.tanvex.com/PDF/Investor/泰福2025英文年報.pdf": "2025"
+}
+}

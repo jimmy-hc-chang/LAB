@@ -1,0 +1,233 @@
+{
+"pages": [
+{
+"url": "https://www.medigen.com.tw",
+"anchor": "home",
+"len": 17850
+},
+{
+"url": "https://www.medigen.com.tw/development",
+"anchor": "技術研究",
+"len": 19000
+},
+{
+"url": "https://www.medigen.com.tw/research",
+"anchor": "研發成果",
+"len": 23980
+},
+{
+"url": "https://www.medigen.com.tw/esg_about",
+"anchor": "永續發展",
+"len": 19314
+},
+{
+"url": "https://www.medigen.com.tw/esg_governance",
+"anchor": "公司治理",
+"len": 18339
+},
+{
+"url": "https://www.medigen.com.tw/esg_climate",
+"anchor": "環境保護",
+"len": 18435
+},
+{
+"url": "https://www.medigen.com.tw/esg_diversity",
+"anchor": "社會共融",
+"len": 18293
+},
+{
+"url": "https://www.medigen.com.tw/esg_download",
+"anchor": "ESG資料庫",
+"len": 19499
+},
+{
+"url": "https://www.medigen.com.tw/governance_directors",
+"anchor": "投資人關係",
+"len": 46563
+},
+{
+"url": "https://www.medigen.com.tw/investor_financial",
+"anchor": "財務訊息",
+"len": 18903
+},
+{
+"url": "https://www.medigen.com.tw/investor_shareholders",
+"anchor": "股東專區",
+"len": 16637
+},
+{
+"url": "https://www.medigen.com.tw/investor_information",
+"anchor": "重大訊息",
+"len": 19652
+},
+{
+"url": "https://www.medigen.com.tw/investor_stock",
+"anchor": "問答集",
+"len": 15315
+},
+{
+"url": "https://www.medigen.com.tw/careers_sustainability",
+"anchor": "永續人才",
+"len": 15402
+},
+{
+"url": "https://www.medigen.com.tw/investor_contact",
+"anchor": "聯絡我們",
+"len": 20111
+},
+{
+"url": "https://www.medigen.com.tw/news_view?id=173",
+"anchor": "2026/07/17 最新消息 基亞集團澳洲公司Adara研發新進程 - 與啟弘生技簽署合作協議",
+"len": 15909
+},
+{
+"url": "https://www.medigen.com.tw/cn/esg_about",
+"anchor": "簡體中文",
+"len": 19036
+},
+{
+"url": "https://www.medigen.com.tw/en/esg_about",
+"anchor": "English",
+"len": 23605
+},
+{
+"url": "https://www.medigen.com.tw/esg_organize",
+"anchor": "永續推動組織",
+"len": 18818
+},
+{
+"url": "https://www.medigen.com.tw/esg_communication",
+"anchor": "利害關係人議合與重大議題",
+"len": 18539
+},
+{
+"url": "https://www.medigen.com.tw/esg_highlights",
+"anchor": "永績亮點績效",
+"len": 19281
+},
+{
+"url": "https://www.medigen.com.tw/esg_sdgs",
+"anchor": "SDGs回應",
+"len": 18519
+},
+{
+"url": "https://www.medigen.com.tw/esg_decree",
+"anchor": "法令遵循",
+"len": 23007
+},
+{
+"url": "https://www.medigen.com.tw/esg_safety",
+"anchor": "產品安全",
+"len": 18241
+},
+{
+"url": "https://www.medigen.com.tw/esg_supply",
+"anchor": "永續供應鏈",
+"len": 18531
+},
+{
+"url": "https://www.medigen.com.tw/esg_responsibility",
+"anchor": "永續發展情形",
+"len": 28102
+},
+{
+"url": "https://www.medigen.com.tw/esg_ghg",
+"anchor": "溫室氣體排放",
+"len": 18284
+},
+{
+"url": "https://www.medigen.com.tw/esg_water",
+"anchor": "水資源管理",
+"len": 18605
+},
+{
+"url": "https://www.medigen.com.tw/esg_waste",
+"anchor": "廢棄物管理",
+"len": 18424
+},
+{
+"url": "https://www.medigen.com.tw/esg_labor",
+"anchor": "勞動人權",
+"len": 18214
+},
+{
+"url": "https://www.medigen.com.tw/esg_talent",
+"anchor": "人才吸引、留任與發展",
+"len": 18346
+},
+{
+"url": "https://www.medigen.com.tw/esg_workplace",
+"anchor": "健康與安全的工作環境",
+"len": 18497
+},
+{
+"url": "https://www.medigen.com.tw/esg_social",
+"anchor": "社會參與",
+"len": 18276
+},
+{
+"url": "https://www.medigen.com.tw/esg_system",
+"anchor": "政策聲明書及管理",
+"len": 18480
+},
+{
+"url": "https://www.medigen.com.tw/cn/esg_governance",
+"anchor": "簡體中文",
+"len": 18065
+},
+{
+"url": "https://www.medigen.com.tw/en/esg_governance",
+"anchor": "English",
+"len": 20360
+},
+{
+"url": "https://www.medigen.com.tw/cn/esg_climate",
+"anchor": "簡體中文",
+"len": 18163
+},
+{
+"url": "https://www.medigen.com.tw/en/esg_climate",
+"anchor": "English",
+"len": 20383
+},
+{
+"url": "https://www.medigen.com.tw/cn/esg_diversity",
+"anchor": "簡體中文",
+"len": 18020
+},
+{
+"url": "https://www.medigen.com.tw/en/esg_diversity",
+"anchor": "English",
+"len": 20037
+},
+{
+"url": "https://www.medigen.com.tw/cn/esg_download",
+"anchor": "簡體中文",
+"len": 19225
+},
+{
+"url": "https://www.medigen.com.tw/en/esg_download",
+"anchor": "English",
+"len": 21411
+},
+{
+"url": "https://www.medigen.com.tw/governance_property",
+"anchor": "智慧財產管理計畫及實施情形",
+"len": 18927
+},
+{
+"url": "https://www.medigen.com.tw/governance_report",
+"anchor": "誠信經營運作執行情形",
+"len": 20010
+},
+{
+"url": "https://www.medigen.com.tw/cn/investor_financial",
+"anchor": "簡體中文",
+"len": 18616
+}
+],
+"pdfs": {
+"https://www.medigen.com.tw/upload/esg_report_120261016152928.pdf": "2025年度永續報告書",
+"https://www.medigen.com.tw/upload/esg_report_120250915172140.pdf": "2024年度永續報告書"
+}
+}

@@ -38,5 +38,17 @@
  "6637": {
   "level": "只是談論",
   "basis": "年報所列 AI 產品屬同業（太豪生醫）與國際大廠之產業描述，非公司自身產品或流程"
+ },
+ "6864": {
+  "level": "已實施",
+  "basis": "年報服務項目清單列有公司自身提供之 AI 輔助電腦模擬藥物設計與最佳化服務",
+  "quotes": [
+   {
+    "text": "AI 輔助電腦模擬藥物設計與最佳化服務",
+    "src": "年報",
+    "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchoice=1&co_id=6864&year=115&mtype=F",
+    "page": "PDF第58頁"
+   }
+  ]
  }
 }

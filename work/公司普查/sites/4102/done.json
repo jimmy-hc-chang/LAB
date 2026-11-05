@@ -1,0 +1,230 @@
+{
+"pages": [
+{
+"url": "http://www.yungzip.com",
+"anchor": "home",
+"len": 23718
+},
+{
+"url": "https://www.yungzip.com/product/86",
+"anchor": "Active Pharmaceutical Ingredients, Excipients",
+"len": 47926
+},
+{
+"url": "https://www.yungzip.com/product/87",
+"anchor": "Speciality Chemical",
+"len": 24070
+},
+{
+"url": "https://www.yungzip.com/product/88",
+"anchor": "Custom Research and Manufacturing Services",
+"len": 22717
+},
+{
+"url": "https://www.yungzip.com/research/17",
+"anchor": "R&D Center",
+"len": 22014
+},
+{
+"url": "https://www.yungzip.com/quality/8",
+"anchor": "Production System",
+"len": 22873
+},
+{
+"url": "https://www.yungzip.com/quality/9",
+"anchor": "Production Equipment",
+"len": 24549
+},
+{
+"url": "https://www.yungzip.com/investors",
+"anchor": "Investor Relations",
+"len": 22845
+},
+{
+"url": "http://www.yungzip.com/product/86",
+"anchor": "Active Pharmaceutical Ingredients, Excipients",
+"len": 47926
+},
+{
+"url": "http://www.yungzip.com/product/87",
+"anchor": "Speciality Chemical",
+"len": 24070
+},
+{
+"url": "http://www.yungzip.com/product/88/82",
+"anchor": "Customized Service",
+"len": 25756
+},
+{
+"url": "https://www.yungzip.com/product",
+"anchor": "Product",
+"len": 23884
+},
+{
+"url": "https://www.yungzip.com/product/86/65",
+"anchor": "Acyclovir",
+"len": 23874
+},
+{
+"url": "https://www.yungzip.com/product/86/66",
+"anchor": "Clonidine Hydrochloride",
+"len": 23921
+},
+{
+"url": "https://www.yungzip.com/product/86/69",
+"anchor": "Deferasirox",
+"len": 23826
+},
+{
+"url": "https://www.yungzip.com/product/86/70",
+"anchor": "Diclofenac Acid",
+"len": 23893
+},
+{
+"url": "https://www.yungzip.com/product/86/72",
+"anchor": "Diclofenac Potassium",
+"len": 24012
+},
+{
+"url": "https://www.yungzip.com/product/86/73",
+"anchor": "Diclofenac Sodium",
+"len": 23900
+},
+{
+"url": "https://www.yungzip.com/product/86/87",
+"anchor": "Diclofenac Sodium (Process II)",
+"len": 24086
+},
+{
+"url": "https://www.yungzip.com/product/86/74",
+"anchor": "Econazole Nitrate",
+"len": 23971
+},
+{
+"url": "https://www.yungzip.com/product/86/75",
+"anchor": "Mefenamic Acid",
+"len": 23906
+},
+{
+"url": "https://www.yungzip.com/product/86/76",
+"anchor": "Metoprolol Succinate",
+"len": 23904
+},
+{
+"url": "https://www.yungzip.com/product/86/77",
+"anchor": "Miconazole Base",
+"len": 23947
+},
+{
+"url": "https://www.yungzip.com/product/86/78",
+"anchor": "Miconazole Nitrate",
+"len": 23893
+},
+{
+"url": "https://www.yungzip.com/product/86/91",
+"anchor": "Sodium Starch Glycolate (Type A)",
+"len": 23999
+},
+{
+"url": "https://www.yungzip.com/product/86/80",
+"anchor": "Valacyclovir Hydrochloride",
+"len": 24058
+},
+{
+"url": "https://www.yungzip.com/product/86/81",
+"anchor": "Zolpidem Tartrate (Form C)",
+"len": 23874
+},
+{
+"url": "https://www.yungzip.com/product/86/85",
+"anchor": "Rivaroxaban",
+"len": 23899
+},
+{
+"url": "https://www.yungzip.com/product/88/82",
+"anchor": "Custom Research and Manufacturing Services Custom Research and Manufacturing Ser",
+"len": 25756
+},
+{
+"url": "https://www.yungzip.com/investors/1",
+"anchor": "Financials",
+"len": 22665
+},
+{
+"url": "https://www.yungzip.com/investors/34",
+"anchor": "Shareholder Services",
+"len": 22736
+},
+{
+"url": "https://www.yungzip.com/investors/32",
+"anchor": "Corporate Governance",
+"len": 22561
+},
+{
+"url": "http://www.yungzip.com/product/86/65",
+"anchor": "Acyclovir",
+"len": 23874
+},
+{
+"url": "http://www.yungzip.com/product/86/66",
+"anchor": "Clonidine Hydrochloride",
+"len": 23921
+},
+{
+"url": "http://www.yungzip.com/product/86/69",
+"anchor": "Deferasirox",
+"len": 23826
+},
+{
+"url": "http://www.yungzip.com/product/86/70",
+"anchor": "Diclofenac Acid",
+"len": 23893
+},
+{
+"url": "http://www.yungzip.com/product/86/72",
+"anchor": "Diclofenac Potassium",
+"len": 24012
+},
+{
+"url": "http://www.yungzip.com/product/86/73",
+"anchor": "Diclofenac Sodium",
+"len": 23900
+},
+{
+"url": "http://www.yungzip.com/product/86/87",
+"anchor": "Diclofenac Sodium (Process II)",
+"len": 24086
+},
+{
+"url": "http://www.yungzip.com/product/86/74",
+"anchor": "Econazole Nitrate",
+"len": 23971
+},
+{
+"url": "http://www.yungzip.com/product/86/75",
+"anchor": "Mefenamic Acid",
+"len": 23906
+},
+{
+"url": "http://www.yungzip.com/product/86/76",
+"anchor": "Metoprolol Succinate",
+"len": 23904
+},
+{
+"url": "http://www.yungzip.com/product/86/77",
+"anchor": "Miconazole Base",
+"len": 23947
+},
+{
+"url": "http://www.yungzip.com/product/86/78",
+"anchor": "Miconazole Nitrate",
+"len": 23893
+},
+{
+"url": "http://www.yungzip.com/product/86/91",
+"anchor": "Sodium Starch Glycolate (Type A)",
+"len": 23999
+}
+],
+"pdfs": {}
+}

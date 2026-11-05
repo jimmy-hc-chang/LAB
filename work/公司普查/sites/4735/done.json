@@ -1,0 +1,60 @@
+{
+"pages": [
+{
+"url": "http://www.avita.com.tw",
+"anchor": "home",
+"len": 107052
+},
+{
+"url": "https://www.avita.com.tw/en/products/non-contact-thermometer/",
+"anchor": "Non-Contact Thermometer",
+"len": 78850
+},
+{
+"url": "https://www.avita.com.tw/en/products/infrared-forehead-thermometer/",
+"anchor": "Infrared Ear/Forehead Thermometer",
+"len": 76953
+},
+{
+"url": "https://www.avita.com.tw/en/products/infrared-ear-thermometer/",
+"anchor": "Infrared Ear Thermometer",
+"len": 73139
+},
+{
+"url": "https://www.avita.com.tw/en/products/wrist-type-blood-pressure-monitor/",
+"anchor": "Wrist Type Blood Pressure Monitor",
+"len": 74591
+},
+{
+"url": "https://www.avita.com.tw/en/products/arm-type-blood-pressure-monitor/",
+"anchor": "Arm Type Blood Pressure Monitor",
+"len": 83385
+},
+{
+"url": "https://www.avita.com.tw/en/products/battery-operated-nasal-aspirator/",
+"anchor": "Nasal Aspirator",
+"len": 76188
+},
+{
+"url": "https://www.avita.com.tw/en/products/electronic-lice-comb/",
+"anchor": "Electronic Lice Comb",
+"len": 61697
+},
+{
+"url": "http://www.avita.com.tw/products/non-contact-thermometer/",
+"anchor": "",
+"len": 78850
+},
+{
+"url": "http://www.avita.com.tw/products/infrared-forehead-thermometer/",
+"anchor": "",
+"len": 76953
+},
+{
+"url": "http://www.avita.com.tw/products/infrared-ear-thermometer/",
+"anchor": "",
+"len": 73139
+}
+],
+"pdfs": {}
+}

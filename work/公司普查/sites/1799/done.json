@@ -1,0 +1,25 @@
+{
+"pages": [
+{
+"url": "http://www.easywellbio.com",
+"anchor": "home",
+"len": 22068
+},
+{
+"url": "http://www.easywellbio.com/goods.php",
+"anchor": "PRODUCTS",
+"len": 22068
+},
+{
+"url": "http://www.easywellbio.com/goods_acting.php",
+"anchor": "products",
+"len": 22068
+},
+{
+"url": "http://www.easywellbio.com/esg.php",
+"anchor": "Sustainability",
+"len": 22068
+}
+],
+"pdfs": {}
+}

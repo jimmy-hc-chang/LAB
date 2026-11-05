@@ -1,0 +1,118 @@
+{
+"pages": [
+{
+"url": "https://www.pellbmt.com",
+"anchor": "home",
+"len": 40227
+},
+{
+"url": "https://www.pellbmt.com/service_info.asp?id=1085",
+"anchor": "研發進程",
+"len": 33166
+},
+{
+"url": "https://www.pellbmt.com/product_list.asp?id=11",
+"anchor": "脂肪幹細胞ADSC",
+"len": 31863
+},
+{
+"url": "https://www.pellbmt.com/product_list.asp?id=12",
+"anchor": "免疫細胞CIK",
+"len": 32043
+},
+{
+"url": "https://www.pellbmt.com/product_list.asp?id=13",
+"anchor": "免疫細胞DC-CIK",
+"len": 31686
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=18",
+"anchor": "月營收資訊",
+"len": 34209
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=6",
+"anchor": "財務報告",
+"len": 42345
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=22",
+"anchor": "年度行事曆",
+"len": 31074
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=45",
+"anchor": "股東會資訊",
+"len": 31159
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=24",
+"anchor": "股價查詢",
+"len": 29863
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=25",
+"anchor": "股利政策及股利分派情形",
+"len": 31764
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=26",
+"anchor": "主要（前十大）股東名單",
+"len": 33063
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=27",
+"anchor": "法人說明會",
+"len": 39832
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=49",
+"anchor": "集保eCounter 平台",
+"len": 29953
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=28",
+"anchor": "投資人聯繫窗口",
+"len": 30448
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=23",
+"anchor": "股票過戶機構聯絡方式",
+"len": 30237
+},
+{
+"url": "https://www.pellbmt.com/investor.asp?id=5",
+"anchor": "公司重大訊息",
+"len": 29934
+},
+{
+"url": "https://www.pellbmt.com/social.asp?id=47",
+"anchor": "永續發展願景",
+"len": 33332
+},
+{
+"url": "https://www.pellbmt.com/social.asp?id=50",
+"anchor": "永續報告書",
+"len": 34451
+},
+{
+"url": "https://www.pellbmt.com/product_list.asp",
+"anchor": "查看詳細",
+"len": 40227
+},
+{
+"url": "https://www.pellbmt.com/service_list.asp?id=9",
+"anchor": "技術平台",
+"len": 34527
+},
+{
+"url": "https://www.pellbmt.com/social.asp?id=14",
+"anchor": "企業社會責任",
+"len": 32108
+}
+],
+"pdfs": {
+"https://www.pellbmt.com/upload/ckeditor/files/沛爾_115年年報_Final.pdf": "股東會年報",
+"https://www.pellbmt.com/upload/ckeditor/files/持股比例占前十名之股東，其相互間之關係資料.pdf": "年報前十大股東相互間關係表"
+}
+}

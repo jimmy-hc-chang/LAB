@@ -1,0 +1,35 @@
+{
+"pages": [
+{
+"url": "https://navifus.com/",
+"anchor": "home",
+"len": 167066
+},
+{
+"url": "https://navifus.com/technology/",
+"anchor": "TECHNOLOGY",
+"len": 162170
+},
+{
+"url": "https://navifus.com/investor-relations/",
+"anchor": "INVESTORS",
+"len": 221771
+},
+{
+"url": "https://navifus.com/investor-relations",
+"anchor": "INVESTOR RELATIONS",
+"len": 221771
+}
+],
+"pdfs": {
+"https://navifus.com/wp-content/uploads/2026/08/115年股東會年報.pdf": "115年股東會年報",
+"https://navifus.com/wp-content/uploads/2026/08/115年股東會年報_英文版.pdf": "115年股東會年報_英文版",
+"https://navifus.com/wp-content/uploads/2025/05/114年股東會年報.pdf": "114年股東會年報",
+"https://navifus.com/wp-content/uploads/2025/05/114年股東會年報_英文版.pdf": "114年股東會年報_英文版",
+"https://navifus.com/wp-content/uploads/2024/06/113年股東會年報.pdf": "113年股東會年報",
+"https://navifus.com/wp-content/uploads/2024/04/112年股東會年報.pdf": "112年股東會年報",
+"https://navifus.com/wp-content/uploads/2024/04/111年股東會年報.pdf": "111年股東會年報",
+"https://navifus.com/wp-content/uploads/2025/08/浩宇生醫2024年永續報告書.pdf": "113年度永續報告書下載",
+"https://navifus.com/wp-content/uploads/2026/08/浩宇生醫2025年永續報告書_上傳.pdf": "114年度永續報告書下載"
+}
+}

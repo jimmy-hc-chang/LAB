@@ -1,0 +1,92 @@
+{
+"pages": [
+{
+"url": "https://elixiron.com",
+"anchor": "home",
+"len": 26550
+},
+{
+"url": "https://elixiron.com/pipeline.php",
+"anchor": "Pipeline 新藥產品進程",
+"len": 17315
+},
+{
+"url": "https://elixiron.com/platform.php",
+"anchor": "Platform 研發技術平台",
+"len": 12079
+},
+{
+"url": "https://elixiron.com/financial.php",
+"anchor": "Financial Information 財務資訊",
+"len": 14176
+},
+{
+"url": "https://elixiron.com/shareholders.php",
+"anchor": "Shareholders Section 股東專區",
+"len": 15503
+},
+{
+"url": "https://elixiron.com/investor.php",
+"anchor": "Investor Relations 法人說明會",
+"len": 15117
+},
+{
+"url": "https://elixiron.com/sustainable-management.php",
+"anchor": "Sustainable Management 永續經營",
+"len": 10564
+},
+{
+"url": "https://elixiron.com/environmental.php",
+"anchor": "Environmental 環境永續",
+"len": 12249
+},
+{
+"url": "https://elixiron.com/esg-database.php",
+"anchor": "ESG Database ESG資料庫",
+"len": 11305
+},
+{
+"url": "https://elixiron.com/platform-detail.php?id=2",
+"anchor": "MORE 閱讀更多",
+"len": 14262
+},
+{
+"url": "https://elixiron.com/platform-detail.php?id=3",
+"anchor": "MORE 閱讀更多",
+"len": 14081
+},
+{
+"url": "https://elixiron.com/platform-detail.php?id=6",
+"anchor": "MORE 閱讀更多",
+"len": 13886
+},
+{
+"url": "https://elixiron.com/shareholders.php?rid=10",
+"anchor": "Stock Affairs Agent",
+"len": 14320
+},
+{
+"url": "https://elixiron.com/investor.php?rid=12",
+"anchor": "Investor Conference Information",
+"len": 15117
+},
+{
+"url": "https://elixiron.com/investor.php?rid=11",
+"anchor": "Investor Conference Presentation",
+"len": 15090
+},
+{
+"url": "https://elixiron.com/investor.php?rid=4",
+"anchor": "Video Recording of the Legal Conference",
+"len": 14781
+},
+{
+"url": "https://elixiron.com/esg-database.php?rid=6",
+"anchor": "2023年度報告書 en",
+"len": 11305
+}
+],
+"pdfs": {
+"https://elixiron.com/upload/2026_04_21_1733331.pdf": "Announcement of Board Resolution to Convene the 2026 Annual General Meeting"
+}
+}
